@@ -41,6 +41,10 @@ jobs:
         if: steps.check-active.outputs.active == 'true'
         run: npm ci
 
+      - name: Download game cache
+        if: steps.check-active.outputs.active == 'true'
+        run: npm run cli -- cache update
+
       - name: Re-scrape wiki data
         if: steps.check-active.outputs.active == 'true'
         run: npm run cli -- tasks update-wiki ${{ steps.check-active.outputs.task_type }}
