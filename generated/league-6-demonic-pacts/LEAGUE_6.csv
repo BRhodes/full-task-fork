@@ -1,0 +1,1604 @@
+structId,sortId,name,description,area,category,skill,tier,tierName,completionPercent,skills,wikiNotes
+,0,Activate a prayer near an altar,Activate a prayer near an altar.,,,,1,Easy,84.7,,
+,1,Bury 6 bones,Bury 6 bones of any kind.,,,,1,Easy,67.7,,
+,2,Perform a Special Attack,Perform any special attack.,,,,1,Easy,0.7,,
+,3,Reach Combat Level 25,Reach Combat level 25.,,,,1,Easy,46.7,,
+,4,Shoot 6 iron arrows,Shoot 6 iron arrows.,,,,1,Easy,38.2,,
+,5,Defeat a Chicken,Defeat a chicken.,,,,1,Easy,71.1,,
+,6,Defeat a Hill Giant,Defeat a hill giant. This task earns one Demonic Pact.,,,,1,Easy,38,,
+,7,Defeat a Frog,Defeat a frog.,,,,1,Easy,41.2,,
+,8,Defeat a Rat,Defeat a rat.,,,,1,Easy,66.8,,
+,9,Defeat a scorpion,Defeat a scorpion.,,,,1,Easy,31.7,,
+,10,Defeat an Imp with an earth spell,Defeat an imp with an earth spell.,,,,1,Easy,31.5,MAGIC 9,9 Magic
+,11,Equip a Tyras helm,Equip a Tyras helm.,,,,1,Easy,37.5,DEFENCE 5,5 Defence
+,12,Equip an Elemental Staff,Equip a basic elemental staff.,,,,1,Easy,53.5,,
+,13,Equip an Iron dagger,Equip an iron dagger.,,,,1,Easy,38.9,,
+,14,Attack a dummy,Attack a dummy.,,,,1,Easy,74.5,,
+,15,Complete the Leagues Tutorial,Complete the Leagues Tutorial and begin your adventure. This task earns one Demonic Pact.,,,,1,Easy,98.5,,
+,16,Dye a cape Purple,Dye a cape purple.,,,,1,Easy,41.2,,
+,17,Eat a Rabbit,Eat a cooked rabbit.,,,,1,Easy,61.3,,
+,18,Eat an Onion,"Eat an onion, raw.",,,,1,Easy,73.7,,
+,19,Feed a dog some bones,"Feed a dog (e.g., Chiribaya) some bones.",,,,1,Easy,71.9,,
+,20,Get a haircut,Go and get a haircut.,,,,1,Easy,37,,
+,21,Open the Leagues Menu,Open the Leagues menu found within the journal panel. This task earns one Demonic Pact.,,,,1,Easy,99,,
+,22,Pick 6 flax,Pick 6 flax.,,,,1,Easy,59.9,,
+,23,"Pick 6 wheat, 6 cabbages and 6 potatoes","Pick 6 wheat, 6 cabbage, and 6 potatoes.",,,,1,Easy,71.2,,
+,24,Talk to any Port master,Talk to any port master.,,,,1,Easy,67.4,,
+,25,Turn off your run,Turn off your run.,,,,1,Easy,81.3,,
+,26,Achieve Your First Level 10,Reach level 10 in any skill (not including Agility and Hitpoints).,,,,1,Easy,95.4,,
+,27,Achieve Your First Level 5,"Reach level 5 in any skill (not including Agility, Hitpoints and Runecraft).",,,,1,Easy,96.4,,
+,28,Achieve Your First Level Up,Level up any of your skills for the first time.,,,,1,Easy,96.7,,
+,29,Burn Some Food,Burn any kind of food while trying to cook it.,,,,1,Easy,78.7,,
+,30,Burn Some Normal Logs,Burn some normal logs.,,,,1,Easy,85.5,,
+,31,Burn Some Oak Logs,Burn some oak logs.,,,,1,Easy,62.7,FIREMAKING 15,15 Firemaking
+,32,Cast Home Teleport,Cast the Home Teleport spell.,,,,1,Easy,87.1,,
+,33,Catch a Baby Impling,Catch a baby impling.,,,,1,Easy,17.9,HUNTER 17,17 Hunter
+,34,Catch a Herring,Catch a raw herring whilst fishing.,,,,1,Easy,36.8,FISHING 10,10 Fishing
+,35,Catch a Shrimp,Catch raw shrimp while fishing.,,,,1,Easy,67.2,,
+,36,Catch an Anchovy,Catch a raw anchovy whilst fishing.,,,,1,Easy,61.7,FISHING 15,15 Fishing
+,37,Chop Some Logs,Chop any kind of logs.,,,,1,Easy,91.8,,Any axe
+,38,Chop Some Logs With a Steel Axe,Chop any kind of logs using a steel axe.,,,,1,Easy,55,WOODCUTTING 6,6 Woodcutting
+,39,Clean 15 Grimy Tarromin,Clean 15 grimy tarromin.,,,,1,Easy,6.4,HERBLORE 11,11 Herblore
+,40,Clean 25 Grimy Guam Leafs,Clean 25 grimy guam leaves.,,,,1,Easy,5,,
+,41,Clean a Grimy Guam,Clean a grimy guam leaf.,,,,1,Easy,13.8,,
+,42,Cook Shrimp,Cook raw shrimps.,,,,1,Easy,61.3,,
+,43,Cook something with an apron,Cook something with an apron equipped.,,,,1,Easy,55.2,,
+,44,Craft Leather chaps,Craft leather chaps.,,,,1,Easy,27.4,CRAFTING 18,18 Crafting
+,45,Create an Antipoison,Create an antipoison.,,,,1,Easy,0.9,HERBLORE 5,5 Herblore
+,46,Cut a Ruby,Cut a ruby.,,,,1,Easy,58.8,CRAFTING 34,34 Crafting
+,47,Drink a Strength Potion,Drink a strength potion.,,,,1,Easy,5.7,,
+,48,Enter your Player Owned House,Enter your player-owned house.,,,,1,Easy,26.3,,"1,000 coins"
+,49,Fletch an Oak Shortbow,Fletch an oak shortbow.,,,,1,Easy,34.9,FLETCHING 20; WOODCUTTING 15,20 Fletching  15 Woodcutting if chopping own log
+,50,Fletch Some Arrow Shafts,Fletch some arrow shafts.,,,,1,Easy,76.7,,
+,51,Light a Torch,Light a torch.,,,,1,Easy,59.6,,
+,52,Make an Attack Potion,Make an attack potion.,,,,1,Easy,3.9,,
+,53,Mine 5 Tin Ore,Mine 5 tin ore.,,,,1,Easy,52,,
+,54,Mine some Clay,Mine some clay.,,,,1,Easy,48,,
+,55,Mine some Ore With a Steel Pickaxe,Mine any ore using a steel pickaxe.,,,,1,Easy,36.9,MINING 6,6 Mining
+,56,Obtain a Bird Nest,Obtain a bird nest whilst cutting down trees.,,,,1,Easy,57.9,,
+,57,Obtain a Casket from Fishing,Obtain a casket from fishing.,,,,1,Easy,49.8,FISHING 16,16 Fishing
+,58,Pickpocket a Citizen,Pickpocket a man or a woman.,,,,1,Easy,92.9,,
+,59,Plant Seeds in an Allotment Patch,Plant some seeds in an allotment patch.,,,,1,Easy,22,,Seed dibber
+,60,Protect Your Crops,Pay a farmer to protect any of your crops.,,,,1,Easy,18.3,,Items requested by the farmer to protect the crop
+,61,Purchase a Player Owned House,Purchase a player-owned house.,,,,1,Easy,42.7,,"1,000 coins"
+,62,Rake a Flower Patch,Rake a flower patch.,,,,1,Easy,69,,
+,63,Sell some silk to a silk trader,Sell some silk to a silk trader.,,,,1,Easy,50,,
+,64,Smelt a Bronze Bar,Use a furnace to smelt a bronze bar.,,,,1,Easy,45.9,,
+,65,Smelt an Iron Bar,Use a furnace to smelt an iron bar.,,,,1,Easy,21.8,SMITHING 15,15 Smithing
+,66,Snare 15 Tropical Wagtails,Snare 15 tropical wagtails.,,,,1,Easy,24.2,HUNTER 19,19 Hunter
+,67,Snare 5 Crimson Swifts,Snare 5 crimson swifts.,,,,1,Easy,35.5,,
+,68,Snare a Bird,Catch any bird with a bird snare.,,,,1,Easy,40.7,,
+,69,Spin a Ball of Wool,Use a spinning wheel to spin a ball of wool.,,,,1,Easy,51.3,,
+,70,Steal some bread,Steal some bread from a bakery stall.,,,,1,Easy,80.8,THIEVING 5,5 Thieving
+,71,Successfully Cut a Red Topaz,Successfully cut a red topaz.,,,,1,Easy,4.2,CRAFTING 16,16 Crafting Chisel
+,72,Turn any Logs Into a Plank,Use a sawmill to turn logs into a plank.,,,,1,Easy,51.9,,Logs and 100 coins
+,73,Witness the gemstone Crab burrow away,Witness the gemstone crab burrow away.,,,,1,Easy,45.3,,
+,74,Defeat a Buffalo,Defeat a Buffalo.,,,,1,Easy,58.7,,
+,75,Defeat a Guard in Varlamore underground,Defeat a Guard in Varlamore underground.,,,,1,Easy,22.9,,
+,76,Defeat a Seagull,Defeat a Seagull.,,,,1,Easy,64.6,,
+,77,Defeat a thief,Defeat a thief.,,,,1,Easy,27,,
+,78,Defeat an Icefiend in Varlamore,Defeat an Icefiend in Varlamore.,,,,1,Easy,23.5,,
+,79,Defeat an Imp in a basement,Defeat an Imp in the Kastori basement in Varlamore.,,,,1,Easy,28.4,,
+,80,Give Oli some Stew,Give Oli some Stew in Civitas illa Fortis.,,,,1,Easy,59.8,,
+,81,Milk a Buffalo,Milk a Buffalo.,,,,1,Easy,72.7,,
+,82,Pet a Caique,Pet a Caique near the statue of Ates in Kastori or in the north of the Tlati Rainforest.,,,,1,Easy,34.5,,
+,83,Pet Renu,Pet Renu.,,,,1,Easy,79.5,,
+,84,Pet Xolo in Civitas,Pet Xolo in Civitas illa Fortis.,,,,1,Easy,72.6,,
+,85,Pick some Sweetcorn from a Field,Pick some Sweetcorn from a Field.,,,,1,Easy,73.2,,
+,86,Salute next to a statue of Quoatlos,Salute next to a statue of Quoatlos.,,,,1,Easy,67.5,,
+,87,Scatter some Ashes in Yama's lair,Scatter some Ashes in Yama's lair.,,,,1,Easy,33.1,,
+,88,Shear an Alpaca,Shear an Alpaca.,,,,1,Easy,59.7,,
+,89,Sit near a stolen cabbage,Sit near a stolen cabbage.,,,,1,Easy,64,,
+,90,Step onto an Ent trail,Step onto an Ent trail.,,,,1,Easy,65.5,,
+,91,Talk to a Gladiator,Talk to a Gladiator.,,,,1,Easy,65.7,,
+,92,Travel in Achilka's boat,Travel in Achilka's boat at one of her destinations along the River Varla.,,,,1,Easy,42.7,,
+,93,Travel to Aldarin via Fairy ring,Travel to Aldarin via Fairy ring.,,,,1,Easy,61.6,,
+,94,Travel using the Quetzal Transport System,Travel using the Quetzal Transport System.,,,,1,Easy,85.5,,
+,95,Inspect a green flame,"Inspect a Green flame, near the Salvager Overlook.",,,,1,Easy,6.4,,
+,96,Admire some beautiful scenery,Admire some beautiful scenery in Auburnvale or the Auburn Valley.,,,,1,Easy,57.2,,
+,97,Bow near a quetzal,Bow near a quetzal.,,,,1,Easy,77.5,,
+,98,Charter a Ship From Sunset Coast to Civitas,Take a Charter Ship from Sunset Coast to Civitas illa Fortis.,,,,1,Easy,43.2,,500 coins
+,99,Cry near a child,Cry near a child.,,,,1,Easy,77.4,,
+,100,Dance near a bard,Dance near a bard.,,,,1,Easy,52.2,,
+,101,Drink a cup of tea in auburn valley,Drink a cup of tea in the Nemus Retreat or the Auburn Valley. NOTE: Drinking in Auburnvale does NOT complete this task.,,,,1,Easy,32.7,,
+,102,Drink from a bird bath,Drink from a bird bath.,,,,1,Easy,71.8,,
+,103,Drink some moon-lite,Drink some moon-lite.,,,,1,Easy,61.4,,
+,104,Exit civitas via the secret passage,Exit Civitas illa Fortis via the secret passage.,,,,1,Easy,23.5,,
+,105,Fill a bucket with sand at the Sunset coast,Fill a bucket with sand at the Sunset coast.,,,,1,Easy,48.5,,
+,106,Fill something up from a water pump,Fill something up from a water pump.,,,,1,Easy,70.2,,
+,107,Complete the Vale totems miniquest,Complete the Vale Totems miniquest.,,,,1,Easy,32.2,FLETCHING 20,20 Fletching
+,108,Mine some Coal from Stonecutter Outpost,Mine some coal from Stonecutter Outpost.,,,,1,Easy,28.9,MINING 30,30 Mining
+,109,Trim your beard in Cam torum,Trim your beard in Cam Torum.,,,,1,Easy,31.5,,
+,110,Chop a tree in the Tlati Rainforest,Chop a tree in the Tlati Rainforest.,,,,1,Easy,49.4,,
+,111,Defeat a Snake in Karamja,Defeat a Snake in Karamja.,,,,1,Easy,10,,
+,112,Receive an Agility Arena Ticket,Receive an Agility Arena Ticket from the Brimhaven Agility Arena.,,,,1,Easy,9.8,,
+,113,Pick a Pineapple on Karamja,Pick a Pineapple on Karamja.,,,,1,Easy,8.8,,
+,114,Fill a Crate With Bananas,Fill a crate with Bananas for Luthas at Musa Point.,,,,1,Easy,9.4,,
+,115,Catch a Karambwanji,Catch a Karambwanji on Karamja.,,,,1,Easy,6.2,FISHING 5,5 Fishing
+,116,Defeat a Port Sarim prisoner,Defeat a port sarim prisoner.,,,,1,Easy,41.7,,
+,117,Defeat a Troll in Asgarnia,Defeat a troll in Asgarnia. This task earns one Demonic Pact.,,,,1,Easy,47.9,,
+,118,Defeat a Black Knight in Asgarnia,Defeat a Black Knight in Asgarnia.,,,,1,Easy,39.6,,
+,119,Complete a Game of Novice Pest Control,Complete a game of Novice   Pest Control or higher.,,,,1,Easy,NaN,,40 Combat level
+,120,Talk to the Mysterious Old Man in Falador,Talk to the Mysterious Old Man in Falador.,,,,1,Easy,35.4,,
+,121,Use the Falador Party room,Deposit an item into the Falador Party room chest.,,,,1,Easy,39.6,,
+,122,Balance 5 barrels on your head,Balance 5 barrels on your head in the Warriors' Guild.,,,,1,Easy,NaN,ATTACK 99; STRENGTH 99,99 Attack or  99 Strength or a combined Attack and Strength level of 130
+,123,Become a mushroom,Have Malignius Mortifer turn you into a mushroom.,,,,1,Easy,33.3,,
+,124,Enter the Taverley Dungeon,Enter the Taverley Dungeon.,,,,1,Easy,35.4,,
+,125,Give Thurgo a redberry pie,Give Thurgo a redberry pie.,,,,1,Easy,NaN,COOKING 10,"10 Cooking, or  Wilderness✓ Partial completion of   The Knight's Sword"
+,126,Craft an Air Rune,Craft an Air Rune from Essence at the Air Altar.,,,,1,Easy,6.2,,
+,127,Set a Mummy ablaze,Set a mummy on fire with fire spells or fire arrows. This task earns one Demonic Pact.,,,,1,Easy,45.7,MAGIC 13,13 Magic or  Tirannwn✓ for access to oily cloth
+,128,Defeat a Billy Goat,Defeat a Billy Goat.,,,,1,Easy,42.9,,
+,129,Defeat an Al Kharid Warrior,Defeat an Al Kharid warrior.,,,,1,Easy,60,,
+,130,Defeat Tempoross 1 time,Help the Spirit Anglers defeat Tempoross.,,,,1,Easy,25.7,FISHING 35,35 Fishing
+,131,Pick a Winter Sq'irk,Pick a Winter Sq'irk in the Sorceress's Garden.,,,,1,Easy,14.3,,
+,132,Room 1 of Pyramid Plunder,Search the Golden Chest in Room 1 of Pyramid Plunder in Sophanem.,,,,1,Easy,28.6,THIEVING 21,21 Thieving
+,133,Room 2 of Pyramid Plunder,Search the Golden Chest in Room 2 of Pyramid Plunder in Sophanem.,,,,1,Easy,34.3,THIEVING 31,31 Thieving
+,134,Room 3 of Pyramid Plunder,Search the Golden Chest in Room 3 of Pyramid Plunder in Sophanem.,,,,1,Easy,34.3,THIEVING 41,41 Thieving
+,135,Pick up a cabbage in the Citharede Abbey,Pick up a Cabbage in the Citharede Abbey.,,,,1,Easy,31.4,,
+,136,Take a Carpet Ride from Pollnivneach to Sophanem,Take a carpet ride from Pollnivneach to Sophanem.,,,,1,Easy,37.1,,
+,137,Use the Bank in Nardah,Use the Bank in Nardah.,,,,1,Easy,31.4,,
+,138,Cut a Cactus in the Kharidian Desert,Cut a cactus in the Kharidian Desert.,,,,1,Easy,34.3,,
+,139,Drink some of Ali's tea,Drink a cup of tea in Ali the Tea Seller's house.,,,,1,Easy,8.6,,
+,140,Catch a Salmon,Catch a Salmon in the Desert.,,,,1,Easy,5.7,FISHING 30,30 Fishing Partial completion of   Spirits of the Elid
+,141,Complete the Al Kharid Agility Course,Complete a lap of the Al Kharid Rooftop Agility Course.,,,,1,Easy,48.6,AGILITY 20,20 Agility
+,142,Craft a Fire Rune,Craft a Fire Rune from Essence at the Fire Altar.,,,,1,Easy,2.9,RUNECRAFT 14,14 Runecraft
+,143,Defeat a Rooster,Defeat a Rooster in the Fremennik Province.,,,,1,Easy,100,,
+,144,Defeat a Yak,Defeat a yak.,,,,1,Easy,100,,
+,145,Defeat a Cockatrice in the Fremennik Province,Defeat a cockatrice in the Fremennik Province. This task earns one Demonic Pact.,,,,1,Easy,50,SLAYER 25,25 Slayer
+,146,Defeat a Pyrefiend in the Fremennik Province,Defeat a Pyrefiend in the Fremennik Province.,,,,1,Easy,NaN,SLAYER 30,30 Slayer
+,147,Defeat a Rock Crab in the Fremennik Province,Defeat a Rock Crab in the Fremennik Province.,,,,1,Easy,50,,
+,148,Pick up Snapegrass,Pick up Snapegrass from Lunar Isle.,,,,1,Easy,50,,
+,149,Use the Bank on Jatizso,Use the Bank on Jatizso.,,,,1,Easy,100,,
+,150,Use the Bank on Lunar Isle,Use the Bank on Lunar Isle.,,,,1,Easy,50,,
+,151,Use the Bank on Neitiznot,Use the Bank on Neitiznot.,,,,1,Easy,100,,
+,152,Deposit an Item Using Peer the Seer,Deposit an item into your Bank using Peer the Seer.,,,,1,Easy,NaN,,Completion of the   Easy Fremennik Diary
+,153,Switch to the Lunar Spellbook,Switch to the Lunar Spellbook.,,,,1,Easy,50,,
+,154,Catch a Cerulean Twitch,Catch a Cerulean Twitch.,,,,1,Easy,50,HUNTER 11,11 Hunter
+,155,Catch a Polar Kebbit,Catch a Polar Kebbit.,,,,1,Easy,50,,
+,156,Chop down an arctic pine tree,Chop down an arctic pine tree.,,,,1,Easy,50,WOODCUTTING 54,54 Woodcutting
+,157,Cut the Swaying Tree,Cut the Swaying Tree.,,,,1,Easy,50,WOODCUTTING 40,40 Woodcutting
+,158,Defeat Salarin the Twisted,Defeat Salarin the twisted in Yanille Agility Dungeon.,,,,1,Easy,5.5,AGILITY 67,"67 Agility Strike spells, ring of recoil, or dynamite(p) to damage him"
+,159,Defeat a Fire Giant in Kandarin,Defeat a Fire Giant in Kandarin.,,,,1,Easy,11.7,,
+,160,Get Stung By Bees,Get stung by bees at the Beehives.,,,,1,Easy,46.5,,
+,161,Buy Jack's legendary rod,Buy Grandpa Jack's competition winning fishing rod.,,,,1,Easy,23.2,,
+,162,Pick Wheat in Catherby,Pick some wheat in the field by the Catherby Farming patches.,,,,1,Easy,43.4,,
+,163,Receive a gift from Arnold,Talk to Arnold Lydspor and receive a gift.,,,,1,Easy,15.3,,
+,164,Visit the Tree Gnome Stronghold,Visit the Tree Gnome Stronghold.,,,,1,Easy,55,,
+,165,Visit the Tree Gnome Village,Visit the Tree Gnome Village.,,,,1,Easy,49.7,,
+,166,Brimstail Rune Essence Mine teleport,Have Brimstail teleport you to the Rune Essence Mine.,,,,1,Easy,34.8,,
+,167,Drink a Poison Chalice,Drink a Poison Chalice.,,,,1,Easy,30.1,,
+,168,Catch a Crimson Swift in the Feldip Hills,Catch a Crimson Swift in the Feldip Hills.,,,,1,Easy,17.9,,
+,169,Catch a wild kebbit,Catch a wild kebbit.,,,,1,Easy,14.4,HUNTER 23,23 Hunter
+,170,Complete the Gnome Stronghold Agility Course,Complete a lap of the Gnome Stronghold Agility Course.,,,,1,Easy,49.3,,
+,171,Open 1 Grubby Chest,Open the grubby chest in the Forthos Dungeon. This task earns one Demonic Pact.,,,,1,Easy,2.6,THIEVING 57,57 Thieving
+,172,Defeat a Barbarian in Kourend,Defeat a Barbarian in Kourend.,,,,1,Easy,29.2,,
+,173,Defeat the Wintertodt 1 time,Help the pyromancers defeat the Wintertodt.,,,,1,Easy,7.4,FIREMAKING 50,50 Firemaking
+,174,Equip a Protest Banner,Equip a Protest Banner.,,,,1,Easy,28.4,,
+,175,Travel to Molch Island,Take one of the boats around Lake Molch to Molch Island.,,,,1,Easy,32.5,,
+,176,Use the Mine cart transportation System,Use the Mine cart transportation System.,,,,1,Easy,46.9,,
+,177,Bank at Land's End,Open your Bank using the Bank at Land's End.,,,,1,Easy,32.8,,
+,178,Bank at Mount Quidamortem,Open your Bank using the Bank at Mount Quidamortem.,,,,1,Easy,34.7,,
+,179,Drink a LizardKicker,Drink a LizardKicker.,,,,1,Easy,27.7,,
+,180,Enter Level 3 of the Chasm of Fire,Enter the 3rd level of the Chasm of Fire in Shayzien.,,,,1,Easy,7.4,,
+,181,Talk to the Voice of Yama,Talk to the Voice of Yama.,,,,1,Easy,34.3,,
+,182,Repair a Fishing Crane,Repair a Fishing Crane.,,,,1,Easy,2.2,CONSTRUCTION 30; CRAFTING 30,"30 Construction,  30 Crafting"
+,183,Turn in 1 Library Book,Find and turn in a book in the Arceuus Library.,,,,1,Easy,22.5,,
+,184,Complete 1 Farming Contract,Complete a Farming Contract for Guildmaster Jane in the Farming Guild.,,,,1,Easy,3.3,FARMING 45,45 Farming
+,185,Complete the Shayzien Basic Agility Course,Complete a lap of the Shayzien Basic Agility Course.,,,,1,Easy,30.3,,
+,186,Defeat a Werewolf in Morytania,Defeat a werewolf in Morytania. This task earns one Demonic Pact.,,,,1,Easy,55.9,,
+,187,Defeat a Snail,Defeat a snail within Morytania.,,,,1,Easy,23.5,,
+,188,Open a Bronze Chest,Open a Bronze Chest from Shades of Mort'ton.,,,,1,Easy,NaN,FIREMAKING 5,5 Firemaking Completion of   Shades of Mort'ton
+,189,Complete an Easy Temple Trek,Complete an Easy Temple Trek.,,,,1,Easy,17.6,,
+,190,Visit Harmony Island,Visit Harmony Island.,,,,1,Easy,14.7,,
+,191,Visit Mos Le'Harmless,Visit Mos Le'Harmless.,,,,1,Easy,17.6,,
+,192,Visit Port Phasmatys,Visit Port Phasmatys.,,,,1,Easy,26.5,,
+,193,Enter the Haunted mine,"Enter the haunted mine, if you dare...",,,,1,Easy,11.8,,
+,194,Craft a Snelm,Craft any Snelm.,,,,1,Easy,23.5,CRAFTING 15,15 Crafting
+,195,Defeat a Moss Giant in Tirannwn,Defeat a Moss Giant in Tirannwn.,,,,1,Easy,20.7,,
+,196,Talk to Ilfeen in Tirannwn,Talk to Ilfeen in Tirannwn.,,,,1,Easy,26.8,,
+,197,Use the Bank in Lletya,Use the Bank in Lletya.,,,,1,Easy,13.5,,
+,198,Charter a Ship From Prifddinas to Port Tyras,Take a Charter Ship from Prifddinas to Port Tyras.,,,,1,Easy,20.7,,
+,199,Cook a Rabbit in Tirannwn,Cook a Rabbit anywhere within Tirannwn.,,,,1,Easy,30,,
+,200,Cross a Trap in Isafdar,Successfully cross any kind of trap in Isafdar.,,,,1,Easy,19,,
+,201,Defeat a Chaos Dwarf in the Wilderness,Defeat a chaos dwarf in the Wilderness. This task earns one Demonic Pact.,,,,1,Easy,71.9,,
+,202,Defeat a Fire Giant in the Wilderness,Defeat a Fire Giant in the Wilderness.,,,,1,Easy,28.8,,
+,203,Defeat a Mammoth,Defeat a mammoth in the Wilderness.,,,,1,Easy,36.7,,
+,204,Defeat a Zombie Pirate,Defeat a zombie pirate.,,,,1,Easy,34.5,,
+,205,Equip any Team cape,Equip any team cape in the Wilderness.,,,,1,Easy,37.1,,
+,206,Open a Looting Bag,Open a Looting Bag.,,,,1,Easy,66.2,,
+,207,Use the Bank at the Mage Arena,Use the Bank at the Mage Arena.,,,,1,Easy,37.8,,
+,208,Visit Ferox Enclave,Visit Ferox Enclave.,,,,1,Easy,80.9,,
+,209,Enter the Wilderness God Wars Dungeon,Enter the Wilderness God Wars Dungeon.,,,,1,Easy,14,,
+,210,Enter the Wilderness Resource Area,Enter the Wilderness Resource Area.,,,,1,Easy,21.6,,
+,211,Order a Drink at The Old Nite,Order a drink at The Old Nite.,,,,1,Easy,28.1,,
+,212,Sacrifice Some Bones at the Chaos Temple,Sacrifice some Bones at the Western Chaos Temple altar.,,,,1,Easy,64.4,,
+,213,15 Collection log slots,Obtain 15 unique Collection Log slots.,,,,,,0.6,,
+,214,30 Collection log slots,Obtain 30 unique Collection Log slots.,,,,,,0.1,,
+,215,5 Collection log slots,Obtain 5 unique Collection Log slots.,,,,,,9,,
+,216,50 Collection log slots,Obtain 50 unique Collection Log slots.,,,,,,NaN,,
+,217,Bury Some Wyvern or Dragon Bones,Bury either some wyvern bones or some dragon bones.,,,,,,7.1,,
+,218,Cast an Earth Blast Spell,Cast an Earth Blast spell.,,,,,,10.6,MAGIC 53,53 Magic
+,219,Complete 1 Slayer Task,Complete 1 Slayer task.,,,,,,10.1,,
+,220,Eat a piece of food that restores at least 6 hitpoints,Eat a piece of food that restores at least 6 hitpoints.,,,,,,43.5,,
+,221,Get a Gem from a Gorak,Obtain a gem drop from a Gorak.,,,,,,0.2,,
+,222,Reach a Prayer Bonus of 15,Equip enough item to reach a Prayer bonus of 15 or more.,,,,,,0.1,,
+,223,Reach Combat Level 50,Reach Combat Level 50. This task earns one Demonic Pact.,,,,,,18.6,,
+,224,Reach Combat Level 75,Reach Combat Level 75.,,,,,,1.1,,
+,225,Sacrifice something to Death's Coffer,Sacrifice something to Death's Coffer.,,,,,,6.8,,
+,226,Scrape some Blue Dragonhide,Scrape some blue dragonhide.,,,,,,0.2,,
+,227,Slay 250 Creatures,Slay 250 creatures whilst on a Slayer Task.,,,,,,NaN,,
+,228,Use the Protect from Melee Prayer,Use the Protect from Melee prayer. This task earns one Demonic Pact.,,,,,,8.6,PRAYER 43,43 Prayer
+,229,Defeat 25 Superior slayer creatures,Defeat 25 Superior slayer monsters.,,,,,,NaN,SLAYER 5,5 Slayer Unlocked Bigger and Badder for 150 Slayer reward points or at least Tier 3 Relic unlocked
+,230,Defeat 75 Superior slayer creatures,Defeat 75 Superior slayer creatures.,,,,,,NaN,SLAYER 5,5 Slayer Unlocked Bigger and Badder for 150 Slayer reward points or at least Tier 3 Relic unlocked
+,231,Defeat a Superior slayer creature,Defeat a Superior slayer creature.,,,,,,0.2,SLAYER 5,5 Slayer Unlocked Bigger and Badder for 150 Slayer reward points or at least Tier 3 Relic unlocked
+,232,Defeat 5 Bunnies,Defeat 5 Bunnies.,,,,,,33.1,,
+,233,Defeat 5 creatures with a mace,Defeat 5 creatures with a mace as the final hit.,,,,,,28.6,,
+,234,Defeat a Scorpion with a Mithril Spear,Defeat a Scorpion with a mithril spear as the final hit.,,,,,,15.2,ATTACK 20,20 Attack
+,235,Defeat 3 chickens in 6 seconds,Defeat 3 chickens in 6 seconds.,,,,,,15.3,,
+,236,Equip a Full Adamant Set,"Equip an Adamant Platebody, a Adamant Full Helm and either some Adamant Platelegs or an Adamant Plateskirt.",,,,,,8.9,DEFENCE 30,30 Defence
+,237,Equip a Full Blue Dragonhide Set,"Equip a Blue Dragonhide Body, some Blue Dragonhide Chaps and some Blue Dragonhide Vambraces.",,,,,,0.1,RANGED 50; DEFENCE 40,"50 Ranged,  40 Defence"
+,238,Equip a Full Bronze Set,"Equip a Bronze Platebody, a Bronze Full Helm and either some Bronze Platelegs or a Bronze Plateskirt.",,,,,,27.2,,
+,239,Equip a Full Red Dragonhide Set,"Equip a Red Dragonhide Body, some Red Dragonhide Chaps and some Red Dragonhide Vambraces.",,,,,,NaN,RANGED 60; DEFENCE 40,"60 Ranged,  40 Defence"
+,240,Equip a Mithril Weapon,Equip any Mithril weapon.,,,,,,27.6,ATTACK 20,20 Attack
+,241,Equip a Piece of a Mystic Set,Equip any piece of any Mystic robe set.,,,,,,0.7,MAGIC 40; DEFENCE 20,"40 Magic,  20 Defence"
+,242,Equip a piece of Beekeeper's Outfit,Equip a piece of Beekeeper's Outfit.,,,,,,5.2,,
+,243,Equip a piece of Camouflage outfit,Equip a piece of Camouflage outfit.,,,,,,5.4,,
+,244,Equip a piece of Mime Outfit,Equip a piece of Mime Outfit.,,,,,,2.3,,
+,245,Equip a piece of Zombie Outfit,Equip a piece of Zombie Outfit.,,,,,,3.4,,
+,246,Equip a Rune Weapon,Equip any Rune weapon.,,,,,,6,ATTACK 40,40 Attack
+,247,Equip a Trimmed Amulet,Equip a Trimmed Amulet.,,,,,,0.2,,
+,248,Equip a Willow Shield,Equip a Willow Shield.,,,,,,3.7,DEFENCE 30; FLETCHING 42; WOODCUTTING 30,"30 Defence,  42 Fletching 2 Willow logs ( 30  if chopping yourself)"
+,249,Equip a Yew Shortbow,Equip a Yew Shortbow.,,,,,,0.4,RANGED 40,40 Ranged
+,250,Equip an Adamant Weapon,Equip any Adamant weapon.,,,,,,14.1,ATTACK 30,30 Attack
+,251,Equip an Elemental Battlestaff or Mystic Staff,Equip either an elemental battlestaff or an elemental mystic staff.,,,,,,0.1,MAGIC 30; ATTACK 30,"30 Magic,  30 Attack"
+,252,Equip some Black armour,"Equip either a Black Platebody, some Black Platelegs or a Black Full Helm.",,,,,,1.2,DEFENCE 10,10 Defence
+,253,Equip some Steel armour,"Equip either a Steel Platebody, some Steel Platelegs or a Steel Full Helm.",,,,,,27,DEFENCE 5,5 Defence
+,254,Equip the Forestry Basket,Equip the Forestry Basket.,,,,,,NaN,WOODCUTTING 75; SMITHING 75,"75 Woodcutting,  75 Smithing"
+,255,1 Easy Clue Scroll,Open a reward casket for completing an easy clue scroll.,,,,,,5.8,,
+,256,1 Elite Clue Scroll,Open a reward casket for completing an elite clue scroll.,,,,,,NaN,,
+,257,1 Hard Clue Scroll,Open a reward casket for completing an hard clue scroll.,,,,,,0.4,,
+,258,1 Medium Clue Scroll,Open a reward casket for completing an medium clue scroll.,,,,,,2.1,,
+,259,25 Easy Clue Scrolls,Open 25 reward caskets for completing easy clue scrolls.,,,,,,NaN,,
+,260,25 Elite Clue Scrolls,Open 25 reward caskets for completing elite clue scrolls.,,,,,,NaN,,
+,261,25 Hard Clue Scrolls,Open 25 reward caskets for completing hard clue scrolls.,,,,,,NaN,,
+,262,25 Medium Clue Scrolls,Open 25 reward caskets for completing medium clue scrolls.,,,,,,NaN,,
+,263,75 Easy Clue Scrolls,Open 75 reward caskets for completing easy clue scrolls.,,,,,,NaN,,
+,264,75 Medium Clue Scrolls,Open 75 reward caskets for completing medium clue scrolls.,,,,,,NaN,,
+,265,Burn Some Coloured Logs,Burn some logs that have been coloured with a firelighter.,,,,,,0.4,,
+,266,Catch 50 Implings in Puro-Puro,Catch 50 implings in Puro-Puro.,,,,,,8.6,HUNTER 17,17 Hunter
+,267,Chop some Rising Roots,Chop some rising roots spawned via Forestry.,,,,,,8.5,,
+,268,Complete the Flowering Bush event,Complete the Flowering Bush event spawned via Forestry.,,,,,,8.4,,
+,269,Complete the Pheasant Forestry Event,Complete the Pheasant event spawned via Forestry.,,,,,,14.8,,
+,270,Complete the Ritual Forestry Event,Complete the Ritual event spawned via Forestry.,,,,,,13.6,,
+,271,Complete the Struggling Sapling event,Complete the Struggling Sapling event spawned via Forestry.,,,,,,13.3,,
+,272,Eat some Purple Sweets,Eat some Purple Sweets.,,,,,,0.6,,
+,273,Fill 15 Hard Clue Collection Log Slots,Fill 15 slots in the Hard Clue section of the Collection Log.,,,,,,NaN,,
+,274,Fill 20 Easy Clue Collection Log Slots,Fill 20 slots in the Easy Clue section of the Collection Log.,,,,,,0.1,,
+,275,Fill 20 Medium Clue Collection Log Slots,Fill 20 slots in the Medium Clue section of the Collection Log.,,,,,,NaN,,
+,276,Fill 3 Elite Clue Collection Log Slots,Fill 3 slots in the Elite Clue section of the Collection Log.,,,,,,NaN,,
+,277,Fill 3 Hard Clue Collection Log Slots,Fill 3 slots in the Hard Clue section of the Collection Log.,,,,,,0.2,,
+,278,Fill 5 Easy Clue Collection Log Slots,Fill 5 slots in the Easy Clue section of the Collection Log.,,,,,,0.7,,
+,279,Fill 5 Medium Clue Collection Log Slots,Fill 5 slots in the Medium Clue section of the Collection Log.,,,,,,0.3,,
+,280,Gain 10 Unique Items From Easy Clues,Gain 10 unique items from Easy Clue Scroll Reward Caskets.,,,,,,0.4,,
+,281,Gain 10 Unique Items From Medium Clues,Gain 10 unique items from Medium Clue Scroll Reward Caskets.,,,,,,0.2,,
+,282,Gain 20 Unique Items From Hard Clues,Gain 20 unique items from Hard Clue Scroll Reward Caskets.,,,,,,NaN,,
+,283,Gain 35 Unique Items From Easy Clues,Gain 35 unique items from Easy Clue Scroll Reward Caskets.,,,,,,NaN,,
+,284,Gain 5 Unique Items From Hard Clues,Gain 5 unique items from Hard Clue Scroll Reward Caskets.,,,,,,0.1,,
+,285,Gain a Unique Item From a Hard Clue,Gain a unique item from a Hard Clue Scroll Reward Casket.,,,,,,0.3,,
+,286,Gain a Unique Item From a Master Clue,Gain a unique item from a Master Clue Scroll Reward Casket.,,,,,,NaN,,
+,287,Gain a Unique Item From a Medium Clue,Gain a unique item from a Medium Clue Scroll Reward Casket.,,,,,,1.9,,
+,288,Gain a Unique Item From an Easy Clue,Gain a unique item from an Easy Clue Scroll Reward Casket.,,,,,,4.8,,
+,289,Give an Entling a haircut,Give an entling a haircut via Forestry.,,,,,,15.6,,
+,290,Have a Leprechaun send something to the bank,Have the Forestry leprechaun send something to your bank.,,,,,,2.6,,
+,291,Butter a potato,Make a potato with butter.,,,,,,13,COOKING 39,39 Cooking
+,292,Churn some butter,Use a churn to make some butter.,,,,,,13.5,COOKING 38,38 Cooking
+,293,Complete the Evil Bob random event,Complete the Evil Bob random event.,,,,,,4.7,,
+,294,Complete the Maze random event,Complete the Maze random event.,,,,,,5.9,,
+,295,Complete the Pillory random event,Complete the Pillory random event.,,,,,,5.5,,
+,296,Complete the Pinball random event,Complete the Pinball random event.,,,,,,5.8,,
+,297,Complete the Postie Pete random event,Complete the Postie Pete random event.,,,,,,5.5,,
+,298,Complete the Prison Pete random event,Complete the Prison Pete random event.,,,,,,4.9,,
+,299,Complete the Surprise Exam random event,Complete the Surprise Exam random event.,,,,,,7.4,,
+,300,Make some Flour,Make some Flour in a windmill.,,,,,,64.2,,
+,301,Obtain a Kebab from a random event,Obtain a Kebab from any random event.,,,,,,12.9,,
+,302,Open the Mystery Box,"A boat is a boat, but the mystery box could be anything, even a boat!",,,,,,6,,
+,303,Trade a herb with Jekyll,Trade a herb with Jekyll for a potion.,,,,,,0.2,,
+,304,Upset the Sandwich lady,Make the Sandwich lady quite cross with you.,,,,,,2.5,,
+,305,Achieve Your First Level 20,Reach level 20 in any skill.,,,,,,92.5,,
+,306,Achieve Your First Level 30,Reach level 30 in any skill.,,,,,,86.9,,
+,307,Achieve Your First Level 40,Reach level 40 in any skill.,,,,,,82.2,,
+,308,Achieve Your First Level 50,Reach level 50 in any skill.,,,,,,75,,
+,309,Achieve Your First Level 60,Reach level 60 in any skill.,,,,,,61.3,,
+,310,Activate Smite,Activate Smite in your prayer book.,,,,,,3.1,PRAYER 52,52 Prayer
+,311,Build a Mahogany Portal,Build a mahogany portal in a portal chamber in your player-owned house.,,,,,,NaN,CONSTRUCTION 65,65 Construction
+,312,Build a Room in Your Player Owned House,Build a room in your player-owned house.,,,,,,22,,"1,000 coins"
+,313,Build an Oak Larder,Build an oak larder in a kitchen in your player-owned house.,,,,,,2.8,CONSTRUCTION 33,33 Construction
+,314,Burn 100 Willow Logs,Burn 100 willow logs.,,,,,,34.2,FIREMAKING 30,30 Firemaking
+,315,Burn 25 Maple Logs,Burn 25 maple logs.,,,,,,32.7,FIREMAKING 45,45 Firemaking
+,316,Cast Low Level Alchemy,Cast the Low Level Alchemy spell.,,,,,,26.7,MAGIC 21,21 Magic
+,317,Catch 10 Cod,Catch 10 cod.,,,,,,20,FISHING 23,23 Fishing
+,318,Catch 100 Swordfish,Catch 100 swordfish.,,,,,,5.1,FISHING 50,50 Fishing
+,319,Catch 100 Tuna,Catch 100 tuna.,,,,,,6.1,FISHING 35,35 Fishing
+,320,Catch 20 mackerel,Catch 20 mackerel whilst fishing.,,,,,,20.6,FISHING 16,16 Fishing
+,321,Catch 50 Tuna,Catch 50 tuna.,,,,,,7.8,FISHING 35,35 Fishing
+,322,Catch 75 Lobsters,Catch 75 lobsters.,,,,,,9.2,FISHING 40,40 Fishing
+,323,Catch 75 Trout,Catch 75 trout whilst fishing.,,,,,,14.3,FISHING 20,20 Fishing
+,324,Catch a Butterfly,Catch any butterfly.,,,,,,22,HUNTER 15,15 Hunter
+,325,Catch a Swamp Lizard or Salamander,Catch either a swamp lizard or any kind of salamander.,,,,,,2.2,HUNTER 29; HUNTER 47; HUNTER 59; HUNTER 67; HUNTER 79,"Either  29 Hunter ( Morytania✓),  47 Hunter ( Desert✓),  59 Hunter ( Kandarin✓,  67 Hunter ( Wilderness✓),  79 Hunter ( Varlamore✓)"
+,326,Check a grown Fruit Tree,Check the health of any fruit tree you've grown.,,,,,,0.1,FARMING 27,27 Farming
+,327,Check a grown Tree,Check the health of any regular tree you've grown.,,,,,,1.3,FARMING 15,15 Farming
+,328,Chop 100 Willow Logs,Chop 100 willow logs from willow trees.,,,,,,45.5,WOODCUTTING 30,30 Woodcutting
+,329,Chop Some Logs With a Rune Axe,Chop any kind of logs using a rune axe.,,,,,,5.7,WOODCUTTING 41,41 Woodcutting
+,330,Clean 50 Grimy Cadantine,Clean 50 grimy cadantine.,,,,,,NaN,HERBLORE 65,65 Herblore
+,331,Clean 50 Grimy Ranarr Weed,Clean 50 grimy ranarr weed.,,,,,,2.9,HERBLORE 25,25 Herblore
+,332,Clean a Grimy Avantoe,Clean a grimy avantoe.,,,,,,1.1,HERBLORE 48,48 Herblore
+,333,Convert an item into at least 500 coins,Cast the High Level Alchemy spell to convert an item into 500 coins or more.,,,,,,18,MAGIC 55,55 Magic
+,334,Cook 100 Swordfish,Cook 100 Swordfish.,,,,,,16.4,COOKING 45,45 Cooking
+,335,Cook 50 Tuna,Cook 50 Raw Tuna.,,,,,,18.9,COOKING 35,35 Cooking
+,336,Craft 20 Silver items,Craft 20 silver items using silver bars.,,,,,,9.1,,
+,337,Craft 200 Essence Into Runes,Use Runecrafting Altars to craft 200 essence into runes of any type.,,,,,,NaN,,
+,338,Craft a Sapphire Amulet,Craft a sapphire amulet.,,,,,,7.5,CRAFTING 24,24 Crafting
+,339,Craft an Emerald Ring,Craft an Emerald Ring.,,,,,,8.2,CRAFTING 27,27 Crafting
+,340,Craft Any Combination Rune,Use a Runecrafting altar to craft any type of combination rune (including sunfire runes).,,,,,,NaN,RUNECRAFT 6; RUNECRAFT 15; RUNECRAFT 33,"Either  6 Runecraft ( Asgarnia✓),  15 Runecraft ( Desert✓),  33 Runecraft ( Varlamore✓"
+,341,Chop 50 Maple Logs,Chop 50 Maple Logs.,,,,,,41.2,WOODCUTTING 45,45 Woodcutting
+,342,Fill a Bucket With Supercompost,Fill a Bucket with Supercompost from a Compost Bin.,,,,,,5.5,,
+,343,Fill a Large Pouch,Fill a Large Pouch with Essence.,,,,,,NaN,RUNECRAFT 50,50 Runecraft
+,344,Fill a Medium STASH Unit,Build a Medium STASH unit and fill it with the relevant items.,,,,,,0.1,CONSTRUCTION 42,42 Construction
+,345,Fletch 1000 arrow shafts,Fletch 1000 arrow shafts.,,,,,,48.9,,
+,346,Fletch 150 Iron Arrows,Fletch 150 Iron Arrows.,,,,,,15,FLETCHING 15,15 Fletching
+,347,Fletch 25 Maple longbow (u),Fletch 25 Maple longbow (u).,,,,,,20.2,FLETCHING 55,55 Fletching
+,348,Fletch 25 Oak Stocks,Fletch 25 Oak Stocks.,,,,,,41.3,FLETCHING 24,24 Fletching
+,349,Fletch 50 Willow longbow (u),Fletch 50 Willow longbow (u).,,,,,,31.2,FLETCHING 40,40 Fletching
+,350,Fletch a Willow Shortbow (u),Fletch a Willow Shortbow (u).,,,,,,36.3,FLETCHING 35,35 Fletching
+,351,Fletch some Broad Arrows or Bolts,Fletch either some Broad Arrows or some Broad Bolts.,,,,,,NaN,FLETCHING 52,52 Fletching Unlocked Broader Fletching using 300 Slayer reward points
+,352,Harvest a Ranarr Weed,Harvest an Ranarr Weed from any Herb patch.,,,,,,0.2,FARMING 32,32 Farming
+,353,Land a hoop on a stick,Successfully land a hoop on a stick in the PoH minigame.,,,,,,2.5,CONSTRUCTION 30,30 Construction
+,354,Make 20 Stamina Potions,Make 20 Stamina Potions.,,,,,,NaN,HERBLORE 77,77 Herblore
+,355,Make 30 Prayer Potions,Make 30 Prayer Potions.,,,,,,0.3,HERBLORE 38,38 Herblore
+,356,Make a 4 dose potion,Make any 4 dose potion using an Amulet of Chemistry.,,,,,,1.9,MAGIC 27; CRAFTING 34,"27 Magic,  34 Crafting"
+,357,Make a Meat Pizza,Make a meat pizza.,,,,,,0.2,COOKING 45,45 Cooking
+,358,Mine 10 Silver,Mine 10 silver ore.,,,,,,28.3,MINING 20,20 Mining
+,359,Mine 50 Iron Ore,Mine 50 iron ore.,,,,,,43.1,MINING 15,15 Mining
+,360,Mine 50 Mithril Ore,Mine 50 mithril ore.,,,,,,16.2,MINING 55,55 Mining
+,361,Mine some Ore With a Rune Pickaxe,Mine any ore using a Rune Pickaxe.,,,,,,22.9,MINING 41,41 Mining
+,362,Obtain 800 Coins From Coin Pouches At Once,Open a stack of Coin Pouches and obtain at least 800 Coins.,,,,,,15.8,THIEVING 40,40 Thieving (can be completed at lower levels depending on luck when pickpocketing NPCs with variable coin amounts)
+,363,Obtain a Clue Geode While Mining,Obtain any kind of clue geode whilst Mining a rock.,,,,,,25.1,,
+,364,Obtain a Gem While Mining,Obtain any kind of gem whilst Mining a rock.,,,,,,31.1,,
+,365,Obtain an old boot from a fishing spot,Obtain an old boot from a fishing spot.,,,,,,46.8,,
+,366,Open 28 Coin Pouches At Once,Open 28 Coin Pouches at once.,,,,,,52.1,,
+,367,Pickpocket a Master Farmer,Successfully pickpocket from a Master farmer.,,,,,,17.5,THIEVING 38,38 Thieving
+,368,Reach Base Level 10,Reach level 10 in every skill.,,,,,,NaN,,
+,369,Reach Base Level 20,Reach level 20 in every skill.,,,,,,NaN,,
+,370,Reach Base Level 30,Reach level 30 in every skill.,,,,,,NaN,,
+,371,Reach Base Level 5,Reach level 5 in every skill.,,,,,,NaN,,
+,372,Reach Total Level 100,Reach a Total Level of 100.,,,,,,88.5,,
+,373,Reach Total Level 250,Reach a Total Level of 250.,,,,,,69.5,,
+,374,Reach Total Level 666,Reach Total Level 666.,,,,,,23.4,,
+,375,Reach Total Level 750,Reach a Total Level of 750.,,,,,,15.4,,
+,376,Redecorate your player-owned house,Redecorate your player-owned house.,,,,,,1.6,CONSTRUCTION 10,10 Construction
+,377,Smelt a Steel Bar,Use a Furnace to smelt a Steel Bar.,,,,,,21.6,SMITHING 30,30 Smithing
+,378,Smith 10 Steel bolts (unf),Use an Anvil to smith 10 Steel bolts (unf).,,,,,,9,SMITHING 33,33 Smithing
+,379,Smith 150 Iron Arrowtips,Use an Anvil to smith 150 Iron Arrowtips.,,,,,,17.4,SMITHING 20,20 Smithing
+,380,Smith 250 Mithril bolts (unf),Use an Anvil to smith 250 Mithril bolts (unf).,,,,,,1.6,SMITHING 53,53 Smithing
+,381,Smith a Steel 2h sword,Use an Anvil to smith a Steel 2h sword.,,,,,,4.7,SMITHING 44,44 Smithing
+,382,Snare a Bird 20 times,Snare a Bird 20 times.,,,,,,26.9,,
+,383,Successfully Cook 5 Pieces of Food,Cook 5 pieces of food in a row without burning them.,,,,,,61,,
+,384,Successfully pickpocket a Citizen 10 times in a row,Successfully pickpocket a Citizen 10 times in a row without failing.,,,,,,55.9,,
+,385,Teleport Using Law Runes,Cast any teleport spell that uses Law Runes.,,,,,,11.2,MAGIC 40; MAGIC 6,"40 Magic to cast Teleport to House with a player-owned house, or  6 Magic with  Kourend✓, or Grimoire"
+,386,Complete Wave 1 of Fortis Colosseum,Complete Wave 1 of Fortis Colosseum.,,,,,,0.2,,
+,387,Defeat Hueycoatl 1 Time,Defeat the Hueycoatl in Varlamore. This task earns one Demonic Pact.,,,,,,2.5,,
+,388,Defeat Amoxliatl 1 Time,Defeat the Amoxliatl in Varlamore.,,,,,,NaN,MINING 55; THIEVING 48; SLAYER 48; AGILITY 46,"The Heart of Darkness,  55 Mining,  48 Thieving,  48 Slayer,  46 Agility"
+,389,Defeat 10 Frost Crabs,Defeat 10 Frost Crabs.,,,,,,NaN,MINING 55; THIEVING 48; SLAYER 48; AGILITY 46,"The Heart of Darkness,  55 Mining,  48 Thieving,  48 Slayer,  46 Agility"
+,390,Defeat a Dire Wolf,Defeat a Dire Wolf in Varlamore.,,,,,,17.8,,
+,391,Defeat a Jaguar without taking any damage from it,Defeat a fully grown jaguar without taking any damage from it.,,,,,,17.6,PRAYER 43,A weapon to safespot or  43 Prayer
+,392,Defeat a Oryx with melee,Defeat an Oryx in the Avium Savannah with melee.,,,,,,15.2,,
+,393,Defeat the Moons of Peril,Defeat the Moons of Peril.,,,,,,NaN,,
+,394,Defeat the Moons of Peril 10 times,Defeat the Moons of Peril 10 times.,,,,,,NaN,,
+,395,Defeat the Moons of Peril 25 times,Defeat the Moons of Peril 25 times.,,,,,,NaN,,
+,396,Equip an egg,Hold an egg in your hands.,,,,,,0.1,,Scrambled!
+,397,Equip Glacial Temotli,Equip the Glacial temotli.,,,,,,NaN,SLAYER 48; ATTACK 55,"48 Slayer,  55 Attack"
+,398,Equip a piece of Alchemists outfit,Equip a piece of Alchemist's outfit from the Mixology shop.,,,,,,NaN,HERBLORE 60,60 Herblore
+,399,Equip a piece of Hueycoatl armour,Equip a piece of Hueycoatl armour.,,,,,,NaN,CRAFTING 76; RANGED 70; DEFENCE 40,"76 Crafting,  70 Ranged,  40 Defence"
+,400,Equip an orange,Equip an orange.,,,,,,2.6,AGILITY 43,43 Agility
+,401,Equip Pendant of Ates,Equip the Pendant of ates.,,,,,,NaN,SLAYER 48,48 Slayer
+,402,Equip any piece of armour from the moons of peril,"Equip any piece of armour from the Blood, Frost, or Eclipse moon set.",,,,,,NaN,DEFENCE 50; STRENGTH 75; MAGIC 75; RANGED 75,"50 Defence and one of  75 Strength,  75 Magic, or  75 Ranged"
+,403,Equip Sulphur Blades,Equip the Sulphur blades.,,,,,,0.1,ATTACK 55,55 Attack
+,404,Equip Earthbound Tecpatl,Equip the Earthbound tecpatl.,,,,,,NaN,ATTACK 55,55 Attack   The Final Dawn
+,405,Activate all Statues of Ates,Activate all statues of ates.,,,,,,0.3,,Death on the Isle
+,406,Jump on Yama's stepping stones 666 times,Jump on Yama's stepping stones in his League domain 666 times.,,,,,,40.2,AGILITY 1,1 Agility
+,407,Activate the Statue of Ates,Activate the Statue of Ates in Aldarin.,,,,,,7.4,,Death on the Isle
+,408,Bury some wyrm bones near a Wyrm skeleton,Bury some wyrm bones or wyrmling bones near the Colossal Wyrm Remains.,,,,,,1.8,,Wyrm bones or wyrmling bones
+,409,Enter a dark cave in Varlamore,"Enter a dark cave in Varlamore, near the Hunter Guild.",,,,,,8.3,,
+,410,Fill a Grape Barrel for the Foreman,Fill a Grape Barrel for the Foreman in Aldarin.,,,,,,58.1,,
+,411,Complete Death on the Isle,Complete Death on the Isle.,,,,,,11.3,THIEVING 34; AGILITY 32,"34 Thieving,  32 Agility"
+,412,Complete Shadows of Custodia,Complete the  Shadows of Custodia quest.,,,,,,NaN,SLAYER 54; FISHING 45; CONSTRUCTION 41; HUNTER 36,"54 Slayer,  45 Fishing,  41 Construction,  36 Hunter"
+,413,Complete the Heart of Darkness,Complete  The Heart of Darkness quest.,,,,,,0.1,MINING 55; THIEVING 48; SLAYER 48; AGILITY 46,"55 Mining,  48 Thieving,  48 Slayer,  46 Agility"
+,414,Complete a Ribbiting Tale,Complete a Ribbiting Tale of a Lily Pad Labour Dispute.,,,,,,16.1,WOODCUTTING 15,15 Woodcutting
+,415,Complete Meat and Greet,Complete Meat and Greet.,,,,,,0.4,,
+,416,Complete At First Light,Complete the  At First Light quest.,,,,,,0.3,HUNTER 46; HERBLORE 30; CONSTRUCTION 27,"46 Hunter,  30 Herblore,  27 Construction"
+,417,Make a Greenman statue,Make a Greenman statue.,,,,,,0.2,FLETCHING 53,"53 Fletching 5 Ent branches, Greenman mask, Maple logs, and a Knife"
+,418,Fully decorate a Willow totem in the Auburn Valley,Fully decorate a Willow totem in the Auburn Valley.,,,,,,27.3,FLETCHING 35,35 Fletching Knife and 5 Willow logs
+,419,Mine 20 Mithril Ore in the Stonecutter Outpost,Mine 20 Mithril Ore in the Stonecutter Outpost.,,,,,,16.8,MINING 55,55 Mining
+,420,Mine 250 Blessed Bone Shards,Mine 250 Blessed Bone Shards.,,,,,,10.2,MINING 41,41 Mining
+,421,Pay an Urchin for Information,Pay an Urchin for Information in the Stealing Valuables minigame.,,,,,,5.7,THIEVING 50,50 Thieving
+,422,Pickpocket a knight of varlamore 20 times,Pickpocket a Knight of Varlamore 20 times.,,,,,,5.4,THIEVING 55,55 Thieving
+,423,Steal 100 Valuables,Steal 100 Valuables.,,,,,,9.2,THIEVING 50,50 Thieving
+,424,Steal 15 House Keys,Steal 15 House Keys.,,,,,,4.7,THIEVING 50,50 Thieving
+,425,Steal 25 Valuables,Steal 25 Valuables.,,,,,,10.4,THIEVING 50,50 Thieving
+,426,Steal a House Key,Steal a House Key.,,,,,,12.3,THIEVING 50,50 Thieving
+,427,Steal from the Fortis Spice Stall,Steal from the Fortis Spice Stall.,,,,,,4.4,THIEVING 65,65 Thieving
+,428,Store some bowstrings inside a bowstring spool,Store some bowstrings inside a bowstring spool.,,,,,,1.3,FLETCHING 20,20 Fletching   Vale Totems
+,429,Teleport to Cam Torum using a Calcified Moth,Teleport to Cam Torum using a Calcified Moth.,,,,,,3.9,MINING 41,41 Mining
+,430,Teleport to Civitas illa Fortis,Teleport to Civitas illa Fortis using the standard spellbook.,,,,,,10,MAGIC 54,54 Magic
+,431,Use the pottery oven in Civitas,Use the pottery oven in Civitas to make something out of clay.,,,,,,28.2,,
+,432,Break down 10 calcified deposits,Break down 10 Calcified deposits.,,,,,,2.9,MINING 41,41 Mining Hammer and any Pickaxe
+,433,Build a Quetzal Landing Site,Build a Quetzal Landing Site.,,,,,,1.9,HUNTER 46,46 Hunter
+,434,Catch a Jerboa,Catch an Embertailed jerboa.,,,,,,18.2,HUNTER 39,39 Hunter Box trap
+,435,Catch a Pyre fox,Catch a Pyre fox.,,,,,,10.2,HUNTER 57,57 Hunter Knife and Logs
+,436,Complete 10 Hunter Rumours,Complete 10 Hunter Rumours.,,,,,,5.4,HUNTER 46,46 Hunter
+,437,Complete 10 laps of the Varlamore Agility Course,Complete 10 laps of the Colossal Wyrm Agility Course.,,,,,,7.1,AGILITY 50,50 Agility
+,438,Complete 25 Hunter Rumours,Complete 25 Hunter Rumours.,,,,,,0.8,HUNTER 46,46 Hunter
+,439,Complete a Hunter Rumour,Complete a Hunter Rumour.,,,,,,13,HUNTER 46,46 Hunter
+,440,Create a Quetzal Whistle,Create a Quetzal Whistle.,,,,,,4.6,HUNTER 46,46 Hunter
+,441,Exchange an Ent seed with an Ent,Exchange an Ent seed with an Ent.,,,,,,8.3,,
+,442,Fish a House Key,Fish a House Key.,,,,,,43.7,,Big fishing net
+,443,Fully decorate a Maple totem in the Auburn Valley,Fully decorate an Maple totem in the Auburn Valley.,,,,,,20.6,FLETCHING 50,50 Fletching Knife and 5 Maple logs
+,444,Fully decorate an Oak totem in the Auburn Valley,Fully decorate an Oak totem in the Auburn Valley.,,,,,,32.9,FLETCHING 20,20 Fletching Knife and 5 Oak logs
+,445,Complete the Easy Karamja Diary,Complete all of the Easy tasks in the   Karamja Achievement Diary.,,,,,,2.6,,See   Karamja Diary#Easy
+,446,Complete the Medium Karamja Diary,Complete all of the Medium tasks in the   Karamja Achievement Diary.,,,,,,NaN,,See   Karamja Diary#Medium
+,447,Defeat a Steel Dragon on Karamja,Defeat a steel dragon on Karamja. This task earns one Demonic Pact.,,,,,,3.1,,
+,448,Defeat a TzHaar,Defeat any TzHaar in Mor Ul Rek. This task earns one Demonic Pact.,,,,,,12.5,,
+,449,Defeat a Black Demon on Karamja,Defeat a Black Demon on Karamja.,,,,,,5.6,,
+,450,Equip a Full Tai Bwo Wannai Villager Set,Equip a full set of Tai Bwo Wannai villager clothing.,,,,,,0.1,,
+,451,Equip a Toktz-Ket-Xil,Equip a Toktz-Ket-Xil.,,,,,,0.1,DEFENCE 60,60 Defence
+,452,Equip a Toktz-Xil-Ak,Equip a Toktz-Xil-Ak.,,,,,,0.1,ATTACK 60,60 Attack
+,453,Equip a Toktz-Xil-Ek,Equip a Toktz-Xil-Ek.,,,,,,0.2,ATTACK 60,60 Attack
+,454,Equip an Obsidian Cape,Equip an Obsidian cape.,,,,,,0.7,,
+,455,Equip any spear (kp),Equip any spear poisoned by a karambwan.,,,,,,NaN,,
+,456,Buy a Snapdragon From Pirate Jackie the Fruit,Buy a Snapdragon From Pirate Jackie the Fruit in Brimhaven.,,,,,,7,,
+,457,Sleep in Paramaya Inn,"Pay the barkeep to sleep in Paramaya Inn, in Shilo Village.",,,,,,7,,
+,458,Enter the Brimhaven Dungeon,Enter the Brimhaven Dungeon.,,,,,,9.1,,
+,459,Enter the Tai Bwo Wannai Hardwood Grove,Enter the Hardwood Grove in Tai Bwo Wannai.,,,,,,0.2,,
+,460,Take a Shortcut Across the Shilo Village River,Use the Stepping Stones Agility Shortcut in Shilo Village.,,,,,,7.9,AGILITY 32,32 Agility
+,461,Catch 50 Karambwan,Catch 50 Karambwan on Karamja.,,,,,,0.1,FISHING 65,65 Fishing Partial completion of   Tai Bwo Wannai Trio
+,462,Catch a Salmon on Karamja,Catch a Salmon on Karamja.,,,,,,8.5,FISHING 30,30 Fishing
+,463,Craft 50 Nature Runes,Craft 50 Nature Runes from Essence at the Nature Altar.,,,,,,NaN,RUNECRAFT 44,44 Runecraft
+,464,Chop a dense jungle,Fully clear a dense jungle in the Tai Bwo Wannai Cleanup.,,,,,,1.1,WOODCUTTING 35,35 Woodcutting
+,465,Complete the Easy Falador Diary,Complete all of the Easy tasks in the   Falador Achievement Diary.,,,,,,NaN,,See   Falador Diary#Easy
+,466,Complete the Medium Falador Diary,Complete all of the Medium tasks in the   Falador Achievement Diary.,,,,,,NaN,,See   Falador Diary#Medium
+,467,Set Up a Dwarf Cannon,Set Up a Dwarf Cannon.,,,,,,NaN,,
+,468,Turn in 100 Mole Claws to Wyson the Gardener,Turn in 100 Mole Claws to Wyson the Gardener in Falador.,,,,,,NaN,,
+,469,Unlock a Gate in Taverley Dungeon,Unlock a gate in Taverley Dungeon using the Dusty Key.,,,,,,18.8,,
+,470,Charge an Amulet of Glory in the Heroes' Guild,Charge an Amulet of Glory at the Fountain of Heroes in the Heroes' Guild.,,,,,,NaN,HUNTER 83; CRAFTING 80; MAGIC 68,83 Hunter or both  80 Crafting and  68 Magic Completion of   Heroes' Quest
+,471,Consume a Saradomin's Light,Consume a Saradomin's Light.,,,,,,NaN,AGILITY 70,70 Agility
+,472,Teleport with a Giantsoul amulet,Use the Giantsoul amulet to teleport to the Royal Titans.,,,,,,NaN,,
+,473,Defeat 5 Spinners,Defeat 5 Spinners in Pest Control.,,,,,,NaN,,40 Combat level
+,474,Defeat Some Animated Rune Armour,Defeat some Animated Rune Armour in the Warriors' Guild.,,,,,,NaN,ATTACK 99; STRENGTH 99; ATTACK NaN; STRENGTH NaN,"Either  99 Attack,  99 Strength, or 130 combined  Attack and  Strength"
+,475,Defeat the Royal Titans 50 times,Defeat the Royal Titans 50 times.,,,,,,NaN,,
+,476,Defeat a Black Demon in Asgarnia,Defeat a Black Demon in Asgarnia.,,,,,,18.8,,
+,477,Defeat a Blue Dragon in Asgarnia,Defeat a Blue Dragon in Asgarnia.,,,,,,20.8,,
+,478,Defeat a Skeletal Wyvern,Defeat a Skeletal Wyvern in the Asgarnian Ice Dungeon.,,,,,,NaN,SLAYER 72,72 Slayer
+,479,Defeat the Giant Mole,Defeat the Giant Mole beneath Falador.,,,,,,4.2,,
+,480,Defeat the Giant Mole 150 Times,Defeat the Giant Mole beneath Falador 150 times.,,,,,,NaN,,
+,481,Defeat the Giant Mole 50 Times,Defeat the Giant Mole beneath Falador 50 times.,,,,,,NaN,,
+,482,Defeat the Royal Titans,Defeat the Royal Titans.,,,,,,2.1,,
+,483,Equip Amy's Saw,Equip Amy's Saw from   Mahogany Homes.,,,,,,NaN,,
+,484,Equip an Imcando Hammer,Equip an Imcando hammer.,,,,,,NaN,MINING 14,14 Mining
+,485,Complete a Game of Veteran Pest Control,Complete a game of Veteran   Pest Control.,,,,,,NaN,,100 Combat level
+,486,Obtain the Plank Sack,Obtain the Plank Sack from   Mahogany Homes.,,,,,,NaN,,
+,487,Open an Ornate Lockbox,Open an Ornate Lockbox from the Camdozaal Vault.,,,,,,NaN,,
+,488,Complete a Game of Intermediate Pest Control,Complete a game of Intermediate   Pest Control or higher.,,,,,,NaN,,70 Combat level
+,489,Hang a Painting of a Watermill,Hang a Painting of Lumbidge Watermill in your PoH.,,,,,,NaN,CONSTRUCTION 44,44 Construction Completion of   Sheep Shearer and   Cook's Assistant
+,490,Open the Crystal Chest,Open the Crystal Chest in Taverley.,,,,,,NaN,,
+,491,Throw a Shot Put 12 yards,Throw a Shot Put 12 yards in the Warriors Guild.,,,,,,NaN,ATTACK 99; STRENGTH 99,99 Attack or  99 Strength or a combined Attack and Strength level of 130
+,492,Complete A Porcine of Interest,Complete the   A Porcine of Interest quest.,,,,,,NaN,,
+,493,Complete Witch's Potion,Complete the Witch's Potion quest.,,,,,,NaN,,
+,494,Harvest Any Herb at the Troll Stronghold,Harvest any herb you've grown at the Troll Stronghold.,,,,,,NaN,FARMING 9,9 Farming
+,495,Make 50 Ancient Brews,Make 50 Ancient Brews.,,,,,,NaN,HERBLORE 85,85 Herblore Completion of   The Frozen Door
+,496,Obtain 20 Golden Nuggets,Obtain 20 Golden Nuggets from the Motherlode Mine beneath Falador.,,,,,,NaN,MINING 30,30 Mining
+,497,Complete the Falador Agility Course,Complete a lap of the Falador Rooftop Agility Course.,,,,,,31.2,AGILITY 50,50 Agility
+,498,Craft a Body Rune,Craft a Body Rune from Essence at the Body Altar.,,,,,,NaN,RUNECRAFT 20,20 Runecraft
+,499,Enter the Crafting Guild,Enter the Crafting Guild.,,,,,,16.7,CRAFTING 40,40 Crafting
+,500,Complete the Easy Desert Diary,Complete all of the Easy tasks in the   Desert Achievement Diary.,,,,,,NaN,,See   Desert Diary#Easy
+,501,Complete the Medium Desert Diary,Complete all of the Medium tasks in the   Desert Achievement Diary.,,,,,,NaN,,See   Desert Diary#Medium
+,502,Cast Ice Burst,Cast the Ice Burst spell.,,,,,,22.9,MAGIC 70,70 Magic
+,503,Cast Ice Rush,Cast the Ice Rush spell.,,,,,,25.7,MAGIC 58,58 Magic
+,504,Create the Divine Rune pouch,Create the Divine Rune pouch.,,,,,,NaN,CRAFTING 75,75 Crafting Completion of   Beneath Cursed Sands
+,505,Defeat 30 Bandits,Defeat 30 Bandits.,,,,,,5.7,,
+,506,Defeat a Kalphite with the Keris Partisan,Defeat a Kalphite with the Keris Partisan.,,,,,,NaN,ATTACK 65,65 Attack Completion of   Beneath Cursed Sands
+,507,Defeat a Kalphite Guardian,Defeat a Kalphite Guardian in the Kharidian Desert.,,,,,,20,,
+,508,Defeat a Scarab Mage,Defeat a Scarab Mage.,,,,,,5.7,,"Light source, partial completion of   Contact! or   Beneath Cursed Sands"
+,509,Defeat Tempoross 10 times,Help the Spirit Anglers defeat Tempoross 10 times.,,,,,,5.7,FISHING 35,35 Fishing
+,510,Equip the Colossal Blade,Equip the Colossal Blade from Giant's Foundry.,,,,,,NaN,SMITHING 15; ATTACK 60,"15 Smithing,  60 Attack"
+,511,Equip the Tome of Water,Equip the Tome of Water from Tempoross.,,,,,,5.7,FISHING 35; MAGIC 50,"35 Fishing,  50 Magic"
+,512,Turn in a Winter Sq'irkjuice to Osman,Turn in a Winter Sq'irkjuice to Osman in Al Kharid.,,,,,,11.4,,
+,513,Giants' Foundry 10 handins,Hand in 10 successful swords to Kovac.,,,,,,2.9,,Completion of   Sleeping Giants
+,514,Giants' Foundry 50 quality sword,Hand in a sword with at least 50 quality in Giants' Foundry.,,,,,,5.7,,Completion of   Sleeping Giants
+,515,Obtain the Big Harpoonfish,Obtain the Big Harpoonfish from Tempoross.,,,,,,8.6,FISHING 35,35 Fishing
+,516,Pick a Autumn Sq'irk,Pick a Autumn Sq'irk in the Sorceress's Garden.,,,,,,14.3,THIEVING 45,45 Thieving
+,517,Pick a Spring Sq'irk,Pick a Spring Sq'irk in the Sorceress's Garden.,,,,,,14.3,THIEVING 25,25 Thieving
+,518,Room 4 of Pyramid Plunder,Search the Golden Chest in Room 4 of Pyramid Plunder in Sophanem.,,,,,,34.3,THIEVING 51,51 Thieving
+,519,Room 5 of Pyramid Plunder,Search the Golden Chest in Room 5 of Pyramid Plunder in Sophanem.,,,,,,22.9,THIEVING 61,61 Thieving
+,520,Room 6 of Pyramid Plunder,Search the Golden Chest in Room 6 of Pyramid Plunder in Sophanem.,,,,,,2.9,THIEVING 71,71 Thieving
+,521,Turn in 10 Spring Sq'irkjuices to Osman,Turn in 10 Spring Sq'irkjuices to Osman in Al Kharid in one go.,,,,,,2.9,THIEVING 25,25 Thieving
+,522,Pray at the Elidinis Statuette,Pray at the Elidinis Statuette in Nardah.,,,,,,5.7,,Completion of   Spirits of the Elid
+,523,Commune a Pharoah's Sceptre to the Necropolis,Commune a Pharaoh's sceptre to the Necropolis.,,,,,,NaN,THIEVING 21,21 Thieving Completion of   Beneath Cursed Sands
+,524,Offend some bandits,Offend some bandits in the Desert Bandit Camp.,,,,,,8.6,,Zamorak or Saradomin god equipment
+,525,Complete Shadow of the Storm,Complete the   Shadow of the Storm quest.,,,,,,NaN,CRAFTING 30,"30 Crafting Completion of   The Golem,   Demon Slayer"
+,526,Complete Sleeping Giants,Complete   Sleeping Giants quest.,,,,,,8.6,SMITHING 15,15 Smithing
+,527,Complete Spirits of the Elid,Complete the   Spirits of the Elid quest.,,,,,,5.7,MAGIC 33; RANGED 37; MINING 37; THIEVING 37,"33 Magic,  37 Ranged,  37 Mining,  37 Thieving"
+,528,Complete The Golem,Complete   The Golem quest.,,,,,,100,CRAFTING 20; THIEVING 25,"20 Crafting,  25 Thieving"
+,529,Guardians of the Rift 1 Rift closed,Close the Rift in the Temple of the Eye.,,,,,,NaN,RUNECRAFT 27,27 Runecraft
+,530,Guardians of the Rift 10 Rifts closed,Close the Rift in the Temple of the Eye 10 times.,,,,,,NaN,RUNECRAFT 27,27 Runecraft
+,531,Make a Combat Potion,Make a Combat Potion.,,,,,,NaN,HERBLORE 36,36 Herblore
+,532,Mine 15 Granite in the Necropolis,Mine 15 Granite in the Necropolis.,,,,,,NaN,MINING 45,45 Mining Partial completion of   Beneath Cursed Sands
+,533,Mine 30 Chunks of Granite,Mine 30 chunks of Granite at the Kharidian Desert Quarry.,,,,,,28.6,MINING 45,45 Mining
+,534,Pickpocket a Bandit in the Bandit Camp,Pickpocket a Bandit in the Kharidian Desert's Bandit Camp.,,,,,,17.1,THIEVING 53,53 Thieving
+,535,Turn in a Pyramid Top to Simon Templeton,Turn in a Pyramid Top to Simon Templeton at the Agility Pyramid.,,,,,,25.7,AGILITY 30,30 Agility
+,536,Catch 30 Orange Salamanders,Catch 30 Orange Salamanders at Uzer.,,,,,,2.9,HUNTER 47,47 Hunter
+,537,Craft a Lava Rune at the Fire Altar,Craft a Lava Rune at the Fire Altar.,,,,,,NaN,RUNECRAFT 23,23 Runecraft
+,538,Craft some Pottery In Sophanem,Craft some Pottery In Sophanem.,,,,,,14.3,,
+,539,Drink Kovac's grog,"Drink some of Kovac's grog, purchased from the Giants' Foundry Reward Shop.",,,,,,2.9,,"Completion of   Sleeping Giants, 300 Foundry Reputation"
+,540,Complete the Easy Fremennik Diary,Complete all of the Easy tasks in the   Fremennik Achievement Diary.,,,,,,NaN,,See   Fremennik Diary#Easy
+,541,Complete the Medium Fremennik Diary,Complete all of the Medium tasks in the   Fremennik Achievement Diary.,,,,,,NaN,,See   Fremennik Diary#Medium
+,542,Loot a Lyre,Defeat someone and obtain their lyre.,,,,,,50,,
+,543,Open a Frozen Cache,Open a Frozen Cache.,,,,,,NaN,,
+,544,Use the Special Attack of a Dragon Axe,Use the special attack of a Dragon Axe.,,,,,,NaN,ATTACK 60,60 Attack
+,545,Defeat 8 penguins within 5 seconds,Defeat 8 penguins within 5 seconds. This task earns one Demonic Pact.,,,,,,NaN,,
+,546,Defeat a Brine Rat,Defeat a brine rat.,,,,,,NaN,SLAYER 47,47
+,547,Defeat a Suqah,Defeat a suqah.,,,,,,50,,
+,548,Defeat a Wallasalki,Defeat a wallasaki.,,,,,,NaN,,
+,549,Defeat a Dagannoth in the Fremennik Province,Defeat a dagannoth in the Fremennik Province.,,,,,,50,,
+,550,Defeat a Jelly in the Fremennik Province,Defeat a jelly in the Fremennik Province.,,,,,,NaN,SLAYER 52,52 Slayer
+,551,Defeat a Kurask in the Fremennik Province,Defeat a kurask in the Fremennik Province.,,,,,,NaN,SLAYER 70,70 Slayer
+,552,Defeat a Troll in the Fremennik Province,Defeat a troll in the Fremennik Province.,,,,,,50,,
+,553,Defeat a Turoth in the Fremennik Province,Defeat a turoth in the Fremennik Province.,,,,,,NaN,SLAYER 55,55 Slayer
+,554,Equip a full set of Yakhide Armour,Equip a full set of Yakhide Armour.,,,,,,50,CRAFTING 46; DEFENCE 20,"46 Crafting,  20 Defence"
+,555,Equip a Damaged God book,Equip a damaged god book.,,,,,,50,,
+,556,Equip a Helm of Neitiznot,Equip a Helm of Neitiznot.,,,,,,NaN,DEFENCE 55,55 Defence
+,557,Equip a Granite Shield in the Fremennik Province,Equip a granite shield while in the Fremennik Province.,,,,,,NaN,DEFENCE 50; STRENGTH 50,"50 Defence,  50 Strength"
+,558,Unlock Free Use of the Blast Furnace,Unlock free use of the Keldagrim Blast Furnace by speaking with the Foreman.,,,,,,NaN,SMITHING 60,60 Smithing
+,559,Fill up 20 buckets of sand in Rellekka,Fill up 20 buckets of sand in Rellekka.,,,,,,50,,
+,560,Complete Royal Trouble,Complete the   Royal Trouble quest.,,,,,,NaN,AGILITY 40; SLAYER 40,"40 Agility,  40 Slayer Completion of   Throne of Miscellania"
+,561,Complete Throne of Miscellania,Complete the   Throne of Miscellania quest.,,,,,,NaN,,
+,562,Steal a Chisel,Steal a Chisel from a crafting stall in Keldagrim.,,,,,,NaN,THIEVING 5,5
+,563,Steal a Cow bell in Rellekka,Steal a Cow bell in Rellekka.,,,,,,50,THIEVING 15,15  Started   Cold War
+,564,Steal a Fish,Steal some fish from a Fish stall.,,,,,,50,THIEVING 42,42
+,565,Steal a Wooden Stock,Steal a Wooden Stock from a Crossbow Stall.,,,,,,NaN,THIEVING 49,49
+,566,Use Some Icy Basalt to Teleport to Weiss,Use some Icy Basalt to teleport to Weiss.,,,,,,NaN,MINING 72,72 Mining
+,567,Catch a Sabre-toothed Kebbit,Catch a Sabre-toothed Kebbit.,,,,,,50,HUNTER 51,51
+,568,Catch a Snowy Knight,Catch a Snowy Knight.,,,,,,50,HUNTER 35,35 Hunter
+,569,Complete the Penguin Agility Course,Complete a lap of the Penguin Agility Course.,,,,,,NaN,AGILITY 30; CONSTRUCTION 34,"30 Agility,  34 Construction"
+,570,Craft 50 Astral Runes,Craft 50 Astral Runes from Essence at the Astral Altar.,,,,,,NaN,RUNECRAFT 40,40 Runecraft
+,571,Complete the Easy Ardougne Diary,Complete all of the Easy tasks in the   Ardougne Achievement Diary.,,,,,,9.1,,See   Ardougne Diary#Easy
+,572,Complete the Easy Kandarin Diary,Complete all of the Easy tasks in the   Kandarin Achievement Diary.,,,,,,0.8,,See   Kandarin Diary#Easy
+,573,Complete the Medium Ardougne Diary,Complete all of the Medium tasks in the   Ardougne Achievement Diary.,,,,,,NaN,,See   Ardougne Diary#Medium
+,574,Complete the Medium Kandarin Diary,Complete all of the Medium tasks in the   Kandarin Achievement Diary.,,,,,,NaN,,See   Kandarin Diary#Medium
+,575,Enter the Ranging Guild,Enter the Ranging Guild.,,,,,,24.5,RANGED 40,40 Ranged
+,576,Enter the Wizards' Guild,Enter the Wizards' Guild in Yanille.,,,,,,47.4,MAGIC 66,66 Magic
+,577,Defeat a Frogeel,Defeat a Frogeel underneath the Tower of Life.,,,,,,NaN,,Completion of   Tower of Life
+,578,Defeat a Newtroost,Defeat a Newtroost underneath the Tower of Life.,,,,,,2.2,,Completion of   Tower of Life
+,579,Defeat a Swordchick,Defeat a Swordchick underneath the Tower of Life.,,,,,,2.5,,Completion of   Tower of Life
+,580,Defeat a Spidine,Defeat a Spidine underneath the Tower of Life.,,,,,,2.1,CONSTRUCTION 10,10 Construction   Tower of Life
+,581,Defeat a Bloodveld in Kandarin,Defeat a Bloodveld in Kandarin.,,,,,,NaN,SLAYER 50,50 Slayer
+,582,Defeat a Tortoise With Riders in Kandarin,Defeat a Tortoise with riders in Kandarin.,,,,,,28.7,,
+,583,Equip a Monkey Backpack,Equip a Monkey Backpack.,,,,,,22,,
+,584,Equip a Spottier Cape,Equip a Spottier Cape.,,,,,,2.4,HUNTER 69,69 Hunter
+,585,Equip a Dragon Scimitar,Equip a Dragon Scimitar.,,,,,,3.2,ATTACK 60,60 Attack
+,586,Equip a Marksman Chompy Hat,Equip a Marksman Chompy Hat.,,,,,,NaN,FLETCHING 5; COOKING 30; RANGED 30; CRAFTING 5,"5 Fletching,  30 Cooking,  30 Ranged,  5 Crafting Completion of   Big Chompy Bird Hunting"
+,587,Equip an Ogre Forester Chompy Hat,Equip an Ogre Forester Chompy Hat.,,,,,,NaN,FLETCHING 5; COOKING 30; RANGED 30; CRAFTING 5,"5 Fletching,  30 Cooking,  30 Ranged,  5 Crafting Completion of   Big Chompy Bird Hunting"
+,588,Equip a Comp Ogre Bow,Equip a Comp ogre bow.,,,,,,NaN,FLETCHING 30; WOODCUTTING 25,"30 Fletching,  25 Woodcutting"
+,589,Get 250 Target points,Achieve 250 points in the Target minigame in the Ranging Guild.,,,,,,6.2,RANGED 40,40 Ranged
+,590,Win a Game of Castle Wars,Win a game of Castle Wars.,,,,,,NaN,,
+,591,Complete a Fishing Trawler Game,Complete a   Fishing Trawler game at Port Khazard.,,,,,,1.4,FISHING 15,15 Fishing
+,592,Enter the Myths' Guild,Enter the Myths' Guild.,,,,,,36.5,,
+,593,Score a Goal in Gnomeball,Score a Goal in Gnomeball.,,,,,,30.2,,
+,594,Sell 20 Iron Sheets,Sell 20 Iron Sheets to Franklin Caranos.,,,,,,2.7,SMITHING 45,45 Smithing
+,595,Use a Herring on a mighty tree,Use a herring on the mightiest of trees.,,,,,,20.4,,
+,596,Complete Fishing Contest,Complete the   Fishing Contest Quest.,,,,,,14.2,FISHING 10,10 Fishing
+,597,Complete Monk's Friend,Complete the   Monk's Friend quest.,,,,,,15.3,,
+,598,Complete Sea Slug,Complete the   Sea Slug quest.,,,,,,12.2,FIREMAKING 30,30 Firemaking
+,599,Complete the Observatory Quest,Complete the   Observatory Quest.,,,,,,2.1,,
+,600,Complete Tower of Life,Complete the   Tower of Life quest.,,,,,,3.7,CONSTRUCTION 10,10 Construction
+,601,Light a Pyre Ship,Light a Barbarian Pyre Ship.,,,,,,0.2,FIREMAKING 11; CRAFTING 11,"11 Firemaking,  11 Crafting Partial completion of   Barbarian Training"
+,602,Move Your House to Yanille,Move your Player Owned House to Yanille.,,,,,,0.5,CONSTRUCTION 50,50 Construction
+,603,Pickpocket a Knight of Ardougne 50 Times,Pickpocket a Knight of Ardougne 50 times.,,,,,,15.7,THIEVING 55,55 Thieving
+,604,Steal from a Fur Stall,Steal from a Fur Stall in Kandarin.,,,,,,41.2,THIEVING 35,35 Thieving
+,605,Steal from a Silver Stall,Steal from a Silver Stall in Kandarin.,,,,,,35.4,THIEVING 50,50 Thieving
+,606,Steal from a Spice Stall,Steal from a Spice Stall in Kandarin.,,,,,,17.5,THIEVING 65,65 Thieving
+,607,Trap a Spined Larupia in the Feldip Hills,Trap a Spined Larupia in the Feldip Hills.,,,,,,10.2,HUNTER 31,31 Hunter
+,608,Catch a Monkfish,Catch a Monkfish at the Piscatoris Fishing Colony.,,,,,,5.7,FISHING 62,62 Fishing
+,609,Catch a Red Salamander,Catch a Red Salamander outside the Ourania Altar.,,,,,,8.7,HUNTER 59,59 Hunter
+,610,Complete the Barbarian Outpost Agility Course,Complete a lap of the Barbarian Outpost Agility Course.,,,,,,6.8,AGILITY 35,35 Agility
+,611,Enter the Fishing Guild,Enter the Fishing Guild.,,,,,,1,FISHING 68,68 Fishing
+,612,Kourend and Kebos Easy Diary Tasks,Complete all of the Kourend & Kebos Diary easy tasks.,,,,,,NaN,,See   Kourend & Kebos Diary#Easy
+,613,Kourend and Kebos Medium Diary Tasks,Complete all of the Kourend & Kebos Diary medium tasks.,,,,,,NaN,,See   Kourend & Kebos Diary#Medium
+,614,Obtain the Temple Key,Obtain the Temple key in the Forthos Dungeon.,,,,,,NaN,,
+,615,Open 10 Grubby Chests,Open the Grubby Chest in the Forthos Dungeon 10 times.,,,,,,NaN,,
+,616,Open 25 Grubby Chests,Open the Grubby Chest in the Forthos Dungeon 25 times.,,,,,,NaN,,
+,617,Defeat Sarachnis 1 Time,Defeat Sarachnis in the Forthos Dungeon.,,,,,,NaN,,
+,618,Defeat 150 Lizardmen Shaman,Help the Shayzien house by dealing with 150 Lizardmen shaman. This task earns one Demonic Pact.,,,,,,NaN,,
+,619,Defeat a King Sand Crab,Defeat a King Sand Crab.,,,,,,14,,
+,620,"Defeat a Moss, Fire & Hill Giant in Kourend","Defeat a Moss, Fire & Hill Giant in Kourend.",,,,,,23.2,,
+,621,Defeat 50 Lizardmen Shaman,Help the Shayzien House by dealing with 50 Lizardmen shamans.,,,,,,NaN,,
+,622,Defeat Sarachnis 50 Times,Defeat Sarachnis in the Forthos Dungeon 50 times.,,,,,,NaN,,
+,623,Defeat a Drake,Defeat a Drake in the Mount Karuulm Slayer Dungeon.,,,,,,NaN,SLAYER 84,84 Slayer
+,624,Defeat the Wintertodt 10 times,Help the pyromancers defeat the Wintertodt 10 times.,,,,,,NaN,FIREMAKING 50,50 Firemaking
+,625,Defeat the Wintertodt 25 times,Help the pyromancers defeat the Wintertodt 25 times.,,,,,,NaN,FIREMAKING 50,50 Firemaking
+,626,Equip a Pearl Fishing Rod,"Equip a Pearl fishing rod, purchased from Alry on Molch Island.",,,,,,0.4,HUNTER 35; FISHING 43,"35 Hunter,  43 Fishing 100 Molch pearls"
+,627,Equip the Cursed Amulet of Magic,Equip the Cursed amulet of magic.,,,,,,3.3,,
+,628,Equip a Xeric's Talisman,Equip a Xeric's talisman.,,,,,,0.4,,
+,629,Purchase a Seed Box,Purchase a Seed box from the Tithe Farm minigame.,,,,,,2.6,FARMING 34,34 Farming 250 Tithe Farm points
+,630,Headbang with Ket'Sal K'uk,Headbang with Ket'Sal K'uk.,,,,,,7.7,,
+,631,Teleport to Xeric's Honour,Teleport to Xeric's Honour using Xeric's talisman.,,,,,,NaN,,Ancient tablet from   Chambers of Xeric
+,632,Cast Kourend Castle Teleport,Cast the spell Kourend Castle Teleport after unlocking it by reading Transportation incantations.,,,,,,35.4,MAGIC 48,48 Magic
+,633,Create 100 Juniper Charcoal,Create 100 Juniper Charcoal.,,,,,,NaN,WOODCUTTING 42,42 Woodcutting
+,634,Dig 25 Saltpetre,Dig 25 Saltpetre.,,,,,,19.2,,Spade
+,635,Complete the Garden of Death,Complete the Garden of Death.,,,,,,10.7,FARMING 20,20 Farming
+,636,Plant an Anima Seed,Plant an Anima Seed in the Farming Guild.,,,,,,NaN,FARMING 76,76 Farming
+,637,Inferior Demonslaying,Defeat a demon using the Inferior Demonbane spell.,,,,,,2.6,MAGIC 44,44 Magic
+,638,Mine 50 Volcanic Sulphur,Mine 50 Volcanic Sulphur.,,,,,,1.1,MINING 42,42 Mining
+,639,Offer an egg to a shrine,Offer an egg to a shrine in the woodcutting guild.,,,,,,3,WOODCUTTING 60,60 Woodcutting
+,640,Plant 100 Golovanova Seeds,Plant 100 Golovanova seeds in the Tithe Farm minigame.,,,,,,4.8,FARMING 34,34 Farming
+,641,Restore 14 Prayer points in Hosidius,Restore exactly 14 Prayer Points when praying at an Altar in Hosidius.,,,,,,16.2,PRAYER 14,14 Prayer
+,642,Smelt a mithril bar in a volcanic fissure,Smelt a Mithril bar in a volcanic Fissure.,,,,,,1.1,SMITHING 50,50 Smithing
+,643,Smith Shayzien (1),Smith any piece of Shayzien (1).,,,,,,0.4,SMITHING 45; MINING 65,"45 Smithing,  65 Mining"
+,644,Smith Steel in Kourend Castle,Smith Steel in Kourend Castle.,,,,,,11.4,SMITHING 30,30 Smithing
+,645,Steal 1 Artefact,Steal an artefact for Captain Khaled in Piscarilius.,,,,,,0.7,THIEVING 49,49 Thieving
+,646,Steal 15 Artefacts,Steal 15 artefacts for Captain Khaled in Piscarilius.,,,,,,0.4,THIEVING 49,49 Thieving
+,647,Steal a Golovanova Fruit Top,Steal a Golovanova fruit top from a fruit stall in Hosidius.,,,,,,14.4,THIEVING 25,25 Thieving
+,648,Turn in 10 Library Books,Find and turn in 10 books in the Arceuus Library.,,,,,,16.2,,
+,649,Cast Degrime Spell Full Clean,Clean 26 herbs at the same time using the Degrime spell.,,,,,,NaN,MAGIC 70,70 Magic
+,650,Chop 15 Yew Logs in Shayzien,Chop 15 Yew Logs in Shayzien.,,,,,,15.1,WOODCUTTING 60,60 Woodcutting
+,651,Chop 25 Juniper Logs,Chop 25 Juniper Logs.,,,,,,15.5,WOODCUTTING 42,42 Woodcutting
+,652,Complete 10 Farming Contracts,Complete 10 Farming Contracts for Guildmaster Jane in the Farming Guild.,,,,,,NaN,FARMING 45,45 Farming
+,653,Enter the Farming Guild,Enter the Farming Guild in the Kebos Lowlands.,,,,,,6.6,FARMING 45,45 Farming
+,654,Enter the Woodcutting Guild,Enter the Woodcutting Guild in Hosidius.,,,,,,31.4,WOODCUTTING 60,60 Woodcutting
+,655,Complete the Easy Morytania Diary,Complete all of the Easy tasks in the   Morytania Achievement Diary.,,,,,,NaN,,See   Morytania Diary#Easy
+,656,Complete the Medium Morytania Diary,Complete all of the Medium tasks in the   Morytania Achievement Diary.,,,,,,NaN,,See   Morytania Diary#Medium
+,657,Loot a Barrows Chest,Loot a Barrows Chest once.,,,,,,41.2,,
+,658,Defeat a Fiyr Shade,Defeat a Fiyr Shade.,,,,,,NaN,FIREMAKING 65,65 Firemaking Completion of   Shades of Mort'ton
+,659,Defeat a Vyrewatch Sentinel,Defeat a Vyrewatch Sentinel in Darkmeyer.,,,,,,NaN,,Completion of   Sins of the Father
+,660,Equip a full set of Vyre Noble,Equip a full set of Vyre Noble.,,,,,,NaN,,Partial completion of   Sins of the Father
+,661,Equip a Piece of any Barrows Armour Set,Equip any piece of any Barrows armour set.,,,,,,NaN,DEFENCE 70; ATTACK 70; RANGED 70,"70 Defence,  70 Attack, or  70 Ranged"
+,662,Equip a Salve Amulet (e),Equip a Salve Amulet (e).,,,,,,2.9,,Completion of   Lair of Tarn Razorlor
+,663,Open a Black Chest,Open a Black Chest from Shades of Mort'ton.,,,,,,NaN,FIREMAKING 35,35 Firemaking Completion of   Shades of Mort'ton
+,664,Purchase a Reward From the Hallowed Sepulchre,Purchase a reward from the Hallowed Sepulchre.,,,,,,NaN,AGILITY 52,"52 Agility Completion of   Sins of the Father, see Hallowed Sepulchre page for other skill requirements"
+,665,Achieve 100% Shades of Mort'Ton Sanctity,Achieve 100% Sanctity during the Shades of Mort'ton minigame.,,,,,,NaN,,Completion of   Shades of Mort'ton
+,666,Complete a Hard Temple Trek,Complete a Hard   Temple Trek.,,,,,,8.8,,
+,667,Complete a Medium Temple Trek,Complete a Medium   Temple Trek.,,,,,,11.8,,
+,668,Floor 1 of the Hallowed Sepulchre,Complete floor 1 of the Hallowed Sepulchre in Darkmeyer.,,,,,,NaN,AGILITY 52,52 Agility Completion of   Sins of the Father
+,669,Floor 2 of the Hallowed Sepulchre,Complete floor 2 of the Hallowed Sepulchre in Darkmeyer.,,,,,,NaN,AGILITY 62,62 Agility Completion of   Sins of the Father
+,670,Floor 3 of the Hallowed Sepulchre,Complete floor 3 of the Hallowed Sepulchre in Darkmeyer.,,,,,,NaN,AGILITY 72,72 Agility Completion of   Sins of the Father
+,671,Have the Taxidermist stuff something for you,Have the Taxidermist stuff something for you in Canifis.,,,,,,NaN,FISHING 46; SLAYER 5,"Big bass requires  46 Fishing, crawling hand requires  5 Slayer, Kbd heads require  Wilderness✓, Kq head requires  Desert✓, Vorkath's head requires  Fremennik✓"
+,672,Pet Frank,Pet Darkmeyer's goodest boy.,,,,,,NaN,,Partial completion of   Sins of the Father
+,673,Smuggle some Rum,Use the Ring of Charos to smuggle some Karamja rum through customs.,,,,,,NaN,,Partial completion of   Garden of Tranquility
+,674,Telegrab a Bloody bracer,Telegrab a Bloody bracer in Slepe.,,,,,,14.7,MAGIC 33,33 Magic
+,675,Feed a ghast some sweets,Feed a ghast some sweets.,,,,,,NaN,,
+,676,Wear 3 different Snelms,Wear 3 different Snelms obtained by crafting snail shells.,,,,,,14.7,CRAFTING 15,15 Crafting Chisel
+,677,Complete His Faithful Servants,Complete the miniquest His Faithful Servants.,,,,,,32.4,,
+,678,Complete Haunted Mine,Complete the   Haunted Mine quest.,,,,,,8.8,CRAFTING 35,35 Crafting
+,679,Smelt a Steel Bar in Port Phasmatys,Smelt a Steel Bar in Port Phasmatys.,,,,,,8.8,SMITHING 30,30 Smithing
+,680,Worship the Ectofuntus,Worship the Ectofuntus.,,,,,,17.6,,
+,681,Burn 20 Pyre Logs,Burn 20 Pyre Logs.,,,,,,NaN,FIREMAKING 5,5 Firemaking Completion of   Shades of Mort'ton
+,682,Catch a Swamp Lizard in Morytania,Catch a Swamp Lizard in Morytania.,,,,,,8.8,HUNTER 29,29 Hunter
+,683,Chop 100 Blisterwood Logs,Chop 100 Blisterwood Logs.,,,,,,NaN,WOODCUTTING 62,62 Woodcutting
+,684,Complete the Canifis Agility Course,Complete a lap of the Canifis Rooftop Agility Course.,,,,,,26.5,AGILITY 40,40 Agility
+,685,Complete the Werewolf Agility Course,Complete a lap of the Werewolf Agility Course.,,,,,,11.8,AGILITY 60,60 Agility
+,686,Craft a Rune Using Daeyalt Essence,Craft any rune using Daeyalt Essence.,,,,,,NaN,MINING 60,60 Mining Completion of   Sins of the Father
+,687,Create the long rope shortcut in Darkmeyer,Create the long rope agility shortcut in Darkmeyer.,,,,,,NaN,,Completion of   Sins of the Father
+,688,Defeat a Black Dragon in Tirannwn,Defeat a black dragon in Tirannwn. This task earns one Demonic Pact.,,,,,,45.2,,
+,689,Defeat a Bloodveld in Tirannwn,Defeat a Bloodveld in Tirannwn.,,,,,,2,SLAYER 50,50 Slayer
+,690,Defeat a Kurask in Tirannwn,Defeat a Kurask in Tirannwn.,,,,,,NaN,SLAYER 70,70 Slayer
+,691,Defeat an Elf in Tirannwn,Defeat an Elf in Tirannwn.,,,,,,27.7,,
+,692,Pick up 10 Whiteberries in Tirannwn,Pick up 10 Whiteberries in Tirannwn.,,,,,,9.8,,
+,693,Ring all of the Prifddinas bells,Ring all of the Prifddinas bells.,,,,,,15,,
+,694,Use an Elven Teleport Crystal,Use an Elven Teleport Crystal.,,,,,,7.5,,
+,695,Mine 25 gold rocks in Tirannwn,Mine 25 gold rocks in Tirannwn.,,,,,,19.3,MINING 40,40 Mining
+,696,Move Your House to Prifddinas,Move your Player Owned House to Prifddinas.,,,,,,NaN,CONSTRUCTION 70,70 Construction
+,697,Successfully hop over the Tripwire in Tirannwn,Successfully hop over the Tripwire in Tirannwn.,,,,,,14.4,,
+,698,Thieve a tiara from a Silver Stall in Tirannwn,Thieve a tiara from a Silver Stall in Tirannwn.,,,,,,9.2,THIEVING 50,50 Thieving
+,699,Catch a Crystal Impling,Catch a Crystal Impling in Prifddinas.,,,,,,14.4,HUNTER 80,80 Hunter
+,700,Check a grown Papaya Tree in Lletya,Check the health of a Papaya Tree you've grown in Lletya.,,,,,,NaN,FARMING 57,57 Farming
+,701,Chop 100 Maples in Tirannwn,Chop 100 Maples in Tirannwn.,,,,,,6.6,WOODCUTTING 45,45 Woodcutting
+,702,Complete the Easy Wilderness Diary,Complete all of the Easy tasks in the   Wilderness Achievement Diary.,,,,,,NaN,,See   Wilderness Diary#Easy
+,703,Complete the Medium Wilderness Diary,Complete all of the Medium tasks in the   Wilderness Achievement Diary.,,,,,,NaN,,See   Wilderness Diary#Medium
+,704,Obtain an Ecumenical Key,Obtain an Ecumenical Key as a drop in the Wilderness God Wars Dungeon.,,,,,,NaN,STRENGTH 60; AGILITY 60,60 Strength or  60 Agility
+,705,Open 1 Muddy Chest,Open 1 Muddy Chest.,,,,,,1.8,,
+,706,Open 1 Zombie Pirate Locker,Open 1 Zombie Pirate Locker.,,,,,,1.8,,
+,707,Open 15 Larran's Chests,Open 15 of either Larran's Small Chest or Larran's Big Chest.,,,,,,NaN,,
+,708,Open One of Larran's Chests,Open either Larran's Small Chest or Larran's Big Chest.,,,,,,1.4,,
+,709,Cast Claws of Guthix,Cast the Claws of Guthix spell outside of the Mage Arena.,,,,,,0.4,MAGIC 60,60 Magic Completion of   Mage Arena I
+,710,Cast Flames of Zamorak,Cast the Flames of Zamorak spell outside of the Mage Arena.,,,,,,NaN,MAGIC 60,60 Magic Completion of   Mage Arena I
+,711,Cast Saradomin Strike,Cast the Saradomin Strike spell outside of the Mage Arena.,,,,,,NaN,MAGIC 60,60 Magic Completion of   Mage Arena I
+,712,Defeat a Green Dragon in the Wilderness,Defeat a Green Dragon in the Wilderness.,,,,,,42.1,,
+,713,Defeat a Lava Dragon in the Wilderness,Defeat a Lava Dragon in the Wilderness.,,,,,,43.5,,
+,714,Defeat the Chaos Fanatic,Defeat the Chaos Fanatic in the Wilderness.,,,,,,2.9,,
+,715,Defeat the Crazy Archaeologist,Defeat the Crazy Archaeologist in the Wilderness.,,,,,,35.6,,
+,716,Defeat a Revenant Dragon,Defeat a Revenant dragon inside the Revenant Caves.,,,,,,0.7,,
+,717,Equip a Bracelet of Ethereum,Equip a Bracelet of Ethereum.,,,,,,10.8,,
+,718,Equip a Fedora,Equip a Fedora.,,,,,,3.6,,
+,719,Equip a God Cape,"Equip either a Saradomin Cape, a Guthix Cape or a Zamorak Cape.",,,,,,24.8,MAGIC 60,60 Magic Completion of   Mage Arena I
+,720,Destroy the one ring to rule them all,Destroy the one ring to rule them all.,,,,,,8.3,,Use a gold ring on the Wilderness Volcano
+,721,Enter the Deep Wilderness Dungeon,Enter the Deep Wilderness Dungeon.,,,,,,29.9,,
+,722,Use the Abyss,Use the Abyss to access a Runecrafting Altar.,,,,,,NaN,,
+,723,Bury Some Lava Dragon Bones,Bury some Lava dragon bones.,,,,,,41,,
+,724,Catch a Black Salamander,Catch a Black Salamander in the Wilderness.,,,,,,3.6,HUNTER 67,67 Hunter
+,725,Complete the Wilderness Agility Course,Complete a lap of the Wilderness Agility Course.,,,,,,20.5,AGILITY 52,52 Agility
+,726,100 Collection log slots,Obtain 100 unique Collection Log slots.,,,,3,Hard,NaN,,
+,727,200 Collection log slots,Obtain 200 unique Collection Log slots.,,,,3,Hard,NaN,,
+,728,Combat Achievements Easy Tier,Obtain enough points to unlock the easy tier of Combat Achievements.,,,,3,Hard,0.2,,41 Combat Achievement points
+,729,Complete 1 Speed Task,Complete a Combat Achievement Speed task.,,,,3,Hard,NaN,,
+,730,Complete 5 Speed Tasks,Complete 5 Combat Achievement Speed tasks.,,,,3,Hard,NaN,,
+,731,Complete all tasks for 1 boss,Complete all of the Combat Achievements available at 1 boss within the areas you have unlocked.,,,,3,Hard,NaN,,
+,732,Complete all tasks for 3 bosses,Complete all of the Combat Achievements available at 3 different bosses within the areas you have unlocked.,,,,3,Hard,NaN,,
+,733,Cast a Wave Spell,Cast any wave spell.,,,,3,Hard,4.7,MAGIC 62,62 Magic
+,734,Offer an Unsired to the Font of Consumption,Offer an Unsired to the Font of Consumption in the Abyssal Nexus.,,,,3,Hard,NaN,SLAYER 85,85 Slayer
+,735,Reach a Prayer Bonus of 30,Equip enough items to reach a Prayer Bonus of 30 or more.,,,,3,Hard,NaN,,
+,736,Reach Combat Level 100,Reach Combat Level 100.,,,,3,Hard,NaN,,
+,737,Reach Combat Level 110,Reach Combat Level 110.,,,,3,Hard,NaN,,
+,738,Restore 75 Prayer Points at an Altar,Restore 75 or more Prayer Points at any altar.,,,,3,Hard,0.1,PRAYER 75,75 Prayer
+,739,Defeat 100 Superior slayer creatures,Defeat 100 Superior slayer creatures.,,,,3,Hard,NaN,SLAYER 5,5 Slayer Unlocked Bigger and Badder for 150 Slayer reward points or at least Tier 3 Relic unlocked
+,740,Defeat 10 Superior slayer creatures,Defeat 10 Superior slayer creatures.,,,,3,Hard,NaN,SLAYER 5,5 Slayer Unlocked Bigger and Badder for 150 Slayer reward points or at least Tier 3 Relic unlocked
+,741,Defeat 20 Superior slayer creatures,Defeat 20 Superior slayer creatures.,,,,3,Hard,NaN,SLAYER 5,5 Slayer Unlocked Bigger and Badder for 150 Slayer reward points or at least Tier 3 Relic unlocked
+,742,Defeat the Abyssal Sire,Defeat the Abyssal Sire in the Abyssal Nexus.,,,,3,Hard,NaN,SLAYER 85,85 Slayer
+,743,Defeat 1 unique Echo Boss,Defeat 1 unique Echo Boss. This task earns one Demonic Pact.,,,,3,Hard,NaN,,
+,744,Defeat 2 unique Echo Bosses,Defeat 2 unique Echo Bosses. This task earns one Demonic Pact.,,,,3,Hard,NaN,,
+,745,Defeat 25 Echo Bosses,Defeat 25 Echo Bosses.,,,,3,Hard,NaN,,
+,746,Defeat 3 unique Echo Bosses,Defeat 3 unique Echo Bosses. This task earns one Demonic Pact.,,,,3,Hard,NaN,,
+,747,Equip a Combination Battlestaff or Mystic Staff,Equip either a Combination Battlestaff or a Combination Mystic Staff.,,,,3,Hard,NaN,MAGIC 30; ATTACK 30,"30 Magic,  30 Attack"
+,748,Equip a Dragon Weapon,Equip any Dragon weapon.,,,,3,Hard,0.7,ATTACK 60,60 Attack
+,749,Equip a Full Black Dragonhide Set,"Equip a Black Dragonhide Body, some Black Dragonhide Chaps and some Black Dragonhide Vambraces.",,,,3,Hard,NaN,RANGED 70; DEFENCE 40,"70 Ranged,  40 Defence"
+,750,Equip a Full God Dragonhide Set,"Equip a Blessed Coif, Body and Chaps with all pieces aligned to the same god.",,,,3,Hard,NaN,RANGED 70; DEFENCE 40,"70 Ranged,  40 Defence"
+,751,Equip a Full God Rune Set,Equip a full set of God Rune Armour with all pieces aligned to the same god.,,,,3,Hard,NaN,DEFENCE 40,40 Defence
+,752,Equip a Full Rune Set,"Equip a Rune Platebody, a Rune Full Helm and either some Rune Platelegs or a Rune Plateskirt.",,,,3,Hard,NaN,DEFENCE 40,40 Defence
+,753,Equip a Full Vestment Set,Equip a full set of Vestment robes with all pieces aligned to the same god.,,,,3,Hard,NaN,PRAYER 60; MAGIC 40,"60 Prayer,  40 Magic"
+,754,Equip a Gilded or Trimmed Wizard Item,Equip either a Gilded armour item or trimmed wizard item.,,,,3,Hard,0.8,,
+,755,Equip a Magic Shortbow,Equip a Magic Shortbow.,,,,3,Hard,NaN,RANGED 50,50 Ranged
+,756,Equip a Mist Battlestaff,Equip a Mist battlestaff.,,,,3,Hard,NaN,SLAYER 5; ATTACK 30; MAGIC 30,"5 Slayer,  30 Attack,  30 Magic Unlocked Bigger and Badder for 150 Slayer reward points or at least Tier 3 Relic unlocked"
+,757,Equip a Rune Crossbow,Equip a Rune Crossbow.,,,,3,Hard,NaN,RANGED 61,61 Ranged
+,758,Equip a two-handed Axe,Equip a Felling axe.,,,,3,Hard,NaN,,
+,759,Equip an Ornament Kit Item,Equip any item that has an Ornament Kit attached to it.,,,,3,Hard,NaN,,
+,760,Equip one unique Echo Item,Equip one unique echo item.,,,,3,Hard,NaN,,
+,761,Equip some Ranger Boots,Equip a pair of Ranger Boots.,,,,3,Hard,NaN,RANGED 40,40 Ranged
+,762,Equip 3 unique Echo Items,Equip 3 unique Echo Items.,,,,3,Hard,NaN,,
+,763,Equip 2 unique Echo Items,Equip 2 unique Echo Items.,,,,3,Hard,NaN,,
+,764,1 Master Clue Scroll,Open a Reward casket for completing a Master clue scroll.,,,,3,Hard,NaN,,
+,765,25 Master Clue Scrolls,Open 25 Reward caskets for completing Master clue scrolls.,,,,3,Hard,NaN,,
+,766,75 Elite Clue Scrolls,Open 75 Reward caskets for completing Elite clue scrolls.,,,,3,Hard,NaN,,
+,767,75 Hard Clue Scrolls,Open 75 Reward caskets for completing hard clue scrolls.,,,,3,Hard,NaN,,
+,768,Catch 200 Implings in Puro-Puro,Catch 200 Implings in Puro-Puro.,,,,3,Hard,2.2,HUNTER 17,17 Hunter
+,769,Fill 10 Elite Clue Collection Log Slots,Fill 10 slots in the Elite Clue section of the Collection Log.,,,,3,Hard,NaN,,
+,770,Fill 25 Elite Clue Collection Log Slots,Fill 25 slots in the Elite Clue section of the Collection Log.,,,,3,Hard,NaN,,
+,771,Fill 30 Hard Clue Collection Log Slots,Fill 30 slots in the Hard Clue section of the Collection Log.,,,,3,Hard,NaN,,
+,772,Fill 40 Medium Clue Collection Log Slots,Fill 40 slots in the Medium Clue section of the Collection Log.,,,,3,Hard,NaN,,
+,773,Fill 5 Master Clue Collection Log Slots,Fill 5 slots in the Master Clue section of the Collection Log.,,,,3,Hard,NaN,,
+,774,Fill 50 Easy Clue Collection Log Slots,Fill 50 slots in the Easy Clue section of the Collection Log.,,,,3,Hard,NaN,,
+,775,Gain 10 Unique Items From Elite Clues,Gain 10 unique items from Elite Clue Scroll Reward Caskets.,,,,3,Hard,NaN,,
+,776,Gain 10 Unique Items From Master Clues,Gain 10 unique items from Master Clue Scroll Reward Caskets.,,,,3,Hard,NaN,,
+,777,Gain 25 Unique Items From Medium Clues,Gain 25 unique items from Medium Clue Scroll Reward Caskets.,,,,3,Hard,NaN,,
+,778,Gain 50 Unique Items From Hard Clues,Gain 50 unique items from Hard Clue Scroll Reward Caskets.,,,,3,Hard,NaN,,
+,779,Gain a Unique Item From an Elite Clue,Gain a unique item from an Elite Clue Scroll Reward Casket.,,,,3,Hard,NaN,,
+,780,Mine a shooting star,Mine a shooting star.,,,,3,Hard,7.6,MINING 10,10 Mining
+,781,Achieve Your First Level 70,Reach level 70 in any skill.,,,,3,Hard,36,,
+,782,Achieve Your First Level 80,Reach level 80 in any skill.,,,,3,Hard,11.6,,
+,783,Beat Jacky Jester,Successfully copy Jacky the Jester to win.,,,,3,Hard,1.6,CONSTRUCTION 39,39 Construction
+,784,Blow 100 Light Orbs,Blow 100 Empty light orbs.,,,,3,Hard,NaN,CRAFTING 87,87 Crafting
+,785,Build a Gilded Altar,Build a Gilded Altar in a Chapel in your Player Owned House.,,,,3,Hard,NaN,CONSTRUCTION 75,75 Construction
+,786,Burn 100 Yew Logs,Burn 100 Yew Logs.,,,,3,Hard,7.1,FIREMAKING 60,60 Firemaking
+,787,Burn Some Magic Logs,Burn some Magic Logs.,,,,3,Hard,1.6,FIREMAKING 75,75 Firemaking
+,788,Catch 100 Shark,Catch 100 Raw Shark whilst Fishing.,,,,3,Hard,0.1,FISHING 76,76 Fishing
+,789,Catch a Dragon Impling,Catch a Dragon Impling.,,,,3,Hard,0.8,HUNTER 83,83 Hunter
+,790,Chop 100 Yew Logs,Chop 100 Yew Logs.,,,,3,Hard,11.8,WOODCUTTING 60,60 Woodcutting
+,791,Chop 75 Magic Logs,Chop 75 Magic Logs from Magic Trees.,,,,3,Hard,1.6,WOODCUTTING 75,75 Woodcutting
+,792,Clean 100 Grimy Avantoe,Clean 100 Grimy Avantoe.,,,,3,Hard,0.2,HERBLORE 48,48 Herblore
+,793,Clean 50 Grimy Lantadyme,Clean 50 Grimy Lantadyme.,,,,3,Hard,NaN,HERBLORE 67,67 Herblore
+,794,Cook 100 pies,Cook 100 pies.,,,,3,Hard,0.2,COOKING 10,10 Cooking
+,795,Cook 100 Sharks,Cook 100 Raw Sharks.,,,,3,Hard,0.1,COOKING 80,80 Cooking
+,796,Cook 25 Meat Pies,Cook 25 Meat pies.,,,,3,Hard,0.2,COOKING 20,20 Cooking
+,797,Craft 100 Unpowered Orbs,Craft 100 Unpowered Orbs.,,,,3,Hard,2.6,CRAFTING 46,46 Crafting
+,798,Craft 2500 Essence Into Runes,Use Runecrafting Altars to craft 2500 essence into runes of any type.,,,,3,Hard,NaN,,
+,799,Craft 30 Blue Dragonhide Bodies,Craft 30 Blue Dragonhide Bodies.,,,,3,Hard,NaN,CRAFTING 71,71 Crafting
+,800,Craft a Dragonstone Amulet,Craft a Dragonstone Amulet.,,,,3,Hard,0.1,CRAFTING 80,80 Crafting
+,801,Create a Mithril Grapple,Create a Mithril Grapple.,,,,3,Hard,0.1,FLETCHING 59; SMITHING 59,"59 Fletching,  59 Smithing"
+,802,Create a Red D'hide Shield,Create a Red d'hide shield.,,,,3,Hard,NaN,CRAFTING 76,76 Crafting
+,803,Ferment 100 Jugs of Wine,Successfully ferment 100 Jugs of Wine.,,,,3,Hard,0.8,COOKING 35,35 Cooking
+,804,Fill a Giant Pouch,Fill a Giant Pouch with Essence.,,,,3,Hard,NaN,RUNECRAFT 75,75 Runecraft
+,805,Fill a Hard STASH Unit,Build a Hard Stash unit and fill it with the relevant items.,,,,3,Hard,NaN,CONSTRUCTION 55,55 Construction
+,806,Fletch 200 Magic Longbow (u),Fletch 200 Magic Longbow (u).,,,,3,Hard,NaN,FLETCHING 85,85 Fletching
+,807,Fletch 50 Yew longbow (u),Fletch 50 Yew longbow (u).,,,,3,Hard,0.9,FLETCHING 70,70 Fletching
+,808,Fletch a Magic Shield,Fletch a Magic Shield.,,,,3,Hard,NaN,FLETCHING 87,87 Fletching
+,809,Fletch a Rune Crossbow,Fletch a Rune Crossbow.,,,,3,Hard,NaN,FLETCHING 69,69 Fletching
+,810,Make 20 Ranging Potions,Make 20 Ranging Potions.,,,,3,Hard,NaN,HERBLORE 72,72 Herblore
+,811,Make a Saradomin Brew,Make a Saradomin Brew.,,,,3,Hard,NaN,HERBLORE 81,81 Herblore
+,812,Mine 50 Adamantite Ore,Mine 50 Adamantite Ore.,,,,3,Hard,1.5,MINING 70,70 Mining
+,813,Obtain a High level tree seed from a birds nest,"Obtain either a Magic, Dragonfruit, Redwood or Spirit seed from a birds nest.",,,,3,Hard,1.2,,
+,814,Reach Base Level 40,Reach level 40 in every skill.,,,,3,Hard,NaN,,
+,815,Reach Base Level 50,Reach level 50 in every skill.,,,,3,Hard,NaN,,
+,816,Reach Base Level 60,Reach level 60 in every skill.,,,,3,Hard,NaN,,
+,817,Reach Base Level 70,Reach level 70 in every skill.,,,,3,Hard,NaN,,
+,818,Reach Total Level 1000,Reach a Total Level of 1000.,,,,3,Hard,0.6,,
+,819,Reach Total Level 1250,Reach a Total Level of 1250.,,,,3,Hard,NaN,,
+,820,Reach Total Level 1500,Reach a Total Level of 1500.,,,,3,Hard,NaN,,
+,821,Reach Total Level 1750,Reach a Total Level of 1750.,,,,3,Hard,NaN,,
+,822,Smelt a Runite Bar,Use a Furnace to smelt a Runite Bar.,,,,3,Hard,NaN,SMITHING 85,85 Smithing
+,823,Smith a Rune Item,Smith a Runite Item.,,,,3,Hard,NaN,SMITHING 85,85 Smithing
+,824,Steal From a Gem Stall,Steal from a Gem Stall.,,,,3,Hard,0.5,THIEVING 75,75 Thieving
+,825,Hueycoatl Combat Achievements,Complete all of the Combat Achievements for Hueycoatl.,,,,3,Hard,NaN,,
+,826,Amoxliatl Combat Achievements,Complete all of the Combat Achievements for Amoxliatl.,,,,3,Hard,NaN,,See Amoxliatl#Combat Achievements See Amoxliatl#Combat Achievements
+,827,Use the Bank Chest inside Fortis Colosseum,Use the Bank Chest inside Fortis Colosseum.,,,,3,Hard,NaN,,"2,000 Glory"
+,828,Use the Fortis Salute emote,Use the Fortis Salute emote.,,,,3,Hard,NaN,,"20,000 Glory"
+,829,Defeat the Doom of Mokhiatl,Defeat the Doom of Mokhaiotl at any delve level.,,,,3,Hard,NaN,,Completion of   The Final Dawn
+,830,Defeat the Moons of Peril 50 times,Defeat the Moons of Peril 50 times.,,,,3,Hard,NaN,,
+,831,Defeat Amoxliatl 50 Times,Defeat Amoxliatl in Varlamore 50 times.,,,,3,Hard,NaN,SLAYER 48,48 Slayer
+,832,Defeat Hueycoatl 50 Times,Defeat Hueycoatl in Varlamore 50 times.,,,,3,Hard,NaN,,
+,833,Defeat Vardorvis,Defeat Vardorvis.,,,,3,Hard,NaN,,
+,834,Defeat Vardorvis 150 times,Defeat Vardorvis 150 times.,,,,3,Hard,NaN,,
+,835,Defeat Vardorvis 50 times,Defeat Vardorvis 50 times.,,,,3,Hard,NaN,,
+,836,Equip a Fletching knife,Equip a Fletching knife.,,,,3,Hard,1.9,FLETCHING 20,20 Fletching Completion of   Vale Totems
+,837,Equip a Greenman mask,Equip a Greenman mask.,,,,3,Hard,1.5,FLETCHING 20,20 Fletching Completion of   Vale Totems
+,838,Equip a piece of Sunfire Fanatic,Equip a piece of Sunfire Fanatic armour.,,,,3,Hard,NaN,PRAYER 60; DEFENCE 40,"60 Prayer,  40 Defence"
+,839,Equip an Antler guard,Equip an Antler guard.,,,,3,Hard,NaN,PRAYER 50,50 Prayer
+,840,Equip Echo Boots,Equip Echo Boots.,,,,3,Hard,NaN,DEFENCE 75,75 Defence
+,841,Equip full Alchemists outfit,Equip full Alchemists outfit from the Mixology shop.,,,,3,Hard,NaN,HERBLORE 60,60 Herblore
+,842,Equip full Blood Moon armour,Equip full Blood moon armour.,,,,3,Hard,NaN,STRENGTH 75; DEFENCE 50,"75 Strength,  50 Defence Completion of   Perilous Moons"
+,843,Equip full Blue Moon armour,Equip full Blue moon armour.,,,,3,Hard,NaN,MAGIC 75; DEFENCE 50,"75 Magic,  50 Defence Completion of   Perilous Moons"
+,844,Equip full Eclipse Moon armour,Equip full Eclipse moon armour.,,,,3,Hard,NaN,RANGED 75; DEFENCE 50,"75 Ranged,  50 Defence Completion of   Perilous Moons"
+,845,Equip full Guild Hunter Outfit,Equip full Guild Hunter Outfit.,,,,3,Hard,0.5,HUNTER 46,46 Hunter
+,846,Equip full Hueycoatl armour,Equip full Hueycoatl armour.,,,,3,Hard,NaN,CRAFTING 78; RANGED 70; DEFENCE 40,"78 Crafting,  70 Ranged,  40 Defence"
+,847,Equip full Sunfire Fanatic,Equip a full set of Sunfire Fanatic armour.,,,,3,Hard,NaN,PRAYER 60; DEFENCE 40,"60 Prayer,  40 Defence"
+,848,Open a chest with the moon key,Open a chest with the moon key inside the Ruins of Tapoyauik.,,,,3,Hard,NaN,,Completion of   The Heart of Darkness
+,849,Build all Quetzal landing sites,Build all quetzal landing sites.,,,,3,Hard,NaN,,
+,850,Complete the Final Dawn,Complete The Final Dawn quest.,,,,3,Hard,NaN,THIEVING 66; RUNECRAFT 52; FLETCHING 52; MINING 55; SLAYER 48; AGILITY 46,"66 Thieving,  52 Runecraft,  52 Fletching,  55 Mining,  48 Slayer,  46 Agility Completion of   Heart of Darkness"
+,851,Fully decorate a Yew totem in the Auburn Valley,Fully decorate a Yew totem in the Auburn Valley.,,,,3,Hard,2,FLETCHING 65,65 Fletching
+,852,Make 100 Prayer Regeneration Potions,Make 100 Prayer Regeneration Potions.,,,,3,Hard,NaN,HERBLORE 60,60 Herblore
+,853,Make 50 Goading Potions,Make 50 Goading Potions.,,,,3,Hard,NaN,HERBLORE 60,60 Herblore
+,854,Make a Greenman carving,Make a Greenman carving.,,,,3,Hard,NaN,FLETCHING 79,79 Fletching
+,855,Obtain the Huntsman's Kit,Obtain the Huntsman's Kit.,,,,3,Hard,4.6,HUNTER 46,46 Hunter
+,856,Purchase the Reagents Pouch,Purchase the Reagents Pouch from the Mixology shop.,,,,3,Hard,NaN,HERBLORE 60,60 Herblore
+,857,Steal a Blessed Bone Statuette,Steal a Blessed Bone Statuette.,,,,3,Hard,5.5,THIEVING 50,50 Thieving
+,858,Catch 25 Sunlight Antelopes,Catch 25 Sunlight Antelopes.,,,,3,Hard,3.6,HUNTER 72,72 Hunter
+,859,Check the health of Mahogany Tree in Marcellus's Patch,Check the health of Mahogany Tree in Marcellus's Patch.,,,,3,Hard,NaN,FARMING 55,55 Farming Completion of   The Ribbiting Tale of a Lily Pad Labour Dispute
+,860,Chop 20 Magic Logs in Varlamore,Chop 20 Magic Logs in Varlamore.,,,,3,Hard,1.9,WOODCUTTING 75,75 Woodcutting
+,861,Complete 50 Hunter Rumours,Complete 50 Hunter Rumours.,,,,3,Hard,0.1,HUNTER 46,46 Hunter
+,862,Cook 100 Moonlight Antelopes,Cook 100 Moonlight Antelopes.,,,,3,Hard,NaN,HUNTER 91; COOKING 92,"91 Hunter,  92 Cooking"
+,863,Craft 1000 Sunfire Runes,Craft 1000 Sunfire Runes.,,,,3,Hard,NaN,RUNECRAFT 33,33 Runecraft
+,864,Create 100 Jugs of Blessed Sunfire Wine,Create 100 Jugs of Blessed Sunfire Wine.,,,,3,Hard,0.1,,
+,865,Fletch some Atlatl darts,Fletch some Atlatl darts.,,,,3,Hard,NaN,FLETCHING 74,74 Fletching
+,866,Catch a Moonlight moth bare-handed,Catch a moonlight moth barehanded.,,,,3,Hard,1.6,HUNTER 85,85 Hunter
+,867,Fully Decorate a Magic Totem in the Auburn Valley,Fully decorate a Magic totem in the Auburn Valley.,,,,3,Hard,0.1,FLETCHING 80,80 Fletching
+,868,Complete the Hard Karamja Diary,Complete all of the Hard tasks in the   Karamja Achievement Diary.,,,,3,Hard,NaN,,See   Karamja Diary#Hard
+,869,Equip a Full Obsidian Armour Set,Equip a full set of Obsidian armour.,,,,3,Hard,NaN,DEFENCE 60,60 Defence Completion of   TzHaar Fight Cave
+,870,Equip a Red Topaz Machete,Equip a Red Topaz Machete.,,,,3,Hard,0.1,,
+,871,Equip Some Dragon Platelegs or a Dragon Plateskirt,Equip either some Dragon Platelegs or a Dragon Plateskirt.,,,,3,Hard,NaN,DEFENCE 60,60 Defence
+,872,Receive 30 Agility Arena Tickets With No Mistakes,Receive 30 Agility Arena Tickets without missing any pillars.,,,,3,Hard,0.6,,
+,873,Complete Tzhaar-Ket-Rak's first challenge,Complete Tzhaar-Ket-Rak's first challenge.,,,,3,Hard,NaN,,Fire cape
+,874,Complete Tzhaar-Ket-Rak's second challenge,Complete Tzhaar-Ket-Rak's second challenge.,,,,3,Hard,NaN,,Fire cape
+,875,Complete Tzhaar-Ket-Rak's third challenge,Complete Tzhaar-Ket-Rak's third challenge. This task earns one Demonic Pact.,,,,3,Hard,NaN,,Fire cape
+,876,Find a Gout Tuber,Find a Gout Tuber in Tai Bwo Wannai.,,,,3,Hard,1.2,WOODCUTTING 35,35 Woodcutting
+,877,Check a grown Calquat Tree,Check the health of a Calquat Tree you've grown on Karamja.,,,,3,Hard,NaN,FARMING 72,72 Farming
+,878,Cook 100 Karambwans,Cook 100 Karambwan.,,,,3,Hard,0.1,FISHING 30,30 Fishing Completion of   Tai Bwo Wannai Trio
+,879,Cook 20 Karambwans in a row,Cook 20 Karambwans in a row without burning them.,,,,3,Hard,0.1,COOKING 30,30 Cooking Completion of   Tai Bwo Wannai Trio
+,880,Complete the Hard Falador Diary,Complete all of the Hard tasks in the   Falador Achievement Diary.,,,,3,Hard,NaN,,See   Falador Diary#Hard
+,881,Royal Titans Combat Achievements,Complete all of the Combat Achievements for the Royal Titans.,,,,3,Hard,NaN,,
+,882,Mole Combat Achievements,Complete all the Giant Mole Combat Achievements.,,,,3,Hard,NaN,,
+,883,Activate Deadeye,Activate the Deadeye prayer.,,,,3,Hard,NaN,PRAYER 62,62 Prayer Deadeye prayer scroll
+,884,Activate Mystic Vigour,Activate the Mystic Vigour prayer.,,,,3,Hard,NaN,PRAYER 63,63 Prayer Mystic vigour prayer scroll
+,885,Defeat Any God Wars Dungeon Boss 100 Times,Defeat any one of the God Wars Dungeon bosses 100 times.,,,,3,Hard,NaN,HITPOINTS 70; AGILITY 70; RANGED 70; STRENGTH 70,"70 Hitpoints,  70 Agility,  70 Ranged, or  70 Strength"
+,886,Defeat Any God Wars Dungeon Boss 250 Times,Defeat any one of the God Wars Dungeon bosses 250 times.,,,,3,Hard,NaN,HITPOINTS 70; AGILITY 70; RANGED 70; STRENGTH 70,"70 Hitpoints,  70 Agility,  70 Ranged, or  70 Strength"
+,887,Defeat Cerberus,Defeat Cerberus in the Taverley Dungeon.,,,,3,Hard,NaN,SLAYER 91,91 Slayer
+,888,Defeat Cerberus 150 times,Defeat Cerberus 150 times.,,,,3,Hard,NaN,SLAYER 91,91 Slayer
+,889,Defeat Cerberus 50 times,Defeat Cerberus 50 times.,,,,3,Hard,NaN,SLAYER 91,91 Slayer
+,890,Defeat Commander Zilyana,Defeat Commander Zilyana in the God Wars Dungeon.,,,,3,Hard,NaN,AGILITY 70,70 Agility
+,891,Defeat General Graardor,Defeat General Graardor in the God Wars Dungeon.,,,,3,Hard,NaN,STRENGTH 70,70 Strength
+,892,Defeat Kree'arra,Defeat Kree'arra in the God Wars Dungeon.,,,,3,Hard,NaN,RANGED 70,70 Ranged
+,893,Defeat K'ril Tsutsaroth,Defeat K'ril Tsutsaroth in the God Wars Dungeon.,,,,3,Hard,NaN,HITPOINTS 70,70 Hitpoints
+,894,Defeat Nex,Defeat Nex in the God Wars Dungeon.,,,,3,Hard,NaN,,Completion of   The Frozen Door
+,895,Defeat Nex 50 Times,Defeat Nex in the God Wars Dungeon 50 times.,,,,3,Hard,NaN,,Completion of   The Frozen Door
+,896,Defeat Whisperer,Defeat Whisperer.,,,,3,Hard,NaN,,
+,897,Defeat Whisperer 150 times,Defeat Whisperer 150 times.,,,,3,Hard,NaN,,
+,898,Defeat Whisperer 50 times,Defeat Whisperer 50 times.,,,,3,Hard,NaN,,
+,899,Defeat Nex 100 Times,Defeat Nex in the God Wars Dungeon 100 times.,,,,3,Hard,NaN,,Completion of   The Frozen Door
+,900,Defeat the Royal Titans solo,Defeat the Royal Titans without any other player joining. This task earns one Demonic Pact.,,,,3,Hard,2.1,,
+,901,Equip a set of recoloured Graceful,Equip a full set of recoloured Graceful.,,,,3,Hard,NaN,,"Varies, see Graceful outfit § Recolouring."
+,902,Equip a Twinflame staff,Equip a Twinflame staff.,,,,3,Hard,NaN,MAGIC 60,60 Magic
+,903,Equip a Full Prospector Outfit,Equip a full set of Prospector gear.,,,,3,Hard,NaN,MINING 30,30 Mining
+,904,Equip a Full Rogue Outfit,Equip a full set of Rogue gear.,,,,3,Hard,2.1,THIEVING 50; AGILITY 50,"50 Thieving,  50 Agility"
+,905,Equip a Dragon Defender,Equip a dragon defender. This task earns one Demonic Pact.,,,,3,Hard,4.2,DEFENCE 60,60 Defence Access to the   Warriors' Guild
+,906,Equip a Full Void Knight Set,Equip a full set of Void Knight equipment.,,,,3,Hard,NaN,ATTACK 42; STRENGTH 42; DEFENCE 42; HITPOINTS 42; MAGIC 42; RANGED 42; PRAYER 22,"42 Attack,  42 Strength,  42 Defence,  42 Hitpoints,  42 Magic,  42 Ranged,  22 Prayer"
+,907,Equip a Saradomin Sword,Equip a Saradomin Sword.,,,,3,Hard,NaN,ATTACK 70; AGILITY 70,"70 Attack,  70 Agility"
+,908,Equip a Zamorakian Spear,Equip a Zamorakian Spear.,,,,3,Hard,NaN,ATTACK 70; HITPOINTS 70,"70 Attack,  70 Hitpoints"
+,909,Equip a Pair of Dragon Boots in Asgarnia,Equip a pair of dragon boots while inside Asgarnia.,,,,3,Hard,NaN,DEFENCE 60; SLAYER 83,"60 Defence,  83 Slayer"
+,910,Equip some Holy Moleys,Equip some Holy moleys.,,,,3,Hard,NaN,PRAYER 31,31 Prayer
+,911,Purchase a Celestial ring,Purchase a Celestial ring from Dusuri's Star Shop.,,,,3,Hard,10.4,MINING 10,10 Mining
+,912,Craft 50 Law Runes,Craft 50 Law Runes from Essence at the Law Altar.,,,,3,Hard,NaN,RUNECRAFT 54,54 Runecraft
+,913,Complete the Hard Desert Diary,Complete all of the Hard tasks in the   Desert Achievement Diary.,,,,3,Hard,NaN,,See   Desert Diary#Hard
+,914,Kalphite Queen Combat Achievements,Complete all of the Combat Achievements for the Kalphite Queen.,,,,3,Hard,NaN,,
+,915,Cast Ice Blitz,Cast the Ice Blitz spell.,,,,3,Hard,17.1,MAGIC 82,82 Magic
+,916,Complete Tombs of Amascut,Complete   Tombs of Amascut on normal or Expert.,,,,3,Hard,NaN,,Completion of   Beneath Cursed Sands
+,917,Complete Tombs of Amascut 25 times,Complete   Tombs of Amascut on normal or Expert 25 times.,,,,3,Hard,NaN,,Completion of   Beneath Cursed Sands
+,918,Defeat a Dust Devil in the Kharidian Desert,Defeat a dust devil in the desert Smoke Dungeon.,,,,3,Hard,NaN,SLAYER 65,"65 Slayer Light source, and recommended gas mask, facemask, or Slayer helmet"
+,919,Defeat Leviathan,Defeat Leviathan.,,,,3,Hard,NaN,,
+,920,Defeat Leviathan 150 times,Defeat Leviathan 150 times.,,,,3,Hard,NaN,,
+,921,Defeat Leviathan 50 times,Defeat Leviathan 50 times.,,,,3,Hard,NaN,,
+,922,Defeat the Kalphite Queen,Defeat the Kalphite Queen in the Kalphite Lair.,,,,3,Hard,2.9,,
+,923,Defeat the Kalphite Queen 150 Times,Defeat the Kalphite Queen in the Kalphite Lair 150 times.,,,,3,Hard,NaN,,
+,924,Defeat the Kalphite Queen 50 Times,Defeat the Kalphite Queen in the Kalphite Lair 50 times.,,,,3,Hard,NaN,,
+,925,Defeat Tempoross 25 times,Help the Spirit Anglers defeat Tempoross 25 times.,,,,3,Hard,NaN,FISHING 35,35 Fishing
+,926,Equip the Abyssal Lantern,Equip the Abyssal Lantern.,,,,3,Hard,NaN,RUNECRAFT 27,27 Runecraft
+,927,Equip a Dragon 2-Handed Sword,Equip a dragon 2h sword in the Kharidian Desert.,,,,3,Hard,NaN,ATTACK 60,60 Attack
+,928,Equip a full set of the Smith's outfit,"Equip a full set of the Smith's outfit, purchased from the Giant's Foundry minigame.",,,,3,Hard,NaN,SMITHING 15,15 Smithing Completion of   Sleeping Giants
+,929,Equip the Lightbearer,Equip the Lightbearer.,,,,3,Hard,NaN,,Completion of   Beneath Cursed Sands
+,930,Equip a Dragon Pickaxe in the Desert,Equip a dragon pickaxe in the Kharidian Desert.,,,,3,Hard,NaN,ATTACK 60,60 Attack
+,931,Obtain the Fish Barrel,Obtain the Fish Barrel from Tempoross.,,,,3,Hard,17.1,FISHING 35,35 Fishing
+,932,Giants' Foundry 150 quality sword,Hand in a sword with at least 150 quality in Giants' Foundry.,,,,3,Hard,NaN,,Completion of   Sleeping Giants
+,933,Giants' Foundry 25 handins,Hand in 25 successful swords to Kovac.,,,,3,Hard,NaN,,Completion of   Sleeping Giants
+,934,Giants' Foundry 50 handins,Hand in 50 successful swords to Kovac.,,,,3,Hard,NaN,,Completion of   Sleeping Giants
+,935,Pick a Summer Sq'irk,Pick a Summer Sq'irk in the Sorceress's Garden.,,,,3,Hard,8.6,THIEVING 65,65 Thieving
+,936,Room 7 of Pyramid Plunder,Search the Golden Chest in Room 7 of Pyramid Plunder in Sophanem.,,,,3,Hard,2.9,THIEVING 81,81 Thieving
+,937,Room 8 of Pyramid Plunder,Search the Golden Chest in Room 8 of Pyramid Plunder in Sophanem.,,,,3,Hard,NaN,THIEVING 91,91 Thieving
+,938,Room 8 of Pyramid Plunder 25 Times,Search the Golden Chest in Room 8 of Pyramid Plunder in Sophanem 25 times.,,,,3,Hard,NaN,THIEVING 91,91 Thieving
+,939,Turn in 25 Autumn Sq'irkjuices to Osman,Turn in 25 Autumn Sq'irkjuices to Osman in Al Kharid in one go.,,,,3,Hard,NaN,THIEVING 45,45 Thieving
+,940,Giants' Foundry 125 quality sword,Hand in a sword with at least 125 quality in Giants' Foundry.,,,,3,Hard,NaN,,Completion of   Sleeping Giants
+,941,Complete Beneath Cursed Sands,Complete   Beneath Cursed Sands quest.,,,,3,Hard,NaN,AGILITY 62; CRAFTING 55; FIREMAKING 55,"62 Agility,  55 Crafting,  55 Firemaking Completion of   Contact!"
+,942,Guardians of the Rift 25 Rifts closed,Close the Rift in the Temple of the Eye 25 times.,,,,3,Hard,NaN,RUNECRAFT 27,27 Runecraft
+,943,Have Drew create 500 buckets,Create 500 buckets of sand at Drew's sandstorm machine.,,,,3,Hard,5.7,MINING 35,35 Mining
+,944,Make 20 Magic Potions,Make 20 Magic Potions.,,,,3,Hard,NaN,HERBLORE 76,76 Herblore
+,945,Make 50 Menaphite Remedies,Make 50 Menaphite Remedies.,,,,3,Hard,NaN,HERBLORE 88,88 Herblore Completion of   Beneath Cursed Sands
+,946,Pickpocket a Menaphite Thug 50 Times,Knock out and then pickpocket a Menaphite Thug 50 times.,,,,3,Hard,NaN,THIEVING 65,65 Thieving
+,947,"Smith 1,000 Adamant Dart Tips","Use an Anvil to smith 1,000 Adamant Dart Tips.",,,,3,Hard,NaN,SMITHING 74,74 Smithing
+,948,Cast Paddewwa Teleport,Cast the Paddewwa Teleport spell.,,,,3,Hard,NaN,MAGIC 54,54 Magic
+,949,Check a grown Cactus,Check the health of a cactus you've grown in Al Kharid.,,,,3,Hard,NaN,FARMING 55,55 Farming
+,950,Create the Colossal Rune Pouch,Create the Colossal Rune Pouch from Guardians of the Rift.,,,,3,Hard,NaN,RUNECRAFT 27; CRAFTING 56,"27 Runecraft,  56 Crafting"
+,951,Complete the Hard Fremennik Diary,Complete all of the Hard tasks in the   Fremennik Achievement Diary.,,,,3,Hard,NaN,,See   Fremennik Diary#Hard
+,952,Obtain a Frozen Cache from a Cache,Obtain a Frozen Cache from another Frozen Cache.,,,,3,Hard,NaN,,
+,953,Defeat a Rock Lobster,Defeat a Rock Lobster.,,,,3,Hard,NaN,,
+,954,Defeat a Basilisk Knight,Defeat a Basilisk Knight in the Jormungand's Prison. This task earns one Demonic Pact.,,,,3,Hard,NaN,SLAYER 60,60 Slayer Completion of   The Fremennik Exiles
+,955,Defeat Duke Sucellus,Defeat Duke Sucellus.,,,,3,Hard,NaN,,
+,956,Defeat Duke Sucellus 150 times,Defeat Duke Sucellus 150 times.,,,,3,Hard,NaN,,
+,957,Defeat Duke Sucellus 50 times,Defeat Duke Sucellus 50 times.,,,,3,Hard,NaN,,
+,958,Defeat Each Dagannoth King 150 Times,Defeat all three of the Dagannoth Kings in the Waterbirth Island Dungeon 150 times.,,,,3,Hard,NaN,,
+,959,Defeat Each Dagannoth King 50 Times,Defeat all three of the Dagannoth Kings in the Waterbirth Island Dungeon 50 times.,,,,3,Hard,NaN,,
+,960,Defeat Phantom Muspah,Defeat Phantom Muspah. This task earns one Demonic Pact.,,,,3,Hard,NaN,,
+,961,Defeat Phantom Muspah 150 times,Defeat Phantom Muspah 150 times.,,,,3,Hard,NaN,,
+,962,Defeat Phantom Muspah 50 times,Defeat Phantom Muspah 50 times.,,,,3,Hard,NaN,,
+,963,Defeat the Dagannoth Kings Without Leaving,Defeat all three of the Dagannoth Kings in the Waterbirth Island Dungeon without leaving their area.,,,,3,Hard,NaN,,
+,964,Defeat Vorkath,Defeat Vorkath on Ungael.,,,,3,Hard,NaN,,
+,965,Defeat Vorkath 150 Times,Defeat Vorkath on Ungael 150 times.,,,,3,Hard,NaN,,
+,966,Defeat Vorkath 50 Times,Defeat Vorkath on Ungael 50 times.,,,,3,Hard,NaN,,
+,967,Defeat a Rock Crab in one hit,Defeat a Rock Crab in one hit (50 damage).,,,,3,Hard,NaN,,
+,968,Equip a Berserker Ring,Equip a Berserker Ring.,,,,3,Hard,NaN,,
+,969,Equip a Brine Sabre,Equip a Brine Sabre.,,,,3,Hard,NaN,ATTACK 40; SLAYER 47,"40 Attack,  47 Slayer"
+,970,Equip a Full Rockshell Armour Set,Equip a full set of Rockshell armour.,,,,3,Hard,NaN,DEFENCE 40,40 Defence
+,971,Equip a Full Skeletal Armour Set,Equip a full set of Skeletal armour.,,,,3,Hard,NaN,DEFENCE 40; MAGIC 40,"40 Defence,  40 Magic"
+,972,Equip a Full Spined Armour Set,Equip a full set of Spined armour.,,,,3,Hard,NaN,DEFENCE 40; RANGED 40,"40 Defence,  40 Ranged"
+,973,Equip a Leaf-Bladed Battleaxe,Equip a Leaf-Bladed Battleaxe in The Fremennik Provinces.,,,,3,Hard,NaN,ATTACK 65; SLAYER 70,"65 Attack,  70 Slayer"
+,974,Equip a Mud Battlestaff,Equip a Mud Battlestaff.,,,,3,Hard,NaN,MAGIC 30; ATTACK 30,"30 Magic,  30 Attack"
+,975,Equip a Seercull,Equip a Seercull.,,,,3,Hard,NaN,RANGED 50,50 Ranged
+,976,Equip a Seer's Ring,Equip a Seer's Ring.,,,,3,Hard,NaN,,
+,977,Equip a Warrior Ring,Equip a Warrior Ring.,,,,3,Hard,NaN,,
+,978,Equip an Archer's Ring,Equip an Archer's Ring.,,,,3,Hard,NaN,,
+,979,Equip an Ava's Assembler,Equip an Ava's Assembler.,,,,3,Hard,NaN,RANGED 70,70 Ranged
+,980,Equip the Ancient Sceptre,Equip the Ancient Sceptre.,,,,3,Hard,NaN,MAGIC 70; ATTACK 50; STRENGTH 60,"70 Magic,  50 Attack,  60 Strength"
+,981,Trade with Bardur,"Trade with Bardur, in Waterbirth island dungeon.",,,,3,Hard,NaN,,
+,982,Collect Miscellania Resources at Full Approval,Collect some resources on Miscellania with an approval rating of 100%.,,,,3,Hard,NaN,,Completion of   Throne of Miscellania
+,983,Harvest a Snapdragon in Weiss,Harvest a Snapdragon you've grown in Weiss.,,,,3,Hard,NaN,FARMING 62,62 Farming
+,984,Trap a Sabre-toothed Kyatt,Trap a Sabre-toothed Kyatt.,,,,3,Hard,50,HUNTER 55,55 Hunter
+,985,Use Your Portal Nexus to Teleport to Weiss,Use a Portal Nexus in your Player Owned House to teleport to Weiss.,,,,3,Hard,NaN,MINING 72; CONSTRUCTION 72,"72 Mining,  72 Construction"
+,986,Blast Furnace 100 Mithril Bars,Smelt 100 mithril bars at the Blast Furnace.,,,,3,Hard,NaN,SMITHING 50,50 Smithing
+,987,Cast Fertile Soil,Cast the Fertile Soil spell.,,,,3,Hard,NaN,MAGIC 83,83 Magic
+,988,Cast Moonclan Teleport,Cast the Moonclan Teleport spell.,,,,3,Hard,NaN,MAGIC 69,69 Magic
+,989,Cast Spellbook Swap,Cast the Spellbook Swap spell.,,,,3,Hard,NaN,MAGIC 96,96 Magic
+,990,Complete 25 laps of the Rellekka Agility Course,Complete 25 laps of the Rellekka Agility Course.,,,,3,Hard,NaN,AGILITY 80,80
+,991,Complete the Rellekka Agility Course,Complete a lap of the Rellekka Rooftop Agility Course.,,,,3,Hard,NaN,AGILITY 80,80 Agility
+,992,Create a Catherby Teleport Tablet,Create a Catherby Teleport Tablet.,,,,3,Hard,NaN,MAGIC 87,87 Magic
+,993,Blast Furnace 100 Adamantite Bars,Smelt 100 adamantite bars at the Blast Furnace.,,,,3,Hard,NaN,SMITHING 70,70 Smithing
+,994,Sacrifice a Dagannoth bone on a Gilded altar,Sacrifice a Dagannoth bone on a Gilded altar in a player owned house with both burners lit.,,,,3,Hard,NaN,CONSTRUCTION 75,75 Construction
+,995,Complete the Hard Ardougne Diary,Complete all of the Hard tasks in the   Ardougne Achievement Diary.,,,,3,Hard,NaN,,See   Ardougne Diary#Hard
+,996,Complete the Hard Kandarin Diary,Complete all of the Hard tasks in the   Kandarin Achievement Diary.,,,,3,Hard,NaN,,See   Kandarin Diary#Hard
+,997,Thermonuclear Smoke Devil Combat Achievements,Complete all of the Combat Achievements for the Thermonuclear smoke devil.,,,,3,Hard,NaN,,
+,998,Kraken Combat Achievements,Complete all the Kraken Combat Achievements.,,,,3,Hard,NaN,,
+,999,Use the Chivalry Prayer,Use the Chivalry Prayer.,,,,3,Hard,NaN,PRAYER 60; DEFENCE 65,"60 Prayer,  65 Defence Completion of   Knight Waves or the Arcane relic"
+,1000,Deal 66 damage with an elemental spell,"In a single hit, deal at least 66 damage to a creature using elemental spells (air, water, earth, or fire).",,,,3,Hard,0.1,,
+,1001,Cast a water surge spell at a Black dragon in Kandarin,Cast a water surge spell at a black dragon in Kandarin.,,,,3,Hard,11.9,MAGIC 85,85 Magic
+,1002,Defeat a Jubster while dressed like it,Defeat a Jubster underneath the Tower of Life while wearing a beret.,,,,3,Hard,NaN,,Completion of   Tower of Life
+,1003,Defeat 150 Demonic Gorillas,Defeat 150 Demonic Gorillas in the Crash Site Cavern.,,,,3,Hard,NaN,,
+,1004,Defeat a Cave Kraken,Defeat a Cave Kraken in Kraken Cove.,,,,3,Hard,NaN,SLAYER 87,87 Slayer
+,1005,Defeat a Demonic Gorilla,Defeat a demonic gorilla in the Crash Site Cavern. This task earns one Demonic Pact.,,,,3,Hard,2.4,,
+,1006,Defeat a Mithril Dragon,Defeat a mithril dragon in the Ancient Cavern. This task earns one Demonic Pact.,,,,3,Hard,5.1,,
+,1007,Defeat a Smoke Devil,Defeat a Smoke Devil in the Smoke Devil Dungeon.,,,,3,Hard,NaN,SLAYER 93,93 Slayer
+,1008,Defeat the Kraken Boss 150 Times,Defeat the Kraken boss in Kraken Cove 150 times.,,,,3,Hard,NaN,SLAYER 87,87 Slayer
+,1009,Defeat the Kraken Boss 50 Times,Defeat the Kraken boss in Kraken Cove 50 times. This task earns one Demonic Pact.,,,,3,Hard,NaN,SLAYER 87,87 Slayer
+,1010,Defeat the Penance Queen,Defeat the Penance Queen in Barbarian Assault.,,,,3,Hard,NaN,,
+,1011,Defeat the Thermonuclear Smoke Devil,Defeat the Thermonuclear Smoke Devil in the Smoke Devil Dungeon.,,,,3,Hard,NaN,SLAYER 93,93 Slayer
+,1012,Equip a Full Angler's Outfit,Equip a full set of Angler gear.,,,,3,Hard,NaN,FISHING 34,34 Fishing
+,1013,Equip a Karamja Monkey Backpack,Equip a Karamja Monkey Backpack.,,,,3,Hard,NaN,AGILITY 48,48 Agility
+,1014,Equip a Trident of the Seas,Equip a Trident of the Seas. This task earns one Demonic Pact.,,,,3,Hard,NaN,MAGIC 75; SLAYER 87,"75 Magic,  87 Slayer"
+,1015,Equip a Warped Sceptre,Equip a Warped Sceptre.,,,,3,Hard,NaN,MAGIC 62; SLAYER 56,"62 Magic,  56 Slayer Completion of   The Path of Glouphrie"
+,1016,Equip an Ogre Expert Chompy Hat,Equip an Ogre Expert Chompy Hat.,,,,3,Hard,NaN,FLETCHING 5; COOKING 30; RANGED 30; CRAFTING 5,"5 Fletching,  30 Cooking,  30 Ranged,  5 Crafting Completion of   Big Chompy Bird Hunting"
+,1017,Get 750 Target points,Achieve 750 points in the Target minigame in the Ranging Guild.,,,,3,Hard,0.1,RANGED 40,40 Ranged
+,1018,Feed Longramble,Deliver some Tangled Toads Legs to Longramble.,,,,3,Hard,NaN,COOKING 40,40 Cooking
+,1019,Bury an Ourg bone,Bury an ourg bone.,,,,3,Hard,0.2,,"Either partial completion of   Zogre Flesh Eaters, or  Morytania✓"
+,1020,Complete Elemental Workshop II,Complete the   Elemental Workshop II quest.,,,,3,Hard,NaN,MAGIC 20; SMITHING 30,"20 Magic,  30 Smithing"
+,1021,Complete Path of Glouphrie,Complete the   Path of Glouphrie quest.,,,,3,Hard,NaN,STRENGTH 60; SLAYER 56; THIEVING 56; RANGED 47; AGILITY 45,"60 Strength,  56 Slayer,  56 Thieving,  47 Ranged,  45 Agility Completion of   The Eyes of Glouphrie"
+,1022,Pickpocket a King Worm,Pickpocket a gnome for a King Worm.,,,,3,Hard,7.7,THIEVING 75,75 Thieving
+,1023,Trade in 1000 Minnows,Trade in 1000 Minnows in the Fishing guild.,,,,3,Hard,NaN,FISHING 75,75 Fishing Angler's outfit
+,1024,Check a grown Papaya Tree in the Gnome Stronghold,Check the health of a Papaya Tree you've grown in the Tree Gnome Stronghold.,,,,3,Hard,NaN,FARMING 57,57 Farming
+,1025,Complete the Seers' Village Agility Course,Complete a lap of the Seers' Village Rooftop Agility Course.,,,,3,Hard,26.8,AGILITY 60,60 Agility
+,1026,Fletch 100 Maple Longbow (u) in Kandarin,Fletch 100 Maple Longbow (u) in Kandarin.,,,,3,Hard,5.2,FLETCHING 55,55 Fletching
+,1027,Pickpocket an Elite clue from a hero,Pickpocket an elite clue scroll from a hero.,,,,3,Hard,2.9,THIEVING 80,80 Thieving
+,1028,Kourend and Kebos Hard Diary Tasks,Complete all of the Kourend & Kebos Diary hard tasks.,,,,3,Hard,NaN,,See   Kourend & Kebos Diary#Hard
+,1029,Activate an Arcane or Dexterous Prayer Scroll,Activate an Arcane or Dexterous Prayer scroll.,,,,3,Hard,NaN,,
+,1030,Blow the Soulflame Horn,Use the special attack of the soulflame horn.,,,,3,Hard,NaN,MAGIC 80,80 Magic
+,1031,Read the Rite of Vile Transference,Read the rite of vile transference to improve the Death Charge spell.,,,,3,Hard,NaN,,
+,1032,Create the Silklined herb sack,Create the silklined herb sack.,,,,3,Hard,NaN,HERBLORE 58,58 Herblore
+,1033,Defeat the Alchemical Hydra 1 Time,Defeat the Alchemical Hydra in Mount Karuulm 300 times.,,,,3,Hard,NaN,SLAYER 95,95 Slayer Hydra Slayer task
+,1034,Defeat the Mimic 1 Time,Defeat the Mimic as part of a Treasure Trail.,,,,3,Hard,NaN,,
+,1035,Defeat Skotizo 1 Time,Defeat Skotizo beneath the Catacombs of Kourend. This task earns one Demonic Pact.,,,,3,Hard,NaN,,
+,1036,Defeat the Alchemical Hydra 150 Times,Defeat the Alchemical hydra in Mount Karuulm 150 times.,,,,3,Hard,NaN,SLAYER 95,95 Slayer Hydra Slayer task
+,1037,Defeat Sarachnis 150 Times,Defeat Sarachnis in the Forthos Dungeon 150 times.,,,,3,Hard,NaN,,
+,1038,Defeat 300 Lizardmen Shaman,Help the Shayzien House by dealing with 300 Lizardmen shamans.,,,,3,Hard,NaN,,
+,1039,Defeat Sarachnis 300 Times,Defeat Sarachnis in the Forthos Dungeon 300 times.,,,,3,Hard,NaN,,
+,1040,Defeat the Mimic 5 Times,Defeat the Mimic as part of a Treasure Trail 5 times.,,,,3,Hard,NaN,,
+,1041,Defeat the Alchemical Hydra 50 Times,Defeat the Alchemical hydra in Mount Karuulm 50 times.,,,,3,Hard,NaN,SLAYER 95,95 Slayer Hydra Slayer task
+,1042,Defeat a Hydra,Defeat a regular hydra in the Karuulm Slayer Dungeon.,,,,3,Hard,NaN,SLAYER 95,"95 Slayer Protection from extreme heat, or elite Kourend & Kebos Diary"
+,1043,Defeat the Wintertodt 50 times,Help the pyromancers defeat the Wintertodt 50 times.,,,,3,Hard,NaN,FIREMAKING 50,50 Firemaking
+,1044,Defeat Yama 1 time,Defeat Yama 1 time.,,,,3,Hard,NaN,,
+,1045,Defeat Yama 50 times,Defeat Yama 50 times.,,,,3,Hard,NaN,,
+,1046,Equip Boots of Brimstone,Equip a pair of Boots of brimstone.,,,,3,Hard,NaN,SLAYER 84; DEFENCE 70; MAGIC 70; RANGED 70,"84 Slayer,  70 Defence,  70 Magic,  70 Ranged"
+,1047,Equip the Farmer's Outfit,Equip a full set of the Farmer's outfit.,,,,3,Hard,2.2,FARMING 34,34 Farming or Nature's Accord
+,1048,Equip the Pyromancer's Garb,"Equip a full set of Pyromancer's garb, rewarded from the Wintertodt.",,,,3,Hard,NaN,FIREMAKING 50,50 Firemaking
+,1049,Equip Tier 5 Shayzien Armour,Equip a full set of tier 5 Shayzien armour.,,,,3,Hard,0.7,DEFENCE 20,20 Defence
+,1050,1 Chambers of Xeric,Complete the Chambers of Xeric.,,,,3,Hard,NaN,,
+,1051,25 Chambers of Xeric,Complete the Chambers of Xeric normal or challenge mode 25 times. This task earns one Demonic Pact.,,,,3,Hard,NaN,,
+,1052,50 Chambers of Xeric,Complete the Chambers of Xeric normal or challenge mode 50 times.,,,,3,Hard,NaN,,
+,1053,Turn in 50 Library Books,Find and turn in 50 books in the Arceuus Library.,,,,3,Hard,5.2,,
+,1054,Harvest 25 Zamorak's Grapes,Harvest 25 Zamorak's Grapes.,,,,3,Hard,NaN,FARMING 36; PRAYER 50; COOKING 65,"36 Farming,  50 Prayer,  65 Cooking"
+,1055,Obtain Runite Ore at the Blast Mine,Obtain a piece of Runite ore while taking part in the Blast Mine.,,,,3,Hard,NaN,MINING 75,75 Mining
+,1056,Plant 100 Bologano Seeds,Plant 100 Bologano seeds in the Tithe Farm minigame.,,,,3,Hard,3.7,FARMING 54,54 Farming
+,1057,Plant 100 Logavano Seeds,Plant 100 Logavano seeds in the Tithe Farm minigame.,,,,3,Hard,1.1,FARMING 74,74 Farming
+,1058,Burn 200 Redwood Logs,Burn 200 Redwood Logs.,,,,3,Hard,NaN,FIREMAKING 90; WOODCUTTING 90,"90 Firemaking,  90 Woodcutting"
+,1059,Complete 50 Farming Contracts,Complete 50 Farming Contracts for Guildmaster Jane in the Farming Guild.,,,,3,Hard,NaN,FARMING 45,45 Farming
+,1060,Complete the Shayzien Advanced Agility Course,Complete a lap of the Shayzien Advanced Agility Course.,,,,3,Hard,7,ATTACK 45,45 Attack Any crossbow and a mith grapple
+,1061,Craft 100 Blood runes,Craft 100 Blood runes at the Kourend Blood Altar.,,,,3,Hard,NaN,RUNECRAFT 77; MINING 38; CRAFTING 38,"77 Runecraft,  38 Mining,  38 Crafting"
+,1062,Create 10 Dynamite,Create 10 Dynamite.,,,,3,Hard,NaN,MINING 42; WOODCUTTING 42,"42 Mining,  42 Woodcutting"
+,1063,Enter the Farming Guild's High Tier,Enter the high tier of the Farming Guild in the Kebos Lowlands.,,,,3,Hard,0.4,FARMING 85,85 Farming
+,1064,Chop a Magic Log at the Forsaken Tower,Chop a log from the magic trees around the Forsaken Tower.,,,,3,Hard,0.4,WOODCUTTING 75,75 Woodcutting
+,1065,Complete the Hard Morytania Diary,Complete all of the Hard tasks in the   Morytania Achievement Diary.,,,,3,Hard,NaN,,See   Morytania Diary#Hard
+,1066,Create an Amulet of Blood Fury,Create an amulet of blood fury. This task earns one Demonic Pact.,,,,3,Hard,NaN,CRAFTING 90; MAGIC 87,"90 Crafting,  87 Magic Completion of   Sins of the Father"
+,1067,Assemble a Slayer Helm,Assemble a Slayer helmet. This task earns one Demonic Pact.,,,,3,Hard,NaN,SLAYER 58; CRAFTING 55,"58 Slayer,  55 Crafting Unlocked Malevolent Masquerade for 400 Slayer reward points"
+,1068,Defeat Araxxor 1 Time,Defeat the Araxxor in the Morytania Spider cave. This task earns one Demonic Pact.,,,,3,Hard,NaN,SLAYER 92,92 Slayer
+,1069,Defeat Araxxor 150 Times,Defeat Araxxor in Morytania Spider cave 150 times.,,,,3,Hard,NaN,SLAYER 92,92 Slayer Araxxor slayer task
+,1070,Defeat Araxxor 50 Times,Defeat Araxxor in Morytania Spider cave 50 times.,,,,3,Hard,NaN,SLAYER 92,92 Slayer Araxxor slayer task
+,1071,Defeat a Urium Shade,Defeat a Urium Shade.,,,,3,Hard,NaN,FIREMAKING 80,80 Firemaking to cremate Fiyr remains Completion of   Shades of Mort'ton and a gold key red
+,1072,Defeat the Grotesque Guardians,Defeat the Grotesque Guardians at the Slayer Tower.,,,,3,Hard,NaN,SLAYER 75,75 Slayer
+,1073,Defeat the Grotesque Guardians 150 Times,Defeat the Grotesque Guardians at the Slayer Tower 150 times.,,,,3,Hard,NaN,SLAYER 75,75 Slayer
+,1074,Defeat the Grotesque Guardians 50 Times,Defeat the Grotesque Guardians at the Slayer Tower 50 times.,,,,3,Hard,NaN,SLAYER 75,75 Slayer
+,1075,Defeat The Nightmare,Defeat The Nightmare in the Sisterhood Sanctuary.,,,,3,Hard,NaN,,
+,1076,Defeat The Nightmare 25 times,Defeat The Nightmare or Phosani's Nightmare 25 times combined.,,,,3,Hard,NaN,,
+,1077,Defeat an Abyssal Demon in Morytania,Defeat an Abyssal Demon in Morytania.,,,,3,Hard,NaN,SLAYER 85,85 Slayer
+,1078,Equip a Nightmare Staff,Equip a normal Nightmare Staff.,,,,3,Hard,NaN,MAGIC 72; HITPOINTS 50,"72 Magic,  50 Hitpoints"
+,1079,Equip a Piece of Zealot's Robes,"Equip either a Zealot's helm, a Zealot's robe top, a Zealot's robe bottom or a Zealot's boots.",,,,3,Hard,NaN,FIREMAKING 80,80 Firemaking Completion of   Shades of Mort'ton
+,1080,Equip any Full Barrows Armour Set,Equip a full set of any Barrows armour + weapon. This task earns one Demonic Pact.,,,,3,Hard,NaN,DEFENCE 70; ATTACK 70; RANGED 70,"70 Defence, one of  70 Attack or  70 Ranged"
+,1081,Equip Aranea Boots,Equip Aranea Boots.,,,,3,Hard,NaN,SLAYER 92,92 Slayer
+,1082,Equip Full Ahrims Armour Set,Equip a full set of Ahrims items.,,,,3,Hard,NaN,MAGIC 70; DEFENCE 70; ATTACK 70,"70 Magic,  70 Defence,  70 Attack"
+,1083,Equip Full Dharoks Armour Set,Equip a full set of Dharoks items.,,,,3,Hard,NaN,STRENGTH 70; DEFENCE 70; ATTACK 70,"70 Strength,  70 Defence,  70 Attack"
+,1084,Equip Full Guthans Armour Set,Equip a full set of Guthans items.,,,,3,Hard,NaN,DEFENCE 70; ATTACK 70,"70 Defence,  70 Attack"
+,1085,Equip Full Karils Armour Set,Equip a full set of Karils items.,,,,3,Hard,NaN,RANGED 70; DEFENCE 70,"70 Ranged,  70 Defence"
+,1086,Equip Full Torags Armour Set,Equip a full set of Torags items.,,,,3,Hard,NaN,STRENGTH 70; DEFENCE 70; ATTACK 70,"70 Strength,  70 Defence,  70 Attack"
+,1087,Equip Full Veracs Armour Set,Equip a full set of Veracs items.,,,,3,Hard,NaN,DEFENCE 70; ATTACK 70,"70 Defence,  70 Attack"
+,1088,Equip a Granite Hammer or Granite Ring,Equip either a Granite Hammer or a Granite Ring.,,,,3,Hard,NaN,SLAYER 75; STRENGTH 50; ATTACK 50; DEFENCE 50,"75 Slayer,  50 Strength, either  50 Attack or  50 Defence"
+,1089,Obtain Every Hallowed Tool,Obtain all four Hallowed Tools from the Hallowed Sepulchre.,,,,3,Hard,NaN,AGILITY 52,"52 Agility Completion of   Sins of the Father, see Hallowed Sepulchre page for other skill requirements"
+,1090,Open a Gold Chest,Open a Gold Chest from Shades of Mort'ton.,,,,3,Hard,NaN,FIREMAKING 80,80 Firemaking Completion of   Shades of Mort'ton
+,1091,Floor 4 of the Hallowed Sepulchre,Complete floor 4 of the Hallowed Sepulchre in Darkmeyer.,,,,3,Hard,NaN,AGILITY 82,82 Agility Completion of   Sins of the Father
+,1092,Unlock permanent boat travel with Andras,Unlock permanent boat travel with Andras in Morytania.,,,,3,Hard,2.9,,
+,1093,Complete Sins of the Father,Complete the   Sins of the Father quest.,,,,3,Hard,NaN,WOODCUTTING 62; FLETCHING 60; CRAFTING 56; AGILITY 52; ATTACK 50; SLAYER 50; MAGIC 49,"62 Woodcutting,  60 Fletching,  56 Crafting,  52 Agility,  50 Attack,  50 Slayer,  49 Magic Completion of   Vampyre Slayer"
+,1094,Pickpocket a Vyre 50 Times,Pickpocket a Vyre 50 times.,,,,3,Hard,NaN,THIEVING 82,82 Thieving
+,1095,Burn 20 Blisterwood Logs,Burn 20 Blisterwood Logs.,,,,3,Hard,NaN,FIREMAKING 62; WOODCUTTING 62,"62 Firemaking,  62 Woodcutting Completion of   Sins of the Father"
+,1096,Cook 20 Sharks in Darkmeyer,Cook 20 Sharks in Darkmeyer.,,,,3,Hard,NaN,COOKING 80,80 Cooking Partial completion of   Sins of the Father
+,1097,Learn how to make Swampbark,Learn how to make swampbark armour by reading the runescroll of swampbark.,,,,3,Hard,NaN,FIREMAKING 5,5 Firemaking Completion of   Shades of Mort'ton
+,1098,Learn how to make Bloodbark,Learn how to make bloodbark armour by reading the runescroll of bloodbark.,,,,3,Hard,NaN,FIREMAKING 5,5 Firemaking Completion of   Shades of Mort'ton
+,1099,Zalcano Combat Achievements,Complete all of the Combat Achievements for Zalcano.,,,,3,Hard,NaN,,
+,1100,Load a blowpipe with Rune Darts,Load a Toxic Blowpipe with Rune Darts.,,,,3,Hard,NaN,FLETCHING 53,53 Fletching
+,1101,Defeat 50 Elves in Tirannwn,Defeat 50 Elves in Tirannwn.,,,,3,Hard,0.3,,
+,1102,Defeat the memory of Seren,Defeat the Fragment of Seren by replaying her fight using the Memoriam Device.,,,,3,Hard,NaN,,
+,1103,Defeat a Dark Beast in Tirannwn,Defeat a Dark Beast in Tirannwn.,,,,3,Hard,NaN,SLAYER 90,90 Slayer
+,1104,Defeat a Nechryael in Tirannwn,Defeat a Nechryael in Tirannwn.,,,,3,Hard,NaN,SLAYER 80,80 Slayer
+,1105,Defeat Zalcano,Defeat Zalcano in Prifddinas. This task earns one Demonic Pact.,,,,3,Hard,9.2,,
+,1106,Defeat Zalcano 50 Times,Defeat Zalcano in Prifddinas 50 times.,,,,3,Hard,NaN,,
+,1107,Defeat Zulrah,Defeat Zulrah at the Poison Waste.,,,,3,Hard,0.6,,
+,1108,Defeat Zulrah 50 Times,Defeat Zulrah at the Poison Waste 50 times.,,,,3,Hard,NaN,,
+,1109,Equip a Crystal Bow,Equip a Crystal Bow.,,,,3,Hard,NaN,AGILITY 50; RANGED 70,"50 Agility,  70 Ranged"
+,1110,Equip a Crystal Shield,Equip a Crystal Shield.,,,,3,Hard,NaN,AGILITY 50; DEFENCE 70,"50 Agility,  70 Defence"
+,1111,Equip a Dark Bow in Tirannwn,Equip a dark bow in Tirannwn. This task earns one Demonic Pact.,,,,3,Hard,NaN,RANGED 60; SLAYER 90,"60 Ranged,  90 Slayer"
+,1112,Equip any piece of Crystal Armour,"Equip either the Crystal Helmet, Body or Legs.",,,,3,Hard,NaN,DEFENCE 70,70 Defence Completion of   The Gauntlet
+,1113,Equip a one-hand Leaf-bladed weapon in Tirannwn,Equip a leaf-bladed sword or leaf-bladed battleaxe in Tirannwn.,,,,3,Hard,NaN,ATTACK 50; SLAYER 55,"50 Attack,  55 Slayer"
+,1114,Complete the Corrupted Gauntlet,Complete the Corrupted Gauntlet in Prifddinas. This task earns one Demonic Pact.,,,,3,Hard,12.1,,
+,1115,Complete the Gauntlet,Complete the Gauntlet in Prifddinas.,,,,3,Hard,22.8,,
+,1116,Open the Enhanced Crystal Chest,Open the Enhanced Crystal Chest in Prifddinas.,,,,3,Hard,NaN,,
+,1117,Craft an Eternal Teleport Crystal,Use a Singing Bowl to craft an Eternal Teleport Crystal.,,,,3,Hard,0.9,SMITHING 80; CRAFTING 80,"80 Smithing,  80 Crafting"
+,1118,Find Every Memoriam Crystal,Find every Memoriam Crystal in Prifddinas and add them to the Memoriam Device.,,,,3,Hard,0.6,AGILITY 75,75 Agility
+,1119,Receive a Crystal Acorn from Pennant,"Trade in a crystal weapon seed, crystal armour seed, or crystal tool seed to Pennant for a crystal acorn.",,,,3,Hard,NaN,,
+,1120,Mine 200 Soft Clay in Tirannwn,Mine 200 Soft Clay in Tirannwn.,,,,3,Hard,1.4,MINING 70,70 Mining
+,1121,Pickpocket an Elf 50 Times,Pickpocket an Elf 50 times.,,,,3,Hard,4.6,THIEVING 85,85 Thieving
+,1122,Receive a Dragonstone Amulet from an Impling,Receive a Dragonstone Amulet from a Crystal Impling.,,,,3,Hard,4.6,HUNTER 80,80 Hunter
+,1123,Check a grown Crystal Tree,Check the health of a Crystal Tree you've grown in Prifddinas.,,,,3,Hard,NaN,FARMING 74,74 Farming
+,1124,Chop 100 Teak Logs in Prifddinas,Chop 100 Teak Logs in Prifddinas.,,,,3,Hard,12.4,WOODCUTTING 35,35 Woodcutting
+,1125,Chop 50 Magic Logs in Tirannwn,Chop 50 Magic Logs in Tirannwn.,,,,3,Hard,0.3,WOODCUTTING 75,75 Woodcutting
+,1126,Complete 50 laps of the Prifddinas Agility Course,Complete 50 laps of the Prifddinas Agility Course.,,,,3,Hard,NaN,AGILITY 75,75 Agility
+,1127,Complete the Prifddinas Agility Course,Complete a lap of the Prifddinas Agility Course.,,,,3,Hard,0.9,AGILITY 75,75 Agility
+,1128,Complete the Prifddinas Agility Course in 1:10,Complete a lap of the Prifddinas Agility Course in 1:10 or less.,,,,3,Hard,0.9,AGILITY 75,75 Agility
+,1129,Craft 50 Death Runes,Craft 50 Death Runes from Essence at the Death Altar.,,,,3,Hard,NaN,RUNECRAFT 65,65 Runecraft
+,1130,Craft a Piece of Crystal Armour,Use a Singing Bowl to craft any piece of Crystal armour.,,,,3,Hard,NaN,SMITHING 70; CRAFTING 70,"70 Smithing,  70 Crafting"
+,1131,Create 25 Divine Super Attack Potions,Create 25 Divine Super Attack Potions.,,,,3,Hard,NaN,HERBLORE 70,70 Herblore
+,1132,Create 25 Divine Super Strength Potions,Create 25 Divine Super Strength Potions.,,,,3,Hard,NaN,HERBLORE 70,70 Herblore
+,1133,Dissect 50 Sacred Eels,Dissect 50 Sacred Eels.,,,,3,Hard,NaN,FISHING 87; COOKING 72,"87 Fishing,  72 Cooking"
+,1134,Harvest Some Snape Grass in Prifddinas,Harvest some Snape grass from the Prifddinas allotment patch.,,,,3,Hard,NaN,FARMING 61,61 Farming
+,1135,Make 100 Mahogany Planks in Prifddinas,Make 100 mahogany planks in Prifddinas.,,,,3,Hard,1.4,,
+,1136,Create 100 Anti-venom Potions,Make an anti-venom potion 100 times at any dosage.,,,,3,Hard,NaN,HERBLORE 87,87 Herblore
+,1137,Thieve a Diamond from a Gem Stall in Tirannwn,Thieve a Diamond from a Gem Stall in Tirannwn.,,,,3,Hard,3.2,THIEVING 75,75 Thieving
+,1138,Complete the Hard Wilderness Diary,Complete all of the Hard tasks in the   Wilderness Achievement Diary.,,,,3,Hard,NaN,,See   Wilderness Diary#Hard
+,1139,Open 10 Muddy Chests,Open 10 Muddy Chests.,,,,3,Hard,NaN,,
+,1140,Open 15 Zombie Pirate Lockers,Open 15 Zombie Pirate Lockers.,,,,3,Hard,NaN,,
+,1141,Open 50 Larran's Chests,Open 50 of either Larran's Small Chest or Larran's Big Chest.,,,,3,Hard,NaN,,
+,1142,Open 50 Zombie Pirate Lockers,Open 50 Zombie Pirate Lockers.,,,,3,Hard,NaN,,
+,1143,Use a teleport anchoring scroll,Use a teleport anchoring scroll.,,,,3,Hard,NaN,,
+,1144,Fully charge a Bracelet of Ethereum,Fully charge a Bracelet of ethereum.,,,,3,Hard,NaN,,
+,1145,Defeat Callisto 300 times,Defeat Callisto or Artio 300 times.,,,,3,Hard,NaN,,
+,1146,Defeat Venenatis 300 times,Defeat Venenatis or Spindel 300 times.,,,,3,Hard,NaN,,
+,1147,Defeat Vet'ion 300 times,Defeat Vet'ion or Calvar'ion 300 times.,,,,3,Hard,NaN,,
+,1148,Defeat Callisto,Defeat Callisto in the Wilderness.,,,,3,Hard,6.1,,
+,1149,Defeat Callisto 150 times,Defeat Callisto or Artio 150 times.,,,,3,Hard,NaN,,
+,1150,Defeat Callisto 50 times,Defeat Callisto or Artio 50 times.,,,,3,Hard,NaN,,
+,1151,Defeat Scorpia,Defeat Scorpia in the Wilderness.,,,,3,Hard,4.3,,
+,1152,Defeat the Chaos Elemental,Defeat the Chaos Elemental in the Wilderness.,,,,3,Hard,2.5,,
+,1153,Defeat the Corporeal Beast,Defeat the Corporeal Beast in the Wilderness. This task earns one Demonic Pact.,,,,3,Hard,NaN,,
+,1154,Defeat the Corporeal Beast 50 Times,Defeat the Corporeal Beast in the Wilderness 50 times.,,,,3,Hard,NaN,,
+,1155,Defeat the King Black Dragon,Defeat the King Black Dragon in the Wilderness.,,,,3,Hard,2.2,,
+,1156,Defeat Venenatis,Defeat Venenatis in the Wilderness.,,,,3,Hard,1.8,,
+,1157,Defeat Venenatis 150 times,Defeat Venenatis or Spindel 150 times.,,,,3,Hard,NaN,,
+,1158,Defeat Venenatis 50 times,Defeat Venenatis or Spindel 50 times.,,,,3,Hard,NaN,,
+,1159,Defeat Vet'ion,Defeat Vet'ion in the Wilderness.,,,,3,Hard,2.5,,
+,1160,Defeat Vet'ion 150 times,Defeat Vet'ion or Calvar'ion 150 times.,,,,3,Hard,NaN,,
+,1161,Defeat Vet'ion 50 times,Defeat Vet'ion or Calvar'ion 50 times.,,,,3,Hard,NaN,,
+,1162,Defeat a Runite golem,Defeat a runite golem inside the Wilderness Resource Area.,,,,3,Hard,2.5,MINING 85,85 Mining
+,1163,Equip a Malediction Ward,Equip a Malediction Ward. This task earns one Demonic Pact.,,,,3,Hard,NaN,DEFENCE 60,60 Defence
+,1164,Equip an Odium Ward,Equip an Odium ward.,,,,3,Hard,NaN,DEFENCE 60,60 Defence
+,1165,Equip 100 Black Chinchompas,Equip a stack of at least 100 Black Chinchompas.,,,,3,Hard,1.8,HUNTER 73; RANGED 65,"73 Hunter,  65 Ranged"
+,1166,Equip 250 Black Chinchompas,Equip a stack of at least 250 Black Chinchompas.,,,,3,Hard,1.8,HUNTER 73; RANGED 65,"73 Hunter,  65 Ranged"
+,1167,Equip a Dragon 2-Handed Sword in the Wilderness,Equip a dragon 2h sword in the Wilderness. This task earns one Demonic Pact.,,,,3,Hard,1.8,ATTACK 60,60 Attack
+,1168,Equip an Enchanted Slayer Staff,Equip an Enchanted Slayer Staff.,,,,3,Hard,NaN,MAGIC 75; SLAYER 55,"75 Magic,  55 Slayer"
+,1169,Equip a Pair of Dragon Boots in the Wilderness,Equip a pair of dragon boots while inside the Wilderness.,,,,3,Hard,NaN,DEFENCE 60; SLAYER 83,"60 Defence,  83 Slayer"
+,1170,Redeem 50 Wilderness Agility Tickets,Redeem 50 Wilderness Agility Tickets.,,,,3,Hard,2.9,AGILITY 52,52 Agility
+,1171,Sacrifice Some Dragon Bones at the Chaos Temple,Sacrifice some Dragon Bones at the Western Chaos Temple altar.,,,,3,Hard,33.8,,
+,1172,Catch 100 Dark Crabs,Catch 100 dark crabs in the Wilderness.,,,,3,Hard,NaN,FISHING 85,85 Fishing
+,1173,Cross the Chaos Temple Stone Shortcut,Cross the Chaos Temple Stone Shortcut.,,,,3,Hard,1.1,AGILITY 72,72 Agility
+,1174,Catch a Black Chinchompa,Catch a Black Chinchompa in the Wilderness.,,,,3,Hard,10.1,HUNTER 73,73 Hunter
+,1175,100 Combat Achievements,Complete 100 Combat Achievements.,,,,4,Elite,NaN,,
+,1176,150 Combat Achievements,Complete 150 Combat Achievements.,,,,4,Elite,NaN,,
+,1177,200 Combat Achievements,Complete 200 Combat Achievements.,,,,4,Elite,NaN,,
+,1178,250 Combat Achievements,Complete 250 Combat Achievements.,,,,4,Elite,NaN,,
+,1179,350 Collection log slots,Obtain 350 unique Collection Log slots.,,,,4,Elite,NaN,,
+,1180,50 Combat Achievements,Complete 50 Combat Achievements.,,,,4,Elite,NaN,,
+,1181,500 Collection log slots,Obtain 500 unique Collection Log slots.,,,,4,Elite,NaN,,
+,1182,Abyssal Sire Combat Achievements,Complete all of the Combat Achievements for Abyssal Sire.,,,,4,Elite,NaN,,See Abyssal Sire § Combat Achievements
+,1183,Combat Achievements Hard Tier,Obtain enough points to unlock the hard tier of Combat Achievements.,,,,4,Elite,NaN,,416 Combat Achievement points
+,1184,Combat Achievements Medium Tier,Obtain enough points to unlock the medium tier of Combat Achievements.,,,,4,Elite,NaN,,161 Combat Achievement points
+,1185,Complete 10 Speed Tasks,Complete 10 Combat Achievement Speed tasks.,,,,4,Elite,NaN,,
+,1186,Complete 20 Speed Tasks,Complete 20 Combat Achievement Speed tasks.,,,,4,Elite,NaN,,
+,1187,Complete 30 Speed Tasks,Complete 30 Combat Achievement Speed tasks.,,,,4,Elite,NaN,,
+,1188,Complete all tasks for 10 bosses,Complete all of the Combat Achievements available at 10 different bosses within the areas you have unlocked.,,,,4,Elite,NaN,,
+,1189,Complete all tasks for 5 bosses,Complete all of the Combat Achievements available at 5 different bosses within the areas you have unlocked.,,,,4,Elite,NaN,,
+,1190,Activate an Imbued Heart,Obtain and activate an Imbued heart.,,,,4,Elite,NaN,SLAYER 5,5 Slayer Unlocked Bigger and Badder for 150 Slayer reward points or at least Tier 3 Relic unlocked
+,1191,Add a Jar to a Display Case,Add a Jar to a Display Case in your Player Owned House Achievement Gallery.,,,,4,Elite,NaN,,Check associated bosses
+,1192,Complete 200 Slayer Tasks,Complete 200 Slayer Tasks.,,,,4,Elite,NaN,,
+,1193,Obtain a Boss Pet,Obtain any Boss Pet.,,,,4,Elite,NaN,,
+,1194,Reach Combat Level 120,Reach Combat Level 120.,,,,4,Elite,NaN,,
+,1195,Reach Combat Level 126,Reach Combat Level 126.,,,,4,Elite,NaN,,
+,1196,Slay an Abyssal Demon,Slay an Abyssal Demon whilst on an Abyssal Demon Slayer Task.,,,,4,Elite,NaN,SLAYER 85,85 Slayer
+,1197,Defeat 50 Superior slayer creatures,Defeat 50 Superior Slayer Creatures.,,,,4,Elite,NaN,SLAYER 5,5 Slayer Unlocked Bigger and Badder for 150 Slayer reward points or at least Tier 3 Relic unlocked
+,1198,Defeat the Abyssal Sire 150 Times,Defeat the Abyssal Sire in the Abyssal Nexus 150 times.,,,,4,Elite,NaN,SLAYER 85,85 Slayer
+,1199,Defeat the Abyssal Sire 300 Times,Defeat the Abyssal Sire in the Abyssal Nexus 300 times.,,,,4,Elite,NaN,SLAYER 85,85 Slayer
+,1200,Defeat the Abyssal Sire 50 Times,Defeat the Abyssal Sire in the Abyssal Nexus 50 times.,,,,4,Elite,NaN,SLAYER 85,85 Slayer
+,1201,Defeat 150 Echo Bosses,Defeat 150 Echo Bosses.,,,,4,Elite,NaN,,
+,1202,Defeat 4 unique Echo Bosses,Defeat 4 unique Echo Bosses. This task earns one Demonic Pact.,,,,4,Elite,NaN,,
+,1203,Defeat 75 Echo Bosses,Defeat 75 Echo Bosses.,,,,4,Elite,NaN,,
+,1204,Equip a Dragonfire Shield,Equip a Dragonfire Shield.,,,,4,Elite,NaN,DEFENCE 75,75 Defence
+,1205,Equip a piece of Virtus,"Equip either the Virtus Mask, Robe top, or Robe Bottoms.",,,,4,Elite,NaN,MAGIC 78; DEFENCE 75,"78 Magic,  75 Defence"
+,1206,Equip an Abyssal Bludgeon,Equip an Abyssal Bludgeon.,,,,4,Elite,NaN,ATTACK 70; STRENGTH 70; SLAYER 85,"70 Attack,  70 Strength,  85 Slayer"
+,1207,Equip an Abyssal Dagger,Equip an Abyssal Dagger.,,,,4,Elite,NaN,ATTACK 70; SLAYER 85,"70 Attack,  85 Slayer"
+,1208,Equip an Abyssal Whip,Equip an Abyssal Whip.,,,,4,Elite,NaN,ATTACK 70; SLAYER 85,"70 Attack,  85 Slayer"
+,1209,Equip an Eternal Slayer Ring,Craft and equip an Eternal slayer ring.,,,,4,Elite,NaN,SLAYER 5; CRAFTING 75,"5 Slayer,  75 Crafting Unlocked Bigger and Badder for 150 Slayer reward points or at least Tier 3 Relic unlocked, Unlocked Ring Bling for 300 Slayer reward points"
+,1210,Equip four unique Echo Items,Equip four unique echo items.,,,,4,Elite,NaN,,
+,1211,Equip the Soulreaper Axe,Equip the Soulreaper Axe.,,,,4,Elite,NaN,ATTACK 80; STRENGTH 80,"80 Attack,  80 Strength"
+,1212,75 Master Clue Scrolls,Open 75 Reward caskets for completing Master clue scrolls.,,,,4,Elite,NaN,,
+,1213,Fill 25 Master Clue Collection Log Slots,Fill 25 slots in the Master Clue section of the Collection Log.,,,,4,Elite,NaN,,
+,1214,Gain 25 Unique Items From Elite Clues,Gain 25 unique items from Elite Clue Scroll Reward Caskets.,,,,4,Elite,NaN,,
+,1215,Gain 25 Unique Items From Master Clues,Gain 25 unique items from Master Clue Scroll Reward Caskets.,,,,4,Elite,NaN,,
+,1216,Mine a size 8+ shooting star,Mine a shooting star which is either size 8 or 9.,,,,4,Elite,NaN,MINING 80,80 Mining
+,1217,Achieve Your First Level 90,Reach level 90 in any skill.,,,,4,Elite,1.8,,
+,1218,Achieve Your First Level 95,Reach level 95 in any skill.,,,,4,Elite,0.3,,
+,1219,Catch 500 Chinchompas,Catch 500 Chinchompas.,,,,4,Elite,2.9,HUNTER 53,53 Hunter
+,1220,Craft an Onyx Amulet,Craft an Onyx Amulet.,,,,4,Elite,NaN,CRAFTING 90,90 Crafting
+,1221,Fletch 100 Dragon Javelins,Fletch 100 Dragon Javelins.,,,,4,Elite,NaN,FLETCHING 92,92 Fletching
+,1222,Make a Super Combat Potion,Make a Super Combat Potion.,,,,4,Elite,NaN,HERBLORE 90,90 Herblore
+,1223,Obtain 100 Million XP in a combat skill,"Obtain 100 million experience in either Attack, Strength, Defence, Magic, Ranged, Hitpoints or Prayer.",,,,4,Elite,NaN,,
+,1224,Obtain 100 Million XP in any non-combat skill,Obtain 100 million experience in any non-combat skill.,,,,4,Elite,NaN,,
+,1225,Obtain 25 Million Agility XP,Obtain 25 million experience in your Agility skill.,,,,4,Elite,NaN,AGILITY 99,99 Agility
+,1226,Obtain 25 Million Construction XP,Obtain 25 million experience in your Construction skill.,,,,4,Elite,NaN,CONSTRUCTION 99,99 Construction
+,1227,Obtain 25 Million Cooking XP,Obtain 25 million experience in your Cooking skill.,,,,4,Elite,NaN,COOKING 99,99 Cooking
+,1228,Obtain 25 Million Crafting XP,Obtain 25 million experience in your Crafting skill.,,,,4,Elite,NaN,CRAFTING 99,99 Crafting
+,1229,Obtain 25 Million Farming XP,Obtain 25 million experience in your Farming skill.,,,,4,Elite,NaN,FARMING 99,99 Farming
+,1230,Obtain 25 Million Firemaking XP,Obtain 25 million experience in your Firemaking skill.,,,,4,Elite,NaN,FIREMAKING 99,99 Firemaking
+,1231,Obtain 25 Million Fishing XP,Obtain 25 million experience in your Fishing skill.,,,,4,Elite,NaN,FISHING 99,99 Fishing
+,1232,Obtain 25 Million Fletching XP,Obtain 25 million experience in your Fletching skill.,,,,4,Elite,NaN,FLETCHING 99,99 Fletching
+,1233,Obtain 25 Million Herblore XP,Obtain 25 million experience in your Herblore skill.,,,,4,Elite,NaN,HERBLORE 99,99 Herblore
+,1234,Obtain 25 Million Hunter XP,Obtain 25 million experience in your Hunter skill.,,,,4,Elite,NaN,HUNTER 99,99 Hunter
+,1235,Obtain 25 Million Mining XP,Obtain 25 million experience in your Mining skill.,,,,4,Elite,NaN,MINING 99,99 Mining
+,1236,Obtain 25 Million Prayer XP,Obtain 25 million experience in your Prayer skill.,,,,4,Elite,NaN,PRAYER 99,99 Prayer
+,1237,Obtain 25 Million Runecraft XP,Obtain 25 million experience in your Runecraft skill.,,,,4,Elite,NaN,RUNECRAFT 99,99 Runecraft
+,1238,Obtain 25 Million Slayer XP,Obtain 25 million experience in your Slayer skill.,,,,4,Elite,NaN,SLAYER 99,99 Slayer
+,1239,Obtain 25 Million Smithing XP,Obtain 25 million experience in your Smithing skill.,,,,4,Elite,NaN,SMITHING 99,99 Smithing
+,1240,Obtain 25 Million Thieving XP,Obtain 25 million experience in your Thieving skill.,,,,4,Elite,NaN,THIEVING 99,99 Thieving
+,1241,Obtain 25 Million Woodcutting XP,Obtain 25 million experience in your Woodcutting skill.,,,,4,Elite,NaN,WOODCUTTING 99,99 Woodcutting
+,1242,Obtain 25 Million XP in 5 non-combat skills,"Obtain 25 million experience in 5 different skills excluding Attack, Strength, Defence, Magic, Ranged & Hitpoints.",,,,4,Elite,NaN,,
+,1243,Obtain 25 Million XP in a combat skill,"Obtain 25 million experience in either Attack, Strength, Defence, Magic, Ranged or Hitpoints.",,,,4,Elite,NaN,,
+,1244,Obtain 35 Million Agility XP,Obtain 35 million experience in your Agility skill.,,,,4,Elite,NaN,AGILITY 99,99 Agility
+,1245,Obtain 35 Million Construction XP,Obtain 35 million experience in your Construction skill.,,,,4,Elite,NaN,CONSTRUCTION 99,99 Construction
+,1246,Obtain 35 Million Cooking XP,Obtain 35 million experience in your Cooking skill.,,,,4,Elite,NaN,COOKING 99,99 Cooking
+,1247,Obtain 35 Million Crafting XP,Obtain 35 million experience in your Crafting skill.,,,,4,Elite,NaN,CRAFTING 99,99 Crafting
+,1248,Obtain 35 Million Farming XP,Obtain 35 million experience in your Farming skill.,,,,4,Elite,NaN,FARMING 99,99 Farming
+,1249,Obtain 35 Million Firemaking XP,Obtain 35 million experience in your Firemaking skill.,,,,4,Elite,NaN,FIREMAKING 99,99 Firemaking
+,1250,Obtain 35 Million Fishing XP,Obtain 35 million experience in your Fishing skill.,,,,4,Elite,NaN,FISHING 99,99 Fishing
+,1251,Obtain 35 Million Fletching XP,Obtain 35 million experience in your Fletching skill.,,,,4,Elite,NaN,FLETCHING 99,99 Fletching
+,1252,Obtain 35 Million Herblore XP,Obtain 35 million experience in your Herblore skill.,,,,4,Elite,NaN,HERBLORE 99,99 Herblore
+,1253,Obtain 35 Million Hunter XP,Obtain 35 million experience in your Hunter skill.,,,,4,Elite,NaN,HUNTER 99,99 Hunter
+,1254,Obtain 35 Million Mining XP,Obtain 35 million experience in your Mining skill.,,,,4,Elite,NaN,MINING 99,99 Mining
+,1255,Obtain 35 Million Prayer XP,Obtain 35 million experience in your Prayer skill.,,,,4,Elite,NaN,PRAYER 99,99 Prayer
+,1256,Obtain 35 Million Runecraft XP,Obtain 35 million experience in your Runecraft skill.,,,,4,Elite,NaN,RUNECRAFT 99,99 Runecraft
+,1257,Obtain 35 Million Slayer XP,Obtain 35 million experience in your Slayer skill.,,,,4,Elite,NaN,SLAYER 99,99 Slayer
+,1258,Obtain 35 Million Smithing XP,Obtain 35 million experience in your Smithing skill.,,,,4,Elite,NaN,SMITHING 99,99 Smithing
+,1259,Obtain 35 Million Thieving XP,Obtain 35 million experience in your Thieving skill.,,,,4,Elite,NaN,THIEVING 99,99 Thieving
+,1260,Obtain 35 Million Woodcutting XP,Obtain 35 million experience in your Woodcutting skill.,,,,4,Elite,NaN,WOODCUTTING 99,99 Woodcutting
+,1261,Obtain 35 Million XP in 3 non-combat skills,"Obtain 35 million experience in 3 different skills excluding Attack, Strength, Defence, Magic, Ranged and Hitpoints.",,,,4,Elite,NaN,,
+,1262,Obtain 35 Million XP in a combat skill,"Obtain 35 million experience in either Attack, Strength, Defence, Magic, Ranged or Hitpoints.",,,,4,Elite,NaN,,
+,1263,Obtain 50 Million Agility XP,Obtain 50 million experience in your Agility skill.,,,,4,Elite,NaN,AGILITY 99,99 Agility
+,1264,Obtain 50 Million Attack XP,Obtain 50 million experience in your Attack skill.,,,,4,Elite,NaN,ATTACK 99,99 Attack
+,1265,Obtain 50 Million Construction XP,Obtain 50 million experience in your Construction skill.,,,,4,Elite,NaN,CONSTRUCTION 99,99 Construction
+,1266,Obtain 50 Million Cooking XP,Obtain 50 million experience in your Cooking skill.,,,,4,Elite,NaN,COOKING 99,99 Cooking
+,1267,Obtain 50 Million Crafting XP,Obtain 50 million experience in your Crafting skill.,,,,4,Elite,NaN,CRAFTING 99,99 Crafting
+,1268,Obtain 50 Million Defence XP,Obtain 50 million experience in your Defence skill.,,,,4,Elite,NaN,DEFENCE 99,99 Defence
+,1269,Obtain 50 Million Farming XP,Obtain 50 million experience in your Farming skill.,,,,4,Elite,NaN,FARMING 99,99 Farming
+,1270,Obtain 50 Million Firemaking XP,Obtain 50 million experience in your Firemaking skill.,,,,4,Elite,NaN,FIREMAKING 99,99 Firemaking
+,1271,Obtain 50 Million Fishing XP,Obtain 50 million experience in your Fishing skill.,,,,4,Elite,NaN,FISHING 99,99 Fishing
+,1272,Obtain 50 Million Fletching XP,Obtain 50 million experience in your Fletching skill.,,,,4,Elite,NaN,FLETCHING 99,99 Fletching
+,1273,Obtain 50 Million Herblore XP,Obtain 50 million experience in your Herblore skill.,,,,4,Elite,NaN,HERBLORE 99,99 Herblore
+,1274,Obtain 50 Million Hitpoints XP,Obtain 50 million experience in your Hitpoints skill.,,,,4,Elite,NaN,HITPOINTS 99,99 Hitpoints
+,1275,Obtain 50 Million Hunter XP,Obtain 50 million experience in your Hunter skill.,,,,4,Elite,NaN,HUNTER 99,99 Hunter
+,1276,Obtain 50 Million Magic XP,Obtain 50 million experience in your Magic skill.,,,,4,Elite,NaN,MAGIC 99,99 Magic
+,1277,Obtain 50 Million Mining XP,Obtain 50 million experience in your Mining skill.,,,,4,Elite,NaN,MINING 99,99 Mining
+,1278,Obtain 50 Million Prayer XP,Obtain 50 million experience in your Prayer skill.,,,,4,Elite,NaN,PRAYER 99,99 Prayer
+,1279,Obtain 50 Million Ranged XP,Obtain 50 million experience in your Ranged skill.,,,,4,Elite,NaN,RANGED 99,99 Ranged
+,1280,Obtain 50 Million Runecraft XP,Obtain 50 million experience in your Runecraft skill.,,,,4,Elite,NaN,RUNECRAFT 99,99 Runecraft
+,1281,Obtain 50 Million Slayer XP,Obtain 50 million experience in your Slayer skill.,,,,4,Elite,NaN,SLAYER 99,99 Slayer
+,1282,Obtain 50 Million Smithing XP,Obtain 50 million experience in your Smithing skill.,,,,4,Elite,NaN,SMITHING 99,99 Smithing
+,1283,Obtain 50 Million Strength XP,Obtain 50 million experience in your Strength skill.,,,,4,Elite,NaN,STRENGTH 99,99 Strength
+,1284,Obtain 50 Million Thieving XP,Obtain 50 million experience in your Thieving skill.,,,,4,Elite,NaN,THIEVING 99,99 Thieving
+,1285,Obtain 50 Million Woodcutting XP,Obtain 50 million experience in your Woodcutting skill.,,,,4,Elite,NaN,WOODCUTTING 99,99 Woodcutting
+,1286,Obtain a Skilling Pet,Obtain any Skilling Pet.,,,,4,Elite,0.4,,
+,1287,Reach Base Level 80,Reach level 80 in every skill.,,,,4,Elite,NaN,,
+,1288,Reach Base Level 90,Reach level 90 in every skill.,,,,4,Elite,NaN,,
+,1289,Reach Level 99 Agility,Reach level 99 in your Agility skill.,,,,4,Elite,NaN,AGILITY 99,99 Agility
+,1290,Reach Level 99 Attack,Reach level 99 in your Attack skill.,,,,4,Elite,NaN,ATTACK 99,99 Attack
+,1291,Reach Level 99 Construction,Reach level 99 in your Construction skill.,,,,4,Elite,NaN,CONSTRUCTION 99,99 Construction
+,1292,Reach Level 99 Cooking,Reach level 99 in your Cooking skill.,,,,4,Elite,NaN,COOKING 99,99 Cooking
+,1293,Reach Level 99 Crafting,Reach level 99 in your Crafting skill.,,,,4,Elite,NaN,CRAFTING 99,99 Crafting
+,1294,Reach Level 99 Defence,Reach level 99 in your Defence skill.,,,,4,Elite,NaN,DEFENCE 99,99 Defence
+,1295,Reach Level 99 Farming,Reach level 99 in your Farming skill.,,,,4,Elite,NaN,FARMING 99,99 Farming
+,1296,Reach Level 99 Firemaking,Reach level 99 in your Firemaking skill.,,,,4,Elite,NaN,FIREMAKING 99,99 Firemaking
+,1297,Reach Level 99 Fishing,Reach level 99 in your Fishing skill.,,,,4,Elite,NaN,FISHING 99,99 Fishing
+,1298,Reach Level 99 Fletching,Reach level 99 in your Fletching skill.,,,,4,Elite,0.1,FLETCHING 99,99 Fletching
+,1299,Reach Level 99 Herblore,Reach level 99 in your Herblore skill.,,,,4,Elite,NaN,HERBLORE 99,99 Herblore
+,1300,Reach Level 99 Hitpoints,Reach level 99 in your Hitpoints skill.,,,,4,Elite,NaN,HITPOINTS 99,99 Hitpoints
+,1301,Reach Level 99 Hunter,Reach level 99 in your Hunter skill.,,,,4,Elite,0.1,HUNTER 99,99 Hunter
+,1302,Reach Level 99 Magic,Reach level 99 in your Magic skill.,,,,4,Elite,NaN,MAGIC 99,99 Magic
+,1303,Reach Level 99 Mining,Reach level 99 in your Mining skill.,,,,4,Elite,NaN,MINING 99,99 Mining
+,1304,Reach Level 99 Prayer,Reach level 99 in your Prayer skill.,,,,4,Elite,NaN,PRAYER 99,99 Prayer
+,1305,Reach Level 99 Ranged,Reach level 99 in your Ranged skill.,,,,4,Elite,NaN,RANGED 99,99 Ranged
+,1306,Reach Level 99 Runecraft,Reach level 99 in your Runecraft skill.,,,,4,Elite,NaN,RUNECRAFT 99,99 Runecraft
+,1307,Reach Level 99 Slayer,Reach level 99 in your Slayer skill.,,,,4,Elite,NaN,SLAYER 99,99 Slayer
+,1308,Reach Level 99 Smithing,Reach level 99 in your Smithing skill.,,,,4,Elite,NaN,SMITHING 99,99 Smithing
+,1309,Reach Level 99 Strength,Reach level 99 in your Strength skill.,,,,4,Elite,NaN,STRENGTH 99,99 Strength
+,1310,Reach Level 99 Thieving,Reach level 99 in your Thieving skill.,,,,4,Elite,NaN,THIEVING 99,99 Thieving
+,1311,Reach Level 99 Woodcutting,Reach level 99 in your Woodcutting skill.,,,,4,Elite,NaN,WOODCUTTING 99,99 Woodcutting
+,1312,Reach Total Level 2000,Reach a Total Level of 2000.,,,,4,Elite,NaN,,
+,1313,Reach Total Level 2100,Reach a Total Level of 2100.,,,,4,Elite,NaN,,
+,1314,Reach Total Level 2200,Reach a Total Level of 2200.,,,,4,Elite,NaN,,
+,1315,Smith a Dragonfire Shield,Use an Anvil to smith a Dragonfire Shield.,,,,4,Elite,NaN,SMITHING 90,90 Smithing
+,1316,Perilous Moons Combat Achievements,Complete all of the Combat Achievements for Perilous Moons.,,,,4,Elite,NaN,,
+,1317,Vardorvis Combat Achievements,Complete all of the Combat Achievements for Vardorvis.,,,,4,Elite,NaN,,
+,1318,"Obtain 40,000 Glory","Obtain 40,000 Glory in the Fortis Colosseum.",,,,4,Elite,NaN,,
+,1319,Complete 1 Deep delve,Defeat the Doom of Mokhiatl at delve level 8.,,,,4,Elite,NaN,,
+,1320,Complete 25 Deep delves,Defeat the Doom of Mokhiatl at delve level 8 or above 25 times.,,,,4,Elite,NaN,,
+,1321,Complete 75 Deep delves,Defeat the Doom of Mokhiatl at delve level 8 or above 75 times.,,,,4,Elite,NaN,,
+,1322,Complete Wave 12 of Fortis Colosseum,Complete wave 12 of Fortis Colosseum. This task earns one Demonic Pact.,,,,4,Elite,NaN,,
+,1323,Defeat Awakened Vardorvis,Defeat Awakened Vardorvis. This task earns one Demonic Pact.,,,,4,Elite,NaN,,
+,1324,Defeat Vardorvis 300 times,Defeat Vardorvis 300 times.,,,,4,Elite,NaN,,
+,1325,Defeat Sol Heredit 10 times,Defeat Sol Heredit 10 times.,,,,4,Elite,NaN,,
+,1326,Defeat Sol Heredit 5 times,Defeat Sol Heredit 5 times.,,,,4,Elite,NaN,,
+,1327,Equip a Tecu Salamander,Equip a Tecu Salamander.,,,,4,Elite,NaN,HUNTER 79; ATTACK 80; RANGED 80; MAGIC 80,"79 Hunter,  80 Attack,  80 Ranged,  80 Magic"
+,1328,Equip Avernic Treads,Equip avernic treads. This task earns one Demonic Pact.,,,,4,Elite,NaN,DEFENCE 80; MAGIC 80; RANGED 80; STRENGTH 80,"80 Defence,  80 Magic, 80 Ranged,  80 Strength"
+,1329,Equip the Confliction gauntlets,Equip the Confliction gauntlets.,,,,4,Elite,NaN,HITPOINTS 90,90 Hitpoints
+,1330,Equip the Eye of Ayak,Equip the Eye of ayak.,,,,4,Elite,NaN,,
+,1331,Equip the Ultor Ring,Equip the Ultor Ring.,,,,4,Elite,NaN,,
+,1332,Equip Tonalztics of Ralos,Equip Tonalztics of Ralos.,,,,4,Elite,NaN,RANGED 75,75 Ranged
+,1333,Open the Varlamore Moon Chest,Open the Varlamore Moon Chest.,,,,4,Elite,NaN,,
+,1334,Store 10k bowstrings inside a bowstring spool,"Store at least 10,000 bowstrings inside a bowstring spool.",,,,4,Elite,NaN,,
+,1335,Purchase the Chugging Barrel,Purchase the Chugging Barrel from the Mixology shop.,,,,4,Elite,NaN,HERBLORE 60,60 Herblore
+,1336,Catch 50 Moonlight Antelopes,Catch 50 Moonlight Antelopes.,,,,4,Elite,0.4,HUNTER 91,91 Hunter
+,1337,Fully decorate a Redwood totem in the Auburn Valley,Fully decorate a Redwood totem in the Auburn Valley.,,,,4,Elite,NaN,FLETCHING 90,90 Fletching
+,1338,Complete the Elite Karamja Diary,Complete all of the Elite tasks in the   Karamja Achievement Diary.,,,,4,Elite,NaN,,See   Karamja Diary#Elite
+,1339,Complete the Fight Caves 10 Times,Complete the TzHaar Fight Cave in Mor Ul Rek 10 times.,,,,4,Elite,NaN,,
+,1340,Complete the Fight Caves 5 Times,Complete the TzHaar Fight Cave in Mor Ul Rek 5 times.,,,,4,Elite,NaN,,
+,1341,Equip a Fire Cape,Equip a fire cape. This task earns one Demonic Pact.,,,,4,Elite,NaN,,Completion of   TzHaar Fight Cave
+,1342,Sacrifice a Fire Cape to Access the Inferno,Sacrifice a Fire Cape to access the Inferno in Mor Ul Rek.,,,,4,Elite,NaN,,Completion of   TzHaar Fight Cave
+,1343,Complete the Inferno 10 Times,Complete the Inferno in Mor Ul Rek 10 times.,,,,4,Elite,NaN,,
+,1344,Complete the Inferno 5 Times,Complete the Inferno in Mor Ul Rek 5 times.,,,,4,Elite,NaN,,
+,1345,Complete Tzhaar-Ket-Rak's fifth challenge,Complete Tzhaar-Ket-Rak's fifth challenge.,,,,4,Elite,NaN,,Fire cape
+,1346,Complete Tzhaar-Ket-Rak's fourth challenge,Complete Tzhaar-Ket-Rak's fourth challenge.,,,,4,Elite,NaN,,Fire cape
+,1347,Complete Tzhaar-Ket-Rak's sixth challenge,Complete Tzhaar-Ket-Rak's sixth challenge.,,,,4,Elite,NaN,,Fire cape
+,1348,Pay Saniboch for Permanent Access,Pay Saniboch for Permanent Access into his dungeon.,,,,4,Elite,2.2,,"1,000,000 coins"
+,1349,Purchase an Onyx in Mor Ul Rek,Purchase an Onyx from an Ore and Gem Store in Mor Ul Rek.,,,,4,Elite,0.5,,
+,1350,Pickpocket a Diamond From a TzHaar,Pickpocket an uncut diamond from a TzHaar-Hur.,,,,4,Elite,NaN,THIEVING 90,90 Thieving Fire cape
+,1351,Grow a spirit tree on Karamja,Check the health of a Spirit tree you've grown on Karamja.,,,,4,Elite,NaN,,
+,1352,The Whisperer Combat Achievements,Complete all of the Combat Achievements for The Whisperer.,,,,4,Elite,NaN,,See The Whisperer#Combat Achievements See The Whisperer#Combat Achievements
+,1353,Complete the Elite Falador Diary,Complete all of the Elite tasks in the   Falador Achievement Diary.,,,,4,Elite,NaN,,See   Falador Diary#Elite
+,1354,Defeat Any God Wars Dungeon Boss 500 Times,Defeat any one of the God Wars Dungeon bosses 500 times.,,,,4,Elite,NaN,HITPOINTS 70; AGILITY 70; RANGED 70; STRENGTH 70,"70 Hitpoints,  70 Agility,  70 Ranged, or  70 Strength"
+,1355,Defeat Awakened Whisperer,Defeat Awakened Whisperer. This task earns one Demonic Pact.,,,,4,Elite,NaN,,
+,1356,Defeat Cerberus 300 times,Defeat Cerberus 300 times.,,,,4,Elite,NaN,SLAYER 91,91 Slayer
+,1357,Defeat Whisperer 300 times,Defeat Whisperer 300 times.,,,,4,Elite,NaN,,
+,1358,Defeat Nex 200 Times,Defeat Nex 200 times.,,,,4,Elite,NaN,,
+,1359,Equip a Full Armadyl Armour Set,Equip a full set of Armadyl Armour.,,,,4,Elite,NaN,RANGED 70; DEFENCE 70,"70 Ranged,  70 Defence"
+,1360,Equip a Full Bandos Armour Set,Equip a full set of Bandos Armour.,,,,4,Elite,NaN,STRENGTH 70; DEFENCE 65,"70 Strength,  65 Defence"
+,1361,Equip a full set of the Carpenters Outfit,Equip a full set of the Carpenters Outfit.,,,,4,Elite,NaN,,
+,1362,Equip a Godsword,Equip any Godsword. This task earns one Demonic Pact.,,,,4,Elite,NaN,ATTACK 75; SMITHING 80; HITPOINTS 70; AGILITY 70; RANGED 70; STRENGTH 70,"75 Attack,  80 Smithing, one of  70 Hitpoints,  70 Agility,  70 Ranged, or  70 Strength"
+,1363,Equip a Piece of the Armadyl Armour Set,Equip any piece of the Armadyl Armour set.,,,,4,Elite,NaN,RANGED 70; DEFENCE 70,"70 Ranged,  70 Defence"
+,1364,Equip a Piece of the Bandos Armour Set,Equip any piece of the Bandos Armour set.,,,,4,Elite,NaN,STRENGTH 70; DEFENCE 65,"70 Strength,  65 Defence"
+,1365,Equip a Piece of Torva Armour,"Equip either a Torva full helm, a Torva platebody or some Torva platelegs.",,,,4,Elite,NaN,DEFENCE 80; AGILITY 70; HITPOINTS 70; RANGED 70; STRENGTH 70,"80 Defence,  70 Agility,  70 Hitpoints,  70 Ranged,  70 Strength Completion of   The Frozen Door"
+,1366,Equip a Staff of the Dead,Equip a Staff of the Dead.,,,,4,Elite,NaN,ATTACK 75; MAGIC 75; HITPOINTS 70,"75 Attack,  75 Magic,  70 Hitpoints"
+,1367,Equip a Zaryte Crossbow,Equip a Zaryte Crossbow.,,,,4,Elite,NaN,RANGED 80; AGILITY 70; HITPOINTS 70; STRENGTH 70,"80 Ranged,  70 Agility,  70 Hitpoints,  70 Strength Completion of   The Frozen Door"
+,1368,Equip an Armadyl Crossbow,Equip an Armadyl Crossbow.,,,,4,Elite,NaN,RANGED 70; AGILITY 70,"70 Ranged,  70 Agility"
+,1369,"Equip Some Primordial, Pegasian or Eternal Boots","Equip either some Primordial Boots, some Pegasian Boots or some Eternal Boots.",,,,4,Elite,NaN,SLAYER 91; DEFENCE 75; MAGIC 60; RUNECRAFT 60; ATTACK 75; RANGED 75; MAGIC 75,"91 Slayer,  75 Defence,  60 Magic,  60 Runecraft, and one of  75 Attack,  75 Ranged or  75 Magic"
+,1370,Equip the Bellator Ring,Equip the bellator ring. This task earns one Demonic Pact.,,,,4,Elite,NaN,,
+,1371,Equip some Zaryte Vambraces,Equip some Zaryte vambraces.,,,,4,Elite,NaN,RANGED 80; DEFENCE 45; AGILITY 70; HITPOINTS 70; STRENGTH 70,"80 Ranged,  45 Defence,  70 Agility,  70 Hitpoints,  70 Strength Completion of   The Frozen Door"
+,1372,Equip a Full Graceful Outfit,Equip a full set of Graceful gear.,,,,4,Elite,NaN,,
+,1373,Equip a Full set of Golden Prospector,"Equip a Golden prospector helmet, a Golden prospector jacket, some Golden prospector legs and Golden prospector boots.",,,,4,Elite,NaN,MINING 30,30 Mining
+,1374,Equip a Full Set of Torva Armour,"Equip a Torva full helm, a Torva platebody and some Torva platelegs.",,,,4,Elite,NaN,DEFENCE 80; AGILITY 70; HITPOINTS 70; RANGED 70; STRENGTH 70,"80 Defence,  70 Agility,  70 Hitpoints,  70 Ranged,  70 Strength Completion of   The Frozen Door"
+,1375,The Leviathan Combat Achievements,Complete all of the Combat Achievements for The Leviathan.,,,,4,Elite,NaN,,See The Leviathan#Combat Achievements See The Leviathan#Combat Achievements
+,1376,Complete the Elite Desert Diary,Complete all of the Elite tasks in the   Desert Achievement Diary.,,,,4,Elite,NaN,,See   Desert Diary#Elite
+,1377,Hit 150 with the Keris Partisan,Hit 150 damage or more with the Keris Partisan.,,,,4,Elite,NaN,ATTACK 65,65 Attack Completion of   Beneath Cursed Sands
+,1378,Cast Ice Barrage,Cast the Ice Barrage spell. This task earns one Demonic Pact.,,,,4,Elite,14.3,MAGIC 94,94 Magic
+,1379,Complete Tombs of Amascut 50 times,Complete Tombs of Amascut on normal or Expert 50 times.,,,,4,Elite,NaN,,Completion of   Beneath Cursed Sands
+,1380,Defeat Awakened Leviathan,Defeat Awakened Leviathan. This task earns one Demonic Pact.,,,,4,Elite,NaN,,
+,1381,Defeat Leviathan 300 times,Defeat Leviathan 300 times.,,,,4,Elite,NaN,,
+,1382,Equip a Dragon Chainbody in the Kharidian Desert,Equip a dragon chainbody in the Kharidian Desert. This task earns one Demonic Pact.,,,,4,Elite,NaN,DEFENCE 60,60 Defence
+,1383,Equip a Mage's Book,Equip a mage's book.,,,,4,Elite,NaN,MAGIC 60,"60 Magic Pizzazz points:
+500 telekinetic
+550 alchemist
+6,000 enchantment
+500 graveyard"
+,1384,Equip a Master Wand,Equip a master wand.,,,,4,Elite,NaN,MAGIC 60,"60 Magic Pizzazz points (from scratch):
+480 telekinetic
+530 alchemist
+4,800 enchantment
+480 graveyard"
+,1385,Equip a Piece of Masori Armour,"Equip either a Masori mask, a Masori body or some Masori chaps. This task earns one Demonic Pact.",,,,4,Elite,NaN,RANGED 80; DEFENCE 30,"80 Ranged,  30 Defence Completion of   Beneath Cursed Sands"
+,1386,Equip a Piece of the Infinity Robe Set,Equip any piece of the Infinity robe set.,,,,4,Elite,2.9,MAGIC 50; DEFENCE 25,"50 Magic,  25 Defence"
+,1387,Equip the Osmumten's Fang,Equip the Osmumten's fang.,,,,4,Elite,NaN,ATTACK 82,82 Attack Completion of   Beneath Cursed Sands
+,1388,Equip the Elidinis Ward,Equip the Elidinis ward.,,,,4,Elite,NaN,MAGIC 80; DEFENCE 80; PRAYER 80,"80 Magic,  80 Defence,  80 Prayer Completion of   Beneath Cursed Sands"
+,1389,Equip the Venator Ring,Equip the venator ring. This task earns one Demonic Pact.,,,,4,Elite,NaN,,
+,1390,Equip a full set of Raiment of the eye,"Equip a full set of the Raiment of the Eye outfit, purchased from the Guardians of the Rift minigame.",,,,4,Elite,NaN,RUNECRAFT 27,"27 Runecraft 1,350 abyssal pearls"
+,1391,Turn in 50 Summer Sq'irkjuices to Osman,Turn in 50 Summer Sq'irkjuices to Osman in Al Kharid.,,,,4,Elite,NaN,THIEVING 65,65 Thieving
+,1392,"Smith 1,000 Rune Dart Tips","Use an Anvil to smith 1,000 Rune Dart Tips.",,,,4,Elite,NaN,SMITHING 89,89 Smithing
+,1393,Craft a Ghorrock Teleport Tablet,Craft a Ghorrock Teleport Tablet.,,,,4,Elite,NaN,MAGIC 96,96 Magic
+,1394,Fletch 200 Dragon Darts,Fletch 200 Dragon Darts.,,,,4,Elite,NaN,FLETCHING 95,95 Fletching
+,1395,Phantom Muspah Combat Achievements,Complete all of the Combat Achievements for Phantom Muspah.,,,,4,Elite,NaN,,See Phantom Muspah#Combat Achievements See Phantom Muspah#Combat Achievements
+,1396,Vorkath Combat Achievements,Complete all of the Combat Achievements for Vorkath.,,,,4,Elite,NaN,,See Vorkath#Combat Achievements See Vorkath#Combat Achievements
+,1397,Complete the Elite Fremennik Diary,Complete all of the Elite tasks in the   Fremennik Achievement Diary.,,,,4,Elite,NaN,,See   Fremennik Diary#Elite
+,1398,Dagannoth Kings Combat Achievements,Complete all of the Combat Achievements for all three Dagannoth Kings.,,,,4,Elite,NaN,,See Dagannoth Kings#Combat Achievements See Dagannoth Kings#Combat Achievements
+,1399,Duke Sucellus Combat Achievements,Complete all of the Combat Achievements for Duke Sucellus.,,,,4,Elite,NaN,,See Duke Sucellus#Combat Achievements See Duke Sucellus#Combat Achievements
+,1400,Defeat Awakened Duke Sucellus,Defeat Awakened Duke Sucellus. This task earns one Demonic Pact.,,,,4,Elite,NaN,,
+,1401,Defeat Duke Sucellus 300 times,Defeat Duke Sucellus 300 times.,,,,4,Elite,NaN,,
+,1402,Defeat Each Dagannoth King 300 Times,Defeat all three of the Dagannoth Kings in the Waterbirth Island Dungeon 300 times.,,,,4,Elite,NaN,,
+,1403,Defeat Phantom Muspah 300 times,Defeat Phantom Muspah 300 times.,,,,4,Elite,NaN,,
+,1404,Defeat Vorkath 300 Times,Defeat Vorkath on Ungael 300 times.,,,,4,Elite,NaN,,
+,1405,Defeat Vorkath 5 Times Without Special Damage,"Defeat Vorkath on Ungael 5 times in a row, without taking any damage from his special attacks, and without leaving his area. Failing this task requires you to leave the instance to try again. This task earns one Demonic Pact.",,,,4,Elite,NaN,,
+,1406,Equip a Completed God Book,Equip a completed God Book.,,,,4,Elite,NaN,,
+,1407,Equip a Dragon Crossbow,Equip a Dragon Crossbow.,,,,4,Elite,NaN,RANGED 64; FLETCHING 78,"64 Ranged,  78 Fletching"
+,1408,Equip a Dragonbone Necklace,Equip a Dragonbone Necklace.,,,,4,Elite,NaN,PRAYER 70,70 Prayer
+,1409,Equip a Dragonfire Ward,Equip a Dragonfire Ward.,,,,4,Elite,NaN,DEFENCE 70; RANGED 70,"70 Defence,  70 Ranged"
+,1410,Equip a Neitiznot Faceguard,Equip a Neitiznot Faceguard.,,,,4,Elite,NaN,DEFENCE 70; SLAYER 60,"70 Defence,  60 Slayer Completion of   The Fremennik Exiles"
+,1411,Equip Every Dagannoth King Ring,"Equip an Archer's ring, a Berserker ring, a Seer's ring and a Warrior ring.",,,,4,Elite,NaN,,
+,1412,Equip the Magus Ring,Equip the magus ring. This task earns one Demonic Pact.,,,,4,Elite,NaN,,
+,1413,Equip the Venator Bow,Equip the Venator Bow.,,,,4,Elite,NaN,RANGED 80,80 Ranged
+,1414,Equip an Ice Ancient Sceptre,Equip an Ice ancient sceptre.,,,,4,Elite,NaN,MAGIC 75; STRENGTH 60; ATTACK 50,"75 Magic,  60 Strength,  50 Attack"
+,1415,Make 50 Forgotten Brews,Make 50 Forgotten Brews.,,,,4,Elite,NaN,HERBLORE 91,91 Herblore
+,1416,Blast Furnace 100 Runite Bars,Smelt 100 Runite bars at the Blast Furnace.,,,,4,Elite,NaN,SMITHING 85,85 Smithing
+,1417,Mine 1000 Ancient Essence,"Mine 1,000 ancient essence from ancient essence crystals in the Ghorrock Dungeon.",,,,4,Elite,NaN,MINING 75,75 Mining
+,1418,Complete the Elite Ardougne Diary,Complete all of the Elite tasks in the   Ardougne Achievement Diary.,,,,4,Elite,NaN,,See   Ardougne Diary#Elite
+,1419,Complete the Elite Kandarin Diary,Complete all of the Elite tasks in the   Kandarin Achievement Diary.,,,,4,Elite,NaN,,See   Kandarin Diary#Elite
+,1420,Use the Piety Prayer,Use the Piety Prayer.,,,,4,Elite,NaN,PRAYER 70; DEFENCE 70,"70 Prayer,  70 Defence Completion of   Knight Waves or Grimoire relic"
+,1421,Defeat 300 Demonic Gorillas,Defeat 300 Demonic Gorillas in the Crash Site Cavern.,,,,4,Elite,NaN,,
+,1422,Defeat 500 Demonic Gorillas,Defeat 500 Demonic Gorillas in the Crash Site Cavern.,,,,4,Elite,NaN,,
+,1423,Defeat the Kraken Boss 300 Times,Defeat the Kraken boss in Kraken Cove 300 times.,,,,4,Elite,NaN,SLAYER 87,87 Slayer
+,1424,Defeat Galvek again,Defeat Galvek again using the Pool of Dreams in the Myths' Guild.,,,,4,Elite,NaN,,
+,1425,Equip a Dragon Archer Chompy Hat,Equip a dragon archer chompy hat.,,,,4,Elite,NaN,FLETCHING 5; RANGED 30,"5 Fletching,  30 Ranged 2,250 chompy bird kills"
+,1426,Equip a Fighter Torso,Equip a Fighter Torso.,,,,4,Elite,NaN,DEFENCE 40,40 Defence
+,1427,Equip a Heavy Ballista,Equip a Heavy Ballista.,,,,4,Elite,NaN,RANGED 75; FLETCHING 72,"75 Ranged,  72 Fletching"
+,1428,Equip a Light Ballista,Equip a Light Ballista.,,,,4,Elite,NaN,RANGED 65,65 Ranged
+,1429,Equip an Abyssal Tentacle,Equip an abyssal tentacle. This task earns one Demonic Pact.,,,,4,Elite,NaN,MAGIC 50; ATTACK 75; SLAYER 87,"50 Magic,  75 Attack,  87 Slayer"
+,1430,Equip an Occult Necklace,Equip an occult necklace. This task earns one Demonic Pact.,,,,4,Elite,NaN,MAGIC 70; SLAYER 93,"70 Magic,  93 Slayer"
+,1431,Equip Some Zenyte Jewelry,Equip any piece of zenyte jewelry. This task earns one Demonic Pact.,,,,4,Elite,NaN,CRAFTING 89,89 Crafting
+,1432,Equip a Maniacal Monkey Backpack,Equip a Maniacal Monkey Backpack.,,,,4,Elite,NaN,AGILITY 48,48 Agility
+,1433,Get 1000 Target points,Achieve 1000 points in the Target minigame in the Ranging Guild.,,,,4,Elite,NaN,RANGED 40,40 Ranged
+,1434,Reach Level 5 in Any Barbarian Assault Role,Reach level 5 in any Barbarian Assault Role.,,,,4,Elite,NaN,,
+,1435,Travel Between Your Spirit Trees,Travel between any two Spirit Trees that you've grown.,,,,4,Elite,NaN,FARMING 91,91 Farming
+,1436,Barehand catch a Shark,Barehand catch a Shark.,,,,4,Elite,NaN,FISHING 96; STRENGTH 76,"96 Fishing,  76 Strength Partial completion of   Barbarian Training"
+,1437,Catch 150 Red Chinchompas in Kandarin,Catch 150 Red Chinchompas in Kandarin.,,,,4,Elite,12.1,HUNTER 63,63 Hunter
+,1438,Check a grown Dragonfruit Tree in Catherby,Check the health of a Dragonfruit Tree you've grown in Catherby.,,,,4,Elite,NaN,FARMING 81,81 Farming
+,1439,Complete the Ardougne Agility Course,Complete a lap of the Ardougne Rooftop Agility Course.,,,,4,Elite,NaN,AGILITY 90,90 Agility
+,1440,Craft a Wrath Rune,Craft a wrath rune at the Wrath Altar.,,,,4,Elite,NaN,RUNECRAFT 95,95 Runecraft
+,1441,Make 200 Brutal Rune Arrows,Make 200 rune brutal arrows.,,,,4,Elite,NaN,FLETCHING 77,"77 Fletching Either partial completion of   Zogre Flesh Eaters, or  Morytania✓"
+,1442,Kourend and Kebos Elite Diary Tasks,Complete all of the Kourend & Kebos Diary elite tasks.,,,,4,Elite,NaN,,See   Kourend & Kebos Diary#Elite
+,1443,Alchemical Hydra Combat Achievements,Complete all of the Combat Achievements for Alchemical Hydra.,,,,4,Elite,NaN,,See Alchemical Hydra#Combat Achievements See Alchemical Hydra#Combat Achievements
+,1444,Recolour a piece of the Ancestral Robes,Recolour a piece of the Ancestral robes using a Twisted ancestral colour kit.,,,,4,Elite,NaN,,Completion of   Chambers of Xeric/Challenge Mode
+,1445,Defeat the Alchemical Hydra 300 Times,Defeat the Alchemical hydra in Mount Karuulm 300 times.,,,,4,Elite,NaN,SLAYER 95,95 Slayer Hydra Slayer task
+,1446,Defeat Yama 150 times,Defeat Yama 150 times.,,,,4,Elite,NaN,,
+,1447,Equip a Dragon Hunter Crossbow,Equip a Dragon Hunter Crossbow.,,,,4,Elite,NaN,RANGED 70,70 Ranged
+,1448,Equip a Dragon Hunter Lance,Equip a dragon hunter lance. This task earns one Demonic Pact.,,,,4,Elite,NaN,SLAYER 95; ATTACK 78,"95 Slayer,  78 Attack"
+,1449,Equip a Dragon Warhammer,Equip a Dragon warhammer.,,,,4,Elite,NaN,STRENGTH 60,60 Strength
+,1450,Equip a Golden Tench,"Equip a Golden tench, caught by aerial fishing on Molch Island.",,,,4,Elite,0.4,HUNTER 35; FISHING 43,"35 Hunter,  43 Fishing"
+,1451,Equip a Kodai Wand,Equip a Kodai wand.,,,,4,Elite,NaN,MAGIC 80,80 Magic
+,1452,Equip a pair of Dragon Claws,Equip a pair of Dragon Claws.,,,,4,Elite,NaN,ATTACK 60,60 Attack
+,1453,Equip a Twisted Buckler,Equip a Twisted Buckler.,,,,4,Elite,NaN,RANGED 75; DEFENCE 75,"75 Ranged,  75 Defence"
+,1454,Equip an Elder Maul,Equip an Elder maul.,,,,4,Elite,NaN,ATTACK 75; STRENGTH 75,"75 Attack,  75 Strength"
+,1455,Equip any Ancestral piece,"Equip either an ancestral hat, an ancestral robe top or an ancestral robe bottom. This task earns one Demonic Pact.",,,,4,Elite,NaN,MAGIC 75; DEFENCE 65,"75 Magic,  65 Defence"
+,1456,Equip Dinh's Bulwark,Equip Dinh's bulwark.,,,,4,Elite,NaN,ATTACK 75; DEFENCE 75,"75 Attack,  75 Defence"
+,1457,Equip a Brimstone Ring,Equip a Brimstone ring.,,,,4,Elite,NaN,SLAYER 95,95 Slayer
+,1458,Equip Ferocious Gloves,Equip a pair of Ferocious gloves.,,,,4,Elite,NaN,SLAYER 95; ATTACK 80; DEFENCE 80,"95 Slayer,  80 Attack,  80 Defence"
+,1459,Equip a full set of Ancestral,"Equip an Ancestral Hat, an Ancestral robe top and an Ancestral robe bottom.",,,,4,Elite,NaN,MAGIC 75; DEFENCE 65,"75 Magic,  65 Defence"
+,1460,Equip a piece of Radiant Oathplate,Equip a piece of radiant oathplate armour.,,,,4,Elite,NaN,DEFENCE 78,78 Defence Aether runes are not required to create it.
+,1461,Equip any Oathplate Piece,"Equip either an Oathplate helm, chest, or legs.",,,,4,Elite,NaN,DEFENCE 78,78 Defence
+,1462,Equip full Oathplate,"Equip an Oathplate helm, chest, and legs. This task earns one Demonic Pact.",,,,4,Elite,NaN,DEFENCE 78,78 Defence
+,1463,Catch 150 Anglerfish,Catch 150 Anglerfish.,,,,4,Elite,NaN,FISHING 78,78 Fishing
+,1464,Check a grown Redwood Tree,Check the health of a Redwood Tree after growing one in the Farming Guild.,,,,4,Elite,NaN,FARMING 90,90 Farming
+,1465,Cook 100 Anglerfish,Cook 100 Anglerfish.,,,,4,Elite,NaN,COOKING 84,84 Cooking
+,1466,Fletch 250 Redwood logs into arrow shafts,Fletch 250 Redwood logs into arrow shafts.,,,,4,Elite,NaN,FLETCHING 90,90 Fletching
+,1467,Craft 100 Aether runes,Craft 100 Aether runes at the cosmic altar in Zanaris.,,,,4,Elite,NaN,RUNECRAFT 90,90 Runecraft
+,1468,Grotesque Guardians Combat Achievements,Complete all of the Combat Achievements for Grotesque Guardians.,,,,4,Elite,NaN,,
+,1469,Phosani's Nightmare Combat Achievements,Complete all of the Combat Achievements for Phosani's Nightmare.,,,,4,Elite,NaN,,
+,1470,The Nightmare Combat Achievements,Complete all of the Combat Achievements for The Nightmare.,,,,4,Elite,NaN,,
+,1471,Araxxor Combat Achievements,Complete all of the Combat Achievements for Araxxor.,,,,4,Elite,NaN,,See Araxxor#Combat Achievements See Araxxor#Combat Achievements
+,1472,Complete the Elite Morytania Diary,Complete all of the Elite tasks in the   Morytania Achievement Diary.,,,,4,Elite,NaN,,See   Morytania Diary#Elite
+,1473,Complete the Theatre of Blood 25 Times,Complete the Theatre of Blood on normal or hard mode 25 times. This task earns one Demonic Pact.,,,,4,Elite,NaN,,
+,1474,Complete the Theatre of Blood 50 Times,Complete the Theatre of Blood on Normal or Hard Mode 50 times.,,,,4,Elite,NaN,,
+,1475,Attach a Theatre of Blood ornament kit,Attach a sanguine or holy ornament kit to a weapon.,,,,4,Elite,NaN,,"One of:
+Scythe of Vitur
+Ghrazi rapier
+Sanguinesti staff"
+,1476,Defeat Araxxor 300 Times,Defeat Araxxor in Morytania Spider cave 300 times.,,,,4,Elite,NaN,SLAYER 92,92 Slayer Araxxor slayer task
+,1477,Defeat The Nightmare 150 times,Defeat The Nightmare or Phosani's Nightmare 150 times combined.,,,,4,Elite,NaN,,
+,1478,Defeat The Nightmare 50 times,Defeat The Nightmare or Phosani's Nightmare 50 times combined.,,,,4,Elite,NaN,,
+,1479,Defeat Phosani's Nightmare,Defeat Phosani's Nightmare in the Sisterhood Sanctuary. This task earns one Demonic Pact.,,,,4,Elite,NaN,,
+,1480,Equip a Ghrazi Rapier,Equip a Ghrazi Rapier.,,,,4,Elite,NaN,ATTACK 80,80 Attack
+,1481,Equip a Piece of the Inquisitor's Set,Equip any piece of the Inquisitor's Armour set.,,,,4,Elite,NaN,STRENGTH 70; DEFENCE 30,"70 Strength,  30 Defence"
+,1482,Equip a Piece of the Justiciar Set,Equip any piece of the Justiciar Armour set.,,,,4,Elite,NaN,DEFENCE 75,75 Defence
+,1483,Equip a Sanguinesti Staff,Equip a Sanguinesti Staff.,,,,4,Elite,NaN,MAGIC 82,82 Magic
+,1484,Equip an Inquisitor's Mace,Equip an Inquisitor's Mace.,,,,4,Elite,NaN,ATTACK 80,80 Attack
+,1485,Equip Some Guardian Boots,Equip some Guardian boots.,,,,4,Elite,NaN,DEFENCE 75,75 Defence
+,1486,Equip the Amulet of Rancour,Equip the Amulet of Rancour.,,,,4,Elite,NaN,SLAYER 92; HITPOINTS 90,"92 Slayer,  90 Hitpoints"
+,1487,Equip the Noxious Halberd,Equip the Noxious Halberd.,,,,4,Elite,NaN,SLAYER 92; ATTACK 80; SMITHING 72; CRAFTING 72,"92 Slayer,  80 Attack,  72 Smithing,  72 Crafting"
+,1488,Equip a Ring of Endurance,Equip a Ring of Endurance.,,,,4,Elite,NaN,AGILITY 92,92 Agility Completion of   Sins of the Father
+,1489,Equip an Avernic Defender,Equip an Avernic Defender.,,,,4,Elite,NaN,ATTACK 70; DEFENCE 70,"70 Attack,  70 Defence"
+,1490,Equip a Nightmare Staff With an Orb,"Equip either an Eldritch Nightmare Staff, a Harmonised Nightmare Staff or a Volatile Nightmare Staff.",,,,4,Elite,NaN,MAGIC 82; HITPOINTS 50,"82 Magic,  50 Hitpoints"
+,1491,Floor 5 of the Hallowed Sepulchre,Complete floor 5 of the Hallowed Sepulchre in Darkmeyer.,,,,4,Elite,NaN,AGILITY 92,92 Agility Completion of   Sins of the Father
+,1492,Complete the Hallowed Sepulchre in 6:30,Complete the Hallowed Sepulchre in Darkmeyer in 6:30 or less.,,,,4,Elite,NaN,AGILITY 92,92 Agility Completion of   Sins of the Father
+,1493,Zulrah Combat Achievements,Complete all of the Combat Achievements for Zulrah.,,,,4,Elite,NaN,,
+,1494,Gauntlet Combat Achievements,Complete all of the Combat Achievements for the Gauntlet & Corrupted Gauntlet.,,,,4,Elite,NaN,,
+,1495,Load a blowpipe with Dragon Darts,Load a Blowpipe with Dragon Darts.,,,,4,Elite,NaN,FLETCHING 53; HUNTER 83; FLETCHING 95,"53 Fletching, either  83 Hunter or  95 Fletching to obtain the darts"
+,1496,Obtain a Crystal Tool Seed,Obtain a crystal tool seed as a drop from Zalcano.,,,,4,Elite,NaN,MINING 70; SMITHING 70,"70 Mining,  70 Smithing"
+,1497,Craft a Toxic Blowpipe,Craft a toxic blowpipe. This task earns one Demonic Pact.,,,,4,Elite,NaN,FLETCHING 78,78 Fletching
+,1498,Craft a Toxic Trident,Craft a Toxic Trident.,,,,4,Elite,NaN,CRAFTING 59,59 Crafting
+,1499,Dismantle a Zulrah scale unique,"Dismantle a Zulrah scale unique for 20,000 scales.",,,,4,Elite,NaN,,
+,1500,Complete the Corrupted Gauntlet in 4:30,Complete the Corrupted Gauntlet in less than 4:30. The echo boss fight will not count.,,,,4,Elite,0.3,,Complete the regular Gauntlet once
+,1501,Defeat Zalcano 100 Times,Defeat Zalcano in Prifddinas 100 times.,,,,4,Elite,NaN,,
+,1502,Defeat Zulrah 150 Times,Defeat Zulrah at the Poison Waste 150 times.,,,,4,Elite,NaN,,
+,1503,Defeat Zulrah 300 Times,Defeat Zulrah at the Poison Waste 300 times.,,,,4,Elite,NaN,,
+,1504,Equip a Crystal Grail,Equip a Crystal Grail.,,,,4,Elite,NaN,,
+,1505,Equip a Full Crystal Armour Set,Equip a full set of Crystal armour.,,,,4,Elite,NaN,DEFENCE 70,70 Defence
+,1506,Equip a Piece of the Dragonstone Armour Set,Equip any piece of the Dragonstone armour set.,,,,4,Elite,NaN,DEFENCE 40,40 Defence
+,1507,Equip a Serpentine Helm,Equip a Serpentine Helm.,,,,4,Elite,NaN,CRAFTING 52; DEFENCE 75,"52 Crafting,  75 Defence"
+,1508,Equip an Enhanced Crystal Weapon,Equip a Blade of Saeldor or Bow of faerdhinen.,,,,4,Elite,NaN,ATTACK 80; RANGED 80; AGILITY 70,Either  80 Attack or  80 Ranged and  70 Agility Completion of   The Gauntlet
+,1509,Equip an Elven Signet,Equip an Elven Signet.,,,,4,Elite,4.3,HUNTER 80,80 Hunter
+,1510,Complete the Corrupted Gauntlet 50 Times,Complete the Corrupted Gauntlet in Prifddinas 50 times.,,,,4,Elite,NaN,,Complete the regular Gauntlet once
+,1511,Complete the Corrupted Gauntlet 100 Times,Complete the Corrupted Gauntlet in Prifddinas 100 times.,,,,4,Elite,NaN,,Complete the regular Gauntlet once
+,1512,Obtain a Zalcano Shard,Obtain a Zalcano Shard as a drop from Zalcano in Prifddinas.,,,,4,Elite,NaN,,
+,1513,Catch 300 Red Chinchompas in Tirannwn,Catch 300 Red Chinchompas in Tirannwn.,,,,4,Elite,8.9,HUNTER 63,63 Hunter
+,1514,Check the health of 5 Crystal Trees,Check the health of 5 Crystal Trees.,,,,4,Elite,NaN,FARMING 74,74 Farming
+,1515,Create 100 Divine Ranging Potions,Create 100 Divine Ranging Potions.,,,,4,Elite,NaN,HERBLORE 74,74 Herblore
+,1516,Create 100 Divine Super Combat Potions,Create 100 Divine Super Combat Potions.,,,,4,Elite,NaN,HERBLORE 97,97 Herblore
+,1517,Dissect 250 Sacred Eels,Dissect 250 Sacred Eels.,,,,4,Elite,NaN,FISHING 87; COOKING 72,"87 Fishing,  72 Cooking"
+,1518,Mine 100 Runite Ore in Tirannwn,Mine 100 runite ore in Tirannwn.,,,,4,Elite,NaN,MINING 85,85 Mining
+,1519,Create 50 Anti-venom+ Potions,Make 50 anti-venom+ potions.,,,,4,Elite,NaN,HERBLORE 94,94 Herblore
+,1520,Use a prayer altar to restore 90 prayer in Prifddinas,Use a prayer altar to restore 90 prayer points in Prifddinas. This task earns one Demonic Pact.,,,,4,Elite,NaN,PRAYER 90,90 Prayer
+,1521,Complete the Elite Wilderness Diary,Complete all of the Elite tasks in the   Wilderness Achievement Diary.,,,,4,Elite,NaN,,See   Wilderness Diary#Elite
+,1522,Imbue a God Cape,"Imbue either a Saradomin cape, a Guthix cape or a Zamorak cape. This task earns one Demonic Pact.",,,,4,Elite,NaN,MAGIC 75,75 Magic Completion of   Mage Arena II
+,1523,Defeat the Corporeal Beast 150 Times,Defeat the Corporeal Beast in the Wilderness 150 times.,,,,4,Elite,NaN,,
+,1524,Defeat the Corporeal Beast 250 Times,Defeat the Corporeal Beast in the Wilderness 250 times.,,,,4,Elite,NaN,,
+,1525,Equip 500 Black Chinchompas,Equip a stack of at least 500 Black Chinchompas.,,,,4,Elite,1.4,HUNTER 73; RANGED 65,"73 Hunter,  65 Ranged"
+,1526,Equip a Blessed Spirit Shield,Equip a Blessed Spirit Shield.,,,,4,Elite,NaN,DEFENCE 70; PRAYER 85,"70 Defence,  85 Prayer"
+,1527,Equip a Full Dagon'Hai Set,Equip a full set of Dagon'hai robes.,,,,4,Elite,NaN,MAGIC 70; DEFENCE 40,"70 Magic,  40 Defence"
+,1528,Equip a Piece of the Dagon'Hai Set,Equip any piece of the Dagon'hai robe set. This task earns one Demonic Pact.,,,,4,Elite,NaN,MAGIC 70; DEFENCE 40,"70 Magic,  40 Defence"
+,1529,Equip a Ring of the Gods,Equip a Ring of the Gods.,,,,4,Elite,NaN,,
+,1530,Equip a Thammaron's Sceptre,Equip a Thammaron's Sceptre.,,,,4,Elite,NaN,MAGIC 60,60
+,1531,Equip a Treasonous Ring,Equip a Treasonous Ring.,,,,4,Elite,0.4,,
+,1532,Equip a Tyrannical Ring,Equip a Tyrannical Ring.,,,,4,Elite,NaN,,
+,1533,Equip Craw's Bow,Equip Craw's bow.,,,,4,Elite,NaN,RANGED 60,60 Ranged
+,1534,Equip full Elder chaos robe,"Equip the Elder Chaos Hood, Robe, and top.",,,,4,Elite,NaN,MAGIC 40,40 Magic
+,1535,Equip the Accursed Sceptre,Equip the Accursed Sceptre.,,,,4,Elite,NaN,MAGIC 70,70 Magic
+,1536,Equip the Ursine Chainmace,Equip the Ursine Chainmace.,,,,4,Elite,NaN,ATTACK 70,70 Attack
+,1537,Equip the Voidwaker,Equip the Voidwaker. This task earns one Demonic Pact.,,,,4,Elite,NaN,ATTACK 75,75 Attack
+,1538,Equip the Webweaver,Equip the Webweaver.,,,,4,Elite,NaN,RANGED 70,70 Ranged
+,1539,Equip Viggora's Chainmace,Equip Viggora's Chainmace.,,,,4,Elite,NaN,ATTACK 60,60 Attack
+,1540,Loot a dragonstone from the Rogues Castle,Loot a dragonstone from the chest in Rogue's Castle.,,,,4,Elite,NaN,THIEVING 84,84 Thieving
+,1541,Make an Extended Antifire Potion,Make an Extended Antifire Potion.,,,,4,Elite,NaN,HERBLORE 84,84 Herblore
+,1542,Mine Some Runite Ore in the Wilderness,Mine some runite ore in the Wilderness.,,,,4,Elite,NaN,MINING 85,85 Mining
+,1543,Cook a Dark Crab,Cook a Dark Crab.,,,,4,Elite,NaN,COOKING 90; FISHING 85,"90 Cooking,  85 Fishing"
+,1544,Cross a Pillar shortcut in the Revenant Caves,Cross a pillar shortcut in the Revenant Caves.,,,,4,Elite,10.8,AGILITY 65,65 Agility
+,1545,Mine some Runite ore with a Dragon Pickaxe,Mine some runite ore with a dragon pickaxe within the Wilderness.,,,,4,Elite,NaN,MINING 85,85 Mining
+,1546,750 Collection log slots,Obtain 750 unique Collection Log slots.,,,,5,Master,NaN,,
+,1547,Combat Achievements Elite Tier,Obtain enough points to unlock the elite tier of Combat Achievements.,,,,5,Master,NaN,,"1,064 Combat Achievement points"
+,1548,Equip a Scythe of Vitur,Equip a Scythe of Vitur.,,,,5,Master,NaN,ATTACK 80; STRENGTH 90,"80 Attack,  90 Strength"
+,1549,Equip a Twisted Bow,Equip a Twisted bow.,,,,5,Master,NaN,RANGED 85,85 Ranged
+,1550,Equip full Virtus,"Equip full Virtus outfit, obtained from Desert Treasure II bosses.",,,,5,Master,NaN,MAGIC 78; DEFENCE 75,"78 Magic,  75 Defence"
+,1551,Equip the Tumeken's Shadow,Equip the Tumeken's Shadow.,,,,5,Master,NaN,MAGIC 85,85 Magic
+,1552,Build a Demonic Throne,Build a Demonic Throne in a Throne Room in your Player Owned House.,,,,5,Master,NaN,CONSTRUCTION 99,99 Construction  Fremennik✓ or  Varlamore✓
+,1553,Obtain 200 Million XP in a combat skill,"Obtain 200 million experience in either Attack, Strength, Defence, Magic, Ranged or Hitpoints.",,,,5,Master,NaN,,
+,1554,Obtain 200 Million XP in any non-combat skill,Obtain 200 million experience in any non-combat skill.,,,,5,Master,NaN,,
+,1555,Obtain 50 Million XP in 3 non-combat skills,"Obtain 50 million experience in 3 different skills excluding Attack, Strength, Defence, Magic, Ranged & Hitpoints.",,,,5,Master,NaN,,
+,1556,Reach Base Level 95,Reach level 95 in every skill.,,,,5,Master,NaN,,
+,1557,Reach Total Level 2277,Reach the highest possible Total Level of 2277.,,,,5,Master,NaN,,
+,1558,Colosseum Combat Achievements,Complete all of the Combat Achievements for Fortis Colosseum.,,,,5,Master,NaN,,See Fortis Colosseum#Combat Achievements See Fortis Colosseum#Combat Achievements
+,1559,Doom of Mokhaiotl Combat achievements,Complete all the Doom of Mokhaiotl combat achievements.,,,,5,Master,NaN,,See Doom of Mokhaiotl#Combat Achievements See Doom of Mokhaiotl#Combat Achievements
+,1560,"Obtain 58,000 Glory","Obtain 58,000 Glory in the Fortis Colosseum.",,,,5,Master,NaN,,
+,1561,Equip Blessed Dizana's Quiver,Equip Blessed dizana's quiver.,,,,5,Master,NaN,RANGED 75,75 Ranged
+,1562,The Inferno Combat Achievements,Complete all of the Combat Achievements for   The Inferno.,,,,5,Master,NaN,,See Inferno#Combat Achievements See Inferno#Combat Achievements
+,1563,TzHaar-Ket-Rak's Combat Achievements,Complete all of the Combat Achievements for TzHaar-Ket-Rak's Challenges.,,,,5,Master,NaN,,See TzHaar-Ket-Rak's Challenges#Combat Achievements See TzHaar-Ket-Rak's Challenges#Combat Achievements
+,1564,The Fight Caves Combat Achievements,Complete all of the Combat Achievements for   The Fight Caves.,,,,5,Master,NaN,,See TzHaar Fight Cave#Combat Achievements See TzHaar Fight Cave#Combat Achievements
+,1565,"Defeat 6,6,6 Unbound Jal-tok Jad",Defeat 18 Unbound JalTok-Jad's in the infinite Jad challenge.,,,,5,Master,NaN,,
+,1566,Equip a Pirate Hook,Equip a Pirate Hook from Brimhaven Agility Arena.,,,,5,Master,0.1,,
+,1567,Equip an Infernal Cape,Equip an infernal cape. This task earns one Demonic Pact.,,,,5,Master,NaN,,Completion of   The Inferno
+,1568,Complete the Inferno 15 Times,Complete the Inferno in Mor Ul Rek 15 times.,,,,5,Master,NaN,,
+,1569,Complete Tzhaar-Ket-Rak's Special challenge,Complete Tzhaar-Ket-Rak's league-only challenge. This task earns one Demonic Pact.,,,,5,Master,NaN,,Fire cape
+,1570,Godwars Dungeon Combat Achievements,"Complete all of the Combat Achievements for Godwars Dungeon bosses, including Nex.",,,,5,Master,NaN,,"See General Graardor#Combat Achievements, Kree'arra#Combat Achievements, Commander Zilyana#Combat Achievements, K'ril Tsutsaroth#Combat Achievements and Nex#Combat Achievements See General Graardor#Combat Achievements, Kree'arra#Combat Achievements, Commander Zilyana#Combat Achievements, K'ril Tsutsaroth#Combat Achievements and Nex#Combat Achievements"
+,1571,Defeat Nex Solo,Defeat Nex in a private instance without help from any other player. This task earns one Demonic Pact.,,,,5,Master,NaN,,
+,1572,Equip Every Godsword,Equip all five Godswords.,,,,5,Master,NaN,ATTACK 75; AGILITY 70; HITPOINTS 70; RANGED 70; STRENGTH 70,"75 Attack,  70 Agility,  70 Hitpoints,  70 Ranged,  70 Strength Completion of   The Frozen Door"
+,1573,Equip all of the Cerberus Boots,"Equip some Primordial Boots, some Pegasian Boots and some Eternal Boots, or Avernic treads (max).",,,,5,Master,NaN,SLAYER 91; DEFENCE 75; RANGED 75; MAGIC 75; STRENGTH 75,"91 Slayer,  75 Defence,  75 Ranged,  75 Magic,  75 Strength"
+,1574,Tombs of Amascut Combat Achievements,"Complete all of the Combat Achievements for Tombs of Amascut: Entry, Normal and Expert.",,,,5,Master,NaN,,See Tombs of Amascut#Combat Achievements See Tombs of Amascut#Combat Achievements
+,1575,Equip a Full Infinity Robe Set,Equip a full set of Infinity robes.,,,,5,Master,NaN,MAGIC 50; DEFENCE 25,"50 Magic,  25 Defence"
+,1576,Equip a full set of Masori,"Equip Masori Mask, Body and chaps.",,,,5,Master,NaN,RANGED 80; DEFENCE 30,"80 Ranged,  30 Defence Completion of   Beneath Cursed Sands"
+,1577,Equip the Osmumten's Fang (or),Equip the Osmumten's fang (or). This task earns one Demonic Pact.,,,,5,Master,NaN,ATTACK 82,82 Attack Completion of   Beneath Cursed Sands
+,1578,Create the Saturated Heart,Create the Saturated Heart.,,,,5,Master,NaN,SLAYER 5,5 Slayer Unlocked Bigger and Badder
+,1579,Equip Every Completed God Book,Equip every completed God book.,,,,5,Master,NaN,,
+,1580,Enhance a Trident of the Seas,Enhance a Trident of the Seas.,,,,5,Master,NaN,SLAYER 87,87 Slayer
+,1581,Equip a Dragon Full Helm,Equip a Dragon Full Helm.,,,,5,Master,NaN,DEFENCE 60,60 Defence
+,1582,Equip All Zenyte Jewelry,Equip every piece of Zenyte Jewelry.,,,,5,Master,NaN,CRAFTING 98,98 Crafting
+,1583,Chambers of Xeric Combat Achievements,Complete all of the Combat Achievements for Chambers of Xeric: Normal mode and Challenge mode.,,,,5,Master,NaN,,See Chambers of Xeric#Combat Achievements See Chambers of Xeric#Combat Achievements
+,1584,Theatre of Blood Combat Achievements,"Complete all of the Combat Achievements for Theatre of Blood: Entry, Normal and Hard mode.",,,,5,Master,NaN,,
+,1585,Equip a Full Inquisitor's Set,Equip a full set of Inquisitor's Armour.,,,,5,Master,NaN,STRENGTH 70; DEFENCE 30,"70 Strength,  30 Defence"
+,1586,Equip a Full Justiciar Set,Equip a full set of Justiciar Armour.,,,,5,Master,NaN,DEFENCE 75,75 Defence
+,1587,Equip a Corrupted Weapon,Equip a corrupted Blade of Saeldor or corrupted Bow of Faerdhinen. This task earns one Demonic Pact.,,,,5,Master,NaN,ATTACK 80; RANGED 80; AGILITY 70,80 Attack or  80 Ranged and  70 Agility
+,1588,Equip a Crystal Crown,Equip a Crystal Crown.,,,,5,Master,NaN,,
+,1589,Obtain Every Revenant Weapon,"Obtain Craws Bow, Viggora's Chainmace and Thammaron's Sceptre as drops from Revenants.",,,,5,Master,NaN,,
+,1590,Equip a Spectral or Arcane Spirit Shield,Equip either a Spectral Spirit Shield or an Arcane Spirit Shield.,,,,5,Master,NaN,DEFENCE 45; PRAYER 55,"45 Defence,  55 Prayer"
+,1591,Equip an Elysian Spirit Shield,Equip an Elysian Spirit Shield.,,,,5,Master,NaN,DEFENCE 75; PRAYER 85; PRAYER 90; SMITHING 85,"75 Defence,  85 Prayer, either  Asgarnia✓ for access to Abbot Langley or  90 Prayer and  85 Smithing to craft it"

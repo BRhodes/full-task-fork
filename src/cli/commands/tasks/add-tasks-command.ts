@@ -48,6 +48,14 @@ export function addTasksCommand(commandName: string, program: RootCommand): void
       await command.handleGenerateFullTasks(taskTypeName);
     });
 
+  const generateWiki = new Command('generate-wiki')
+    .description('Generates task JSON purely from wiki data (no game cache required)')
+    .argument('[task-type-name]', 'task type name (e.g., LEAGUE_6). If omitted, auto-detects active league from leagues.json.')
+    .action(async (taskTypeName?: string) => {
+      const command: TasksCommand = await getCommandInstance(TasksCommand, TasksCommandModule);
+      await command.handleGenerateWikiOnly(taskTypeName);
+    });
+
   const updateWiki = new Command('update-wiki')
     .description('Re-scrapes wiki data (completion %, skills, notes) and updates existing full.json without re-extracting from cache')
     .argument('[task-type-name]', 'task type name (e.g., LEAGUE_5). If omitted, auto-detects active league from leagues.json.')
@@ -64,5 +72,6 @@ export function addTasksCommand(commandName: string, program: RootCommand): void
     .addCommand(extract)
     .addCommand(generateFrontendTasks)
     .addCommand(generateFull)
+    .addCommand(generateWiki)
     .addCommand(updateWiki);
 }

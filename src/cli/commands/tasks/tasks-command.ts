@@ -1,6 +1,7 @@
 import { ParamID, Struct } from '@abextm/cache2';
 import { Injectable } from '@nestjs/common';
 import axios from 'axios';
+import * as cheerio from 'cheerio';
 import { writeFileSync, mkdirSync, readFileSync, existsSync } from 'fs';
 import * as path from 'path';
 import { StructService } from '../../../core/services/struct/struct.service';
@@ -536,6 +537,124 @@ export class TasksCommand {
     });
 
     return [headers.join(','), ...rows].join('\n') + '\n';
+  }
+
+  /**
+   * Generates task JSON purely from wiki data, without requiring game cache.
+   * Useful when the game cache doesn't have the league's tasks yet but the wiki does.
+   */
+  public async handleGenerateWikiOnly(taskTypeName: string | undefined): Promise<void> {
+    // 0. Resolve task type name
+    if (!taskTypeName) {
+      const activeLeague = this.findActiveLeague();
+      if (!activeLeague) {
+        throw new Error('No active league found in leagues.json. Provide a task type name explicitly.');
+      }
+      taskTypeName = activeLeague.taskTypeName;
+      console.log(`Auto-detected active league: ${activeLeague.name} (${taskTypeName})`);
+    }
+
+    // 1. Get wiki config
+    const wikiConfig = this.getWikiConfig(taskTypeName);
+    if (!wikiConfig) {
+      throw new Error(`No wiki config found for "${taskTypeName}". Ensure it has a wikiUrl in leagues.json.`);
+    }
+
+    // 2. Scrape wiki with name + description
+    console.log(`Scraping wiki from ${wikiConfig.url}...`);
+    const wikiData = await this.wikiService.extractWikiData(
+      wikiConfig.url,
+      wikiConfig.taskIdAttribute,
+      wikiConfig.columns,
+      true, // includeNameDescription
+    );
+    console.log(`Scraped ${wikiData.length} tasks from wiki`);
+
+    if (wikiData.length === 0) {
+      throw new Error('No tasks found on wiki page. Check the URL and table structure.');
+    }
+
+    // 3. Extract area and points from the wiki page (columns not covered by extractWikiData)
+    const areaAndPoints = await this.scrapeWikiAreaAndPoints(wikiConfig.url, wikiConfig.taskIdAttribute, wikiConfig.columns);
+
+    // 4. Build ITaskFull objects from wiki data
+    const tierPointsMap: Record<number, string> = { 10: 'Easy', 40: 'Medium', 80: 'Hard', 200: 'Elite', 400: 'Master' };
+
+    const fullTasks: ITaskFull[] = wikiData.map((wd, index) => {
+      const extra = areaAndPoints.get(wd.varbitIndex);
+      const points = extra?.points ?? null;
+      const tier = points != null ? (Object.keys(tierPointsMap).map(Number).find((p) => p === points) ? null : null) : null;
+      const tierName = points != null ? (tierPointsMap[points] ?? null) : null;
+      // Derive tier number from tierName
+      const tierNames = ['Easy', 'Medium', 'Hard', 'Elite', 'Master'];
+      const tierNumber = tierName ? tierNames.indexOf(tierName) + 1 : null;
+
+      return {
+        structId: null,
+        sortId: index,
+        name: wd.name ?? `Unknown (varbit ${wd.varbitIndex})`,
+        description: wd.description ?? '',
+        area: extra?.area ?? null,
+        category: null,
+        skill: null,
+        tier: tierNumber,
+        tierName: tierName,
+        completionPercent: wd.completionPercent,
+        skills: wd.skills,
+        wikiNotes: wd.notes,
+      };
+    });
+
+    // 5. Write output files
+    const leagueMatch = this.findLeagueByTaskType(taskTypeName);
+    const outputDir = leagueMatch ? leagueMatch.dir : './generated';
+    mkdirSync(outputDir, { recursive: true });
+
+    const fullFileName = `${taskTypeName}.full.json`;
+    const csvFileName = `${taskTypeName}.csv`;
+
+    writeFileSync(path.join(outputDir, fullFileName), JSON.stringify(fullTasks, null, 2));
+    console.log(`Wrote ${fullTasks.length} wiki-sourced tasks to ${path.join(outputDir, fullFileName)}`);
+
+    writeFileSync(path.join(outputDir, csvFileName), this.tasksToCsv(fullTasks));
+    console.log(`Wrote ${fullTasks.length} tasks to ${path.join(outputDir, csvFileName)}`);
+
+    if (leagueMatch) {
+      this.updateLeague(taskTypeName, { taskCount: fullTasks.length, taskFile: fullFileName });
+      console.log(`Updated leagues.json for ${taskTypeName}`);
+    }
+  }
+
+  /**
+   * Scrapes area (column 0) and points (column 4) from the wiki task table.
+   * Returns a map of varbitIndex -> { area, points }.
+   */
+  private async scrapeWikiAreaAndPoints(
+    wikiUrl: string,
+    taskIdAttribute: string,
+    columnDefinitions: any,
+  ): Promise<Map<number, { area: string; points: number }>> {
+    const response = await axios.get(wikiUrl);
+    const $ = cheerio.load(response.data);
+    const result = new Map<number, { area: string; points: number }>();
+
+    $(`tr[${taskIdAttribute}]`).each((_idx, element) => {
+      const row = $(element);
+      const cells = row.find('td');
+      const varbitIndex = Number.parseInt(row.attr(taskIdAttribute));
+
+      // Area is column 0 (before name)
+      const areaCell = cells[0];
+      const area = $(areaCell).text().trim() || null;
+
+      // Points column
+      const pointsCell = cells[columnDefinitions.pointsColumnId];
+      const points = Number.parseInt($(pointsCell).text().trim()) || null;
+
+      result.set(varbitIndex, { area, points });
+    });
+
+    return result;
   }
 
   public async handleUpdateVarps(options: any): Promise<ITaskType> {
