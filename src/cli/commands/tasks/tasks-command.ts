@@ -578,27 +578,25 @@ export class TasksCommand {
     const areaAndPoints = await this.scrapeWikiAreaAndPoints(wikiConfig.url, wikiConfig.taskIdAttribute, wikiConfig.columns);
 
     // 4. Build ITaskFull objects from wiki data
-    const tierPointsMap: Record<number, string> = { 10: 'Easy', 40: 'Medium', 80: 'Hard', 200: 'Elite', 400: 'Master' };
+    const tierNameToNumber: Record<string, number> = { easy: 1, medium: 2, hard: 3, elite: 4, master: 5 };
 
     const fullTasks: ITaskFull[] = wikiData.map((wd, index) => {
       const extra = areaAndPoints.get(wd.varbitIndex);
-      const points = extra?.points ?? null;
-      const tier = points != null ? (Object.keys(tierPointsMap).map(Number).find((p) => p === points) ? null : null) : null;
-      const tierName = points != null ? (tierPointsMap[points] ?? null) : null;
-      // Derive tier number from tierName
-      const tierNames = ['Easy', 'Medium', 'Hard', 'Elite', 'Master'];
-      const tierNumber = tierName ? tierNames.indexOf(tierName) + 1 : null;
+      const rawTier = extra?.tier?.toLowerCase() ?? null;
+      const tierNumber = rawTier ? (tierNameToNumber[rawTier] ?? null) : null;
+      const tierName = rawTier ? rawTier.charAt(0).toUpperCase() + rawTier.slice(1) : null;
+      const area = extra?.area ? extra.area.charAt(0).toUpperCase() + extra.area.slice(1) : null;
 
       return {
         structId: null,
         sortId: index,
         name: wd.name ?? `Unknown (varbit ${wd.varbitIndex})`,
         description: wd.description ?? '',
-        area: extra?.area ?? null,
+        area,
         category: null,
         skill: null,
         tier: tierNumber,
-        tierName: tierName,
+        tierName,
         completionPercent: wd.completionPercent,
         skills: wd.skills,
         wikiNotes: wd.notes,
@@ -626,32 +624,32 @@ export class TasksCommand {
   }
 
   /**
-   * Scrapes area (column 0) and points (column 4) from the wiki task table.
-   * Returns a map of varbitIndex -> { area, points }.
+   * Scrapes area, tier, and points from the wiki task table using data attributes on the tr element.
+   * Returns a map of varbitIndex -> { area, tier, tierName, points }.
    */
   private async scrapeWikiAreaAndPoints(
     wikiUrl: string,
     taskIdAttribute: string,
     columnDefinitions: any,
-  ): Promise<Map<number, { area: string; points: number }>> {
+  ): Promise<Map<number, { area: string; tier: string; points: number }>> {
     const response = await axios.get(wikiUrl);
     const $ = cheerio.load(response.data);
-    const result = new Map<number, { area: string; points: number }>();
+    const result = new Map<number, { area: string; tier: string; points: number }>();
 
     $(`tr[${taskIdAttribute}]`).each((_idx, element) => {
       const row = $(element);
-      const cells = row.find('td');
       const varbitIndex = Number.parseInt(row.attr(taskIdAttribute));
 
-      // Area is column 0 (before name)
-      const areaCell = cells[0];
-      const area = $(areaCell).text().trim() || null;
+      // Read data attributes from the tr element
+      const area = row.attr('data-league-area-for-filtering') || null;
+      const tier = row.attr('data-league-tier') || null;
+      const pointsStr = row.attr('data-league-points');
+      const points = pointsStr ? Number.parseInt(pointsStr) : null;
 
-      // Points column
-      const pointsCell = cells[columnDefinitions.pointsColumnId];
-      const points = Number.parseInt($(pointsCell).text().trim()) || null;
+      // Fallback: try area from data-sort-value on first cell
+      const areaFromCell = area || $(row.find('td').first()).attr('data-sort-value') || null;
 
-      result.set(varbitIndex, { area, points });
+      result.set(varbitIndex, { area: areaFromCell, tier, points });
     });
 
     return result;
